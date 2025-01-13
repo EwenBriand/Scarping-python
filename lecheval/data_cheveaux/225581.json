@@ -1,0 +1,48 @@
+{
+    "Nom du cheval": "DJANGO LIVRE",
+    "info_cheval": {
+        "Sexe/Age :": "M6",
+        "Robe :": "",
+        "Père :": "SHIROCCO",
+        "Mère :": "OFFSHORE**",
+        "Père de Mère :": "VETTORI",
+        "Propriétaire :": "ESCONDIDO",
+        "Entraineur :": "FELICIANO WALTER CABRERA"
+    },
+    "Palmares": {
+        "Gains :": "142456â¬",
+        "Perf. :": "2p5p6p6p3p",
+        "Course(s) :": "32",
+        "Victoire(s) :": "3",
+        "PlacÃ©(s) :": "14"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "4Ã¨me",
+            "Date": "06/05/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-05-06/maronas/169559_premio-betnal-2008.html"
+        },
+        {
+            "Place": "5Ã¨me",
+            "Date": "07/05/2017",
+            "course information": "https://www.canalturf.com/resultats-PMU/2017-05-07/maronas/152268_premio-betnal.html"
+        },
+        {
+            "Place": "3Ã¨me",
+            "Date": "26/03/2017",
+            "course information": "https://www.canalturf.com/resultats-PMU/2017-03-26/maronas/150198_octavia-2005.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "2",
+            "Pourcentage": "66.67%"
+        },
+        {
+            "Place": "3eme",
+            "Nombre de fois": "1",
+            "Pourcentage": "33.33%"
+        }
+    ]
+}

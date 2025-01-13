@@ -1,0 +1,83 @@
+{
+    "Nom du cheval": "DJANGO DE LA PRADE",
+    "info_cheval": {
+        "Sexe/Age :": "H9",
+        "Robe :": "BAI",
+        "Père :": "MAGNIFICENT RODNEY",
+        "Mère :": "MANON DE LA PRADE",
+        "Père de Mère :": "",
+        "Propriétaire :": "M. LECOQ",
+        "Entraineur :": "H. LECOQ"
+    },
+    "Palmares": {
+        "Gains :": "60350â¬",
+        "Perf. :": "0a9a(21)0a2a6aDa2a4a2a",
+        "Course(s) :": "57",
+        "Victoire(s) :": "8",
+        "PlacÃ©(s) :": "27"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "3Ã¨me",
+            "Date": "01/03/2022",
+            "course information": "https://www.canalturf.com/resultats-PMU/2022-03-01/pontchateau/267306_prix-hidalgo-du-gue.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "20/02/2022",
+            "course information": "https://www.canalturf.com/resultats-PMU/2022-02-20/pontchateau/266581_prix-flambeau-des-pins.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "16/01/2022",
+            "course information": "https://www.canalturf.com/resultats-PMU/2022-01-16/cordemais/263524_prix-des-amateurs-ouest-anjou-maine.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "12/12/2021",
+            "course information": "https://www.canalturf.com/resultats-PMU/2021-12-12/laval/260707_prix-monbana.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "26/09/2021",
+            "course information": "https://www.canalturf.com/resultats-PMU/2021-09-26/cholet/254019_prix-des-amateurs.html"
+        },
+        {
+            "Place": "2Ã¨me",
+            "Date": "17/09/2021",
+            "course information": "https://www.canalturf.com/resultats-PMU/2021-09-17/pornichet/253212_prix-de-l-unat.html"
+        },
+        {
+            "Place": "2Ã¨me",
+            "Date": "24/06/2021",
+            "course information": "https://www.canalturf.com/resultats-PMU/2021-06-24/mauquenchy/245695_prix-pmu-le-jean-bart.html"
+        },
+        {
+            "Place": "3Ã¨me",
+            "Date": "09/06/2021",
+            "course information": "https://www.canalturf.com/resultats-PMU/2021-06-09/laval/244347_prix-pierre-seche.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "13",
+            "Pourcentage": "56.52%"
+        },
+        {
+            "Place": "1er",
+            "Nombre de fois": "3",
+            "Pourcentage": "13.04%"
+        },
+        {
+            "Place": "2eme",
+            "Nombre de fois": "3",
+            "Pourcentage": "13.04%"
+        },
+        {
+            "Place": "3eme",
+            "Nombre de fois": "4",
+            "Pourcentage": "17.39%"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Nom du cheval": "DJANGO DE MONGOCHY",
+    "info_cheval": {
+        "Sexe/Age :": "H9",
+        "Robe :": "ALEZAN",
+        "Père :": "RANCHO GEDE",
+        "Mère :": "ODYSSEE LEADER",
+        "Père de Mère :": "",
+        "Propriétaire :": "D. DROUILLY",
+        "Entraineur :": "G. TOURON"
+    },
+    "Palmares": {
+        "Gains :": "90780â¬",
+        "Perf. :": "DaDa(21)0aDaDaDa0a(20)0a",
+        "Course(s) :": "75",
+        "Victoire(s) :": "4",
+        "PlacÃ©(s) :": "17"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "N-Pl",
+            "Date": "16/11/2022",
+            "course information": "https://www.canalturf.com/resultats-PMU/2022-11-16/marseille-borely/290755_prix-de-caromb.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "24/10/2021",
+            "course information": "https://www.canalturf.com/resultats-PMU/2021-10-24/lyon-parilly/256453_prix-des-landes.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "26/07/2021",
+            "course information": "https://www.canalturf.com/resultats-PMU/2021-07-26/aix-les-bains/248605_prix-du-dauphine.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "02/05/2021",
+            "course information": "https://www.canalturf.com/resultats-PMU/2021-05-02/lyon-parilly/240883_prix-du-loiret.html"
+        },
+        {
+            "Place": "11Ã¨me",
+            "Date": "13/08/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-08-13/cagnes-sur-mer/217206_prix-des-geais.html"
+        },
+        {
+            "Place": "9Ã¨me",
+            "Date": "25/07/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-07-25/cagnes-sur-mer/215573_prix-de-trastevere.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "21/07/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-07-21/cagnes-sur-mer/215267_prix-lucky-marceaux.html"
+        },
+        {
+            "Place": "9Ã¨me",
+            "Date": "13/07/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-07-13/hyeres/214571_prix-de-gareoult.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "60",
+            "Pourcentage": "88.24%"
+        },
+        {
+            "Place": "1er",
+            "Nombre de fois": "4",
+            "Pourcentage": "5.88%"
+        },
+        {
+            "Place": "2eme",
+            "Nombre de fois": "3",
+            "Pourcentage": "4.41%"
+        },
+        {
+            "Place": "3eme",
+            "Nombre de fois": "1",
+            "Pourcentage": "1.47%"
+        }
+    ]
+}

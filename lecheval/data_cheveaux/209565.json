@@ -1,0 +1,68 @@
+{
+    "Nom du cheval": "DJANGO BELLO",
+    "info_cheval": {
+        "Sexe/Age :": "H5",
+        "Robe :": "GRIS",
+        "Père :": "PASSWORD",
+        "Mère :": "JANY WAY",
+        "Père de Mère :": "",
+        "Propriétaire :": "ECURIE CERDEVAL",
+        "Entraineur :": "PJ.FERTILLET"
+    },
+    "Palmares": {
+        "Gains :": "3120â¬",
+        "Perf. :": "Ts2sTs(17)ThAh(16)7h",
+        "Course(s) :": "6",
+        "Victoire(s) :": "0",
+        "PlacÃ©(s) :": "1"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "N-Pl",
+            "Date": "11/03/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-03-11/saint-brieuc/166855_prix-d-auteuil.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "25/02/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-02-25/maure-de-bretagne/166241_prix-georges-de-jacquelin.html"
+        },
+        {
+            "Place": "2Ã¨me",
+            "Date": "11/02/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-02-11/maure-de-bretagne/165628_prix-al-capone.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "02/01/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-01-02/cagnes-sur-mer/163779_prix-de-l-auvergne.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "04/12/2017",
+            "course information": "https://www.canalturf.com/resultats-PMU/2017-12-04/cagnes-sur-mer/162552_prix-alvarado.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "17/11/2017",
+            "course information": "https://www.canalturf.com/resultats-PMU/2017-11-17/nantes/161662_prix-roger-chaignon.html"
+        },
+        {
+            "Place": "7Ã¨me",
+            "Date": "28/05/2016",
+            "course information": "https://www.canalturf.com/resultats-PMU/2016-05-28/chateaubriant/136209_prix-de-l-ouest.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "6",
+            "Pourcentage": "85.71%"
+        },
+        {
+            "Place": "2eme",
+            "Nombre de fois": "1",
+            "Pourcentage": "14.29%"
+        }
+    ]
+}

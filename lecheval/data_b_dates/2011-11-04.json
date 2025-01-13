@@ -1,0 +1,914 @@
+{
+    "courses": [
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2011-11-04/enghien/65733_prix-bucheur.html",
+                "https://www.canalturf.com/resultats-PMU/2011-11-04/enghien/65733_prix-bucheur.html"
+            ],
+            "prix": "60000",
+            "distance": "3800m",
+            "type_de_course": "HAIES",
+            "lieux": "1",
+            "heure": " 13:20 ",
+            "nom_de_la_course": "PRIX BUCHEUR",
+            "date": "2011-11-04",
+            "nb_participants": 8,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "OZAMO (H9)",
+                    "Jockey": "A.LECORDIER",
+                    "Entraineur": "PH.PELTIER",
+                    "Poids": "68.0 kg",
+                    "Val.": "-",
+                    "Matin": "5.7",
+                    "": "--",
+                    "Pmu.fr": "4.4"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "SCHEIBENHARD (H11)",
+                    "Jockey": "S.DEHEZ",
+                    "Entraineur": "JL.GUILLOCHON",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "19",
+                    "": "--",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "TALI DES OBEAUX (F5)",
+                    "Jockey": "J.RICOU",
+                    "Entraineur": "MACAIRE (S)",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "1.7",
+                    "": "--",
+                    "Pmu.fr": "1.9"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "FLAGSTAFF (H8)",
+                    "Jockey": "C.PIEUX",
+                    "Entraineur": "P.QUINTON (S)",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "--",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "NINIVE (F7)",
+                    "Jockey": "G.OLIVIER",
+                    "Entraineur": "F.NICOLLE",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "--",
+                    "Pmu.fr": "7.9"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "PERCY (H6)",
+                    "Jockey": "D.COTTIN",
+                    "Entraineur": "MME S.LEECH",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "23",
+                    "": "--",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "TAPIOCA (H10)",
+                    "Jockey": "E.CHAZELLE",
+                    "Entraineur": "J.FOLLAIN",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "30",
+                    "": "--",
+                    "Pmu.fr": "55"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "LA COURTILLE (F6)",
+                    "Jockey": "A.CHITRAY",
+                    "Entraineur": "T. TRAPENARD",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "9.6",
+                    "": "--",
+                    "Pmu.fr": "12"
+                }
+            ],
+            "nb_participants_partants": 8,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=80510",
+                    "Cheval": "OZAMO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=308&date=2011-11-04",
+                    "Jockey": "A.LECORDIER",
+                    "Cote": "4.4",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=93240",
+                    "Cheval": "TALI DES OBEAUX",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=101&date=2011-11-04",
+                    "Jockey": "J.RICOU",
+                    "Cote": "1.9",
+                    "Ecart": "3 L 1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=104055",
+                    "Cheval": "NINIVE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=990&date=2011-11-04",
+                    "Jockey": "G.OLIVIER",
+                    "Cote": "7.9",
+                    "Ecart": "2 L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=92183",
+                    "Cheval": "SCHEIBENHARD",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=661&date=2011-11-04",
+                    "Jockey": "S.DEHEZ",
+                    "Cote": "15",
+                    "Ecart": "8 L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=79468",
+                    "Cheval": "LA COURTILLE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=4100&date=2011-11-04",
+                    "Jockey": "A.CHITRAY",
+                    "Cote": "12",
+                    "Ecart": "2 L 1/2"
+                },
+                {
+                    "Place": "6ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=104490",
+                    "Cheval": "TAPIOCA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=97&date=2011-11-04",
+                    "Jockey": "E.CHAZELLE",
+                    "Cote": "55",
+                    "Ecart": "3 L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2011-11-04/enghien/65734_prix-agenois.html",
+                "https://www.canalturf.com/resultats-PMU/2011-11-04/enghien/65734_prix-agenois.html"
+            ],
+            "prix": "52000",
+            "distance": "3400m",
+            "type_de_course": "STEEPLE CHASE",
+            "lieux": "2",
+            "heure": " 13:53 ",
+            "nom_de_la_course": "PRIX AGENOIS",
+            "date": "2011-11-04",
+            "nb_participants": 12,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "LESS CRAZY (F4)",
+                    "Jockey": "J.RICOU",
+                    "Entraineur": "G. MACAIRE",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "4.6",
+                    "": "--",
+                    "Pmu.fr": "4.1"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "ZARINKA (F5)",
+                    "Jockey": "L.SOLIGNAC",
+                    "Entraineur": "M. BELTRAN",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "22",
+                    "": "--",
+                    "Pmu.fr": "33"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "ZELENKA (F5)",
+                    "Jockey": "SM.LAURENT",
+                    "Entraineur": "A. LEFEUVRE",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "28",
+                    "": "--",
+                    "Pmu.fr": "47"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "UNE FOIS DE SIVOLA (F4)",
+                    "Jockey": "RL.O'BRIEN",
+                    "Entraineur": "R.CHOTARD",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "6.6",
+                    "": "--",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "WORLDETA (F5)",
+                    "Jockey": "E.CHAZELLE",
+                    "Entraineur": "JOLLIVET (S)",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "--",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "PISTOL GIRL (F4)",
+                    "Jockey": "S.DEHEZ",
+                    "Entraineur": "B.LEFEVRE",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "16",
+                    "": "--",
+                    "Pmu.fr": "25"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "RUE MONTORGUEIL (F4)",
+                    "Jockey": "A.LECORDIER",
+                    "Entraineur": "D.WINDRIF",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "33",
+                    "": "--",
+                    "Pmu.fr": "77"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "KHAYANCE (F6)",
+                    "Jockey": "J.DA SILVA",
+                    "Entraineur": "C.SCANDELLA",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "5.4",
+                    "": "--",
+                    "Pmu.fr": "2.6"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "KRYPTONIE (F4)",
+                    "Jockey": "A.CARDINE",
+                    "Entraineur": "J.PLANQUE",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "--",
+                    "Pmu.fr": "16"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "GOLD ZIGA (F4)",
+                    "Jockey": "C.GOMBEAU",
+                    "Entraineur": "CHEREL G.",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "--",
+                    "Pmu.fr": "7.3"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "GASPATIR (F5)",
+                    "Jockey": "A.CHITRAY",
+                    "Entraineur": "MME F.GIMMI PELLEGRINO",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "6.6",
+                    "": "--",
+                    "Pmu.fr": "9.9"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "MARINA DO BRASIL (F/3)",
+                    "Jockey": ""
+                }
+            ],
+            "nb_participants_partants": 12,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=97069",
+                    "Cheval": "KHAYANCE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=338&date=2011-11-04",
+                    "Jockey": "J.DA SILVA",
+                    "Cote": "2.6",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=97598",
+                    "Cheval": "ZARINKA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=511&date=2011-11-04",
+                    "Jockey": "L.SOLIGNAC",
+                    "Cote": "33",
+                    "Ecart": "2 L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "11",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=96439",
+                    "Cheval": "GASPATIR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=4100&date=2011-11-04",
+                    "Jockey": "A.CHITRAY",
+                    "Cote": "9.9",
+                    "Ecart": "3/4 L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=96460",
+                    "Cheval": "ZELENKA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6915&date=2011-11-04",
+                    "Jockey": "SM.LAURENT",
+                    "Cote": "47",
+                    "Ecart": "NEZ"
+                },
+                {
+                    "Place": "5ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=98051",
+                    "Cheval": "GOLD ZIGA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=320&date=2011-11-04",
+                    "Jockey": "C.GOMBEAU",
+                    "Cote": "7.3",
+                    "Ecart": "1 L 1/4"
+                },
+                {
+                    "Place": "6ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=97068",
+                    "Cheval": "PISTOL GIRL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=661&date=2011-11-04",
+                    "Jockey": "S.DEHEZ",
+                    "Cote": "25",
+                    "Ecart": "4 L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=107292",
+                    "Cheval": "RUE MONTORGUEIL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=308&date=2011-11-04",
+                    "Jockey": "A.LECORDIER",
+                    "Cote": "77",
+                    "Ecart": "CTE TETE"
+                },
+                {
+                    "Place": "8ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=100062",
+                    "Cheval": "KRYPTONIE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=657&date=2011-11-04",
+                    "Jockey": "A.CARDINE",
+                    "Cote": "16",
+                    "Ecart": "CTE ENC."
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2011-11-04/enghien/65735_prix-la-turbie.html",
+                "https://www.canalturf.com/resultats-PMU/2011-11-04/enghien/65735_prix-la-turbie.html"
+            ],
+            "prix": "22000",
+            "distance": "3500m",
+            "type_de_course": "HAIES",
+            "lieux": "3",
+            "heure": " 14:23 ",
+            "nom_de_la_course": "PRIX LA TURBIE",
+            "date": "2011-11-04",
+            "nb_participants": 18,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "LABEL TERCAH (H8)",
+                    "Jockey": "R.HOUCHARD",
+                    "Entraineur": "L.VIEL (S)",
+                    "Poids": "69.0 kg",
+                    "Val.": "-",
+                    "Matin": "26",
+                    "": "--",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "KHALINI (H5)",
+                    "Jockey": "A.CARDINE",
+                    "Entraineur": "J.CLAIS",
+                    "Poids": "69.0 kg",
+                    "Val.": "-",
+                    "Matin": "34",
+                    "": "--",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "GALAXY LOVE (H4)",
+                    "Jockey": "B.DULONG",
+                    "Entraineur": "COLLET (S)",
+                    "Poids": "69.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "--",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "CRESPO CRISPADO (H4)",
+                    "Jockey": "B.CLAUDIC",
+                    "Entraineur": "P.LENOGUE",
+                    "Poids": "69.0 kg",
+                    "Val.": "-",
+                    "Matin": "8.6",
+                    "": "--",
+                    "Pmu.fr": "4"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "LAVIROI (H5)",
+                    "Jockey": "B.PORIER",
+                    "Entraineur": "T. TRAPENARD",
+                    "Poids": "69.0 kg",
+                    "Val.": "-",
+                    "Matin": "24",
+                    "": "--",
+                    "Pmu.fr": "36"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "SUMMER TANGO (H6)",
+                    "Jockey": "RL.O'BRIEN",
+                    "Entraineur": "X.-L. LE STANG",
+                    "Poids": "69.0 kg",
+                    "Val.": "-",
+                    "Matin": "11",
+                    "": "--",
+                    "Pmu.fr": "20"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "URIEL DE CHERY (H4)",
+                    "Jockey": "A.CHITRAY",
+                    "Entraineur": "T. TRAPENARD",
+                    "Poids": "69.0 kg",
+                    "Val.": "-",
+                    "Matin": "24",
+                    "": "--",
+                    "Pmu.fr": "50"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "TANGO CHOP (H9)",
+                    "Jockey": "B.BOUREZ",
+                    "Entraineur": "H.BILLOT (S)",
+                    "Poids": "68.0 kg",
+                    "Val.": "-",
+                    "Matin": "62",
+                    "": "--",
+                    "Pmu.fr": "61"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "PULL MARINE (H10)",
+                    "Jockey": "F.PANICUCCI",
+                    "Entraineur": "P.LENOGUE",
+                    "Poids": "68.0 kg",
+                    "Val.": "-",
+                    "Matin": "15",
+                    "": "--",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "LE QUERCY (H/3)",
+                    "Jockey": "MA.BILLARD",
+                    "Entraineur": "BERTRAN DE BALANDA (S)",
+                    "Poids": "68.0 kg",
+                    "Val.": "-",
+                    "Matin": "41",
+                    "": "--",
+                    "Pmu.fr": "71"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "UN CHENE (H4)",
+                    "Jockey": "V.DEVILLARS",
+                    "Entraineur": "H. BILLOT",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "36",
+                    "": "--",
+                    "Pmu.fr": "54"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "UNESLO (H4)",
+                    "Jockey": "F.ROUSSEAU",
+                    "Entraineur": "T. CIVEL",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "48",
+                    "": "--",
+                    "Pmu.fr": "124"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "SERIUS GAME (H5)",
+                    "Jockey": "G.MASURE",
+                    "Entraineur": "D.WINDRIF",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "3.7",
+                    "": "--",
+                    "Pmu.fr": "3.1"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "RODGER (H5)",
+                    "Jockey": "D.COTTIN",
+                    "Entraineur": "F.-M. COTTIN",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "--",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "LUXSON DES SOURCES (H4)",
+                    "Jockey": "L.THOMAS",
+                    "Entraineur": "C. SCHIFF",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "30",
+                    "": "--",
+                    "Pmu.fr": "68"
+                },
+                {
+                    "nÂ°": "16",
+                    "Cheval": "KALA GOLD (H/3)",
+                    "Jockey": "B.CHAMERAUD",
+                    "Entraineur": "N.MILLIERE",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "--",
+                    "Pmu.fr": "36"
+                },
+                {
+                    "nÂ°": "17",
+                    "Cheval": "WILL OF DREAM (H6)",
+                    "Jockey": "F.DITTA",
+                    "Entraineur": "R.LE GAL",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "8.4",
+                    "": "--",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "18",
+                    "Cheval": "VOL PEPITO (H/3)",
+                    "Jockey": "G.FABRE",
+                    "Entraineur": "MME L.AUDON",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "28",
+                    "": "--",
+                    "Pmu.fr": "37"
+                }
+            ],
+            "nb_participants_partants": 18,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "17",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=109870",
+                    "Cheval": "WILL OF DREAM",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1192&date=2011-11-04",
+                    "Jockey": "F.DITTA",
+                    "Cote": "13",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=101744",
+                    "Cheval": "CRESPO CRISPADO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=669&date=2011-11-04",
+                    "Jockey": "B.CLAUDIC",
+                    "Cote": "4",
+                    "Ecart": "5 L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "14",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=106716",
+                    "Cheval": "RODGER",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=96&date=2011-11-04",
+                    "Jockey": "D.COTTIN",
+                    "Cote": "22",
+                    "Ecart": "1 L 1/4"
+                },
+                {
+                    "Place": "4ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=97483",
+                    "Cheval": "GALAXY LOVE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=329&date=2011-11-04",
+                    "Jockey": "B.DULONG",
+                    "Cote": "10",
+                    "Ecart": "10 L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "13",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=98289",
+                    "Cheval": "SERIUS GAME",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=244&date=2011-11-04",
+                    "Jockey": "G.MASURE",
+                    "Cote": "3.1",
+                    "Ecart": "7 L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=109352",
+                    "Cheval": "TANGO CHOP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2339&date=2011-11-04",
+                    "Jockey": "B.BOUREZ",
+                    "Cote": "61",
+                    "Ecart": "3 L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=107507",
+                    "Cheval": "KHALINI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=657&date=2011-11-04",
+                    "Jockey": "A.CARDINE",
+                    "Cote": "26",
+                    "Ecart": "12 L"
+                },
+                {
+                    "Place": "8ème",
+                    "": "15",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=95906",
+                    "Cheval": "LUXSON DES SOURCES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=9476&date=2011-11-04",
+                    "Jockey": "L.THOMAS",
+                    "Cote": "68",
+                    "Ecart": "1/2 L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2011-11-04/enghien/65736_steeple-chase-national-des-anglo-arabes.html",
+                "https://www.canalturf.com/resultats-PMU/2011-11-04/enghien/65736_steeple-chase-national-des-anglo-arabes.html"
+            ],
+            "prix": "50000",
+            "distance": "3800m",
+            "type_de_course": "STEEPLE CHASE",
+            "lieux": "4",
+            "heure": " 14:53 ",
+            "nom_de_la_course": "STEEPLE-CHASE NATIONAL DES ANGLO ARABES",
+            "date": "2011-11-04",
+            "nb_participants": 11,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "PAULIN DE SOURNIAC (H12)",
+                    "Jockey": "J.PLOUGANOU",
+                    "Entraineur": "F.NICOLLE",
+                    "Poids": "72.0 kg",
+                    "Val.": "-",
+                    "Matin": "6.1",
+                    "": "--",
+                    "Pmu.fr": "5.7"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "ROYAL ESTIVAUX (H9)",
+                    "Jockey": "M.MINGANT",
+                    "Entraineur": "T. DE LAURIERE",
+                    "Poids": "71.0 kg",
+                    "Val.": "-",
+                    "Matin": "63",
+                    "": "--",
+                    "Pmu.fr": "25"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "RACKHAM DE BERCE (H8)",
+                    "Jockey": "G.OLIVIER",
+                    "Entraineur": "F.NICOLLE",
+                    "Poids": "71.0 kg",
+                    "Val.": "-",
+                    "Matin": "6.2",
+                    "": "--",
+                    "Pmu.fr": "7.6"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "ORFAN DE ROUMANIE (H8)",
+                    "Jockey": "M.LAMAZOU-LARESSE",
+                    "Entraineur": "T.LAURIERE DE",
+                    "Poids": "70.0 kg",
+                    "Val.": "-",
+                    "Matin": "11",
+                    "": "--",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "RENOIR DE LAGARDE (H10)",
+                    "Jockey": "JB.GONZALEZ SANCHEZ",
+                    "Entraineur": "MME C.JUNG",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "29",
+                    "": "--",
+                    "Pmu.fr": "34"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "MANGANOUR (H/7)",
+                    "Jockey": "N.DESOUTTER",
+                    "Entraineur": "GUILLEMIN (S)",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "3.7",
+                    "": "--",
+                    "Pmu.fr": "4.3"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "NABUCCO DE BREJOUX (H11)",
+                    "Jockey": "M.CARROUX",
+                    "Entraineur": "A.CHAILLE-CHAILLE",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "3.3",
+                    "": "--",
+                    "Pmu.fr": "3.2"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "TITAN DELRO (H12)",
+                    "Jockey": "P.BLOT",
+                    "Entraineur": "PL.ROBERT",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "24",
+                    "": "--",
+                    "Pmu.fr": "53"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "JEBELY TOP (F/7)",
+                    "Jockey": "J.BESNARDIERE",
+                    "Entraineur": "F.LAGARDE",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "59",
+                    "": "--",
+                    "Pmu.fr": "61"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "QUANJALINE D'AYZA (F8)",
+                    "Jockey": "V.CHENET",
+                    "Entraineur": "PRUNET-FOCH MME M.",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "138",
+                    "": "--",
+                    "Pmu.fr": "65"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "PIVOLO (H/10)",
+                    "Jockey": "J.RICOU",
+                    "Entraineur": "MACAIRE (S)",
+                    "Poids": "63.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "--",
+                    "Pmu.fr": "6.8"
+                }
+            ],
+            "nb_participants_partants": 11,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=65930",
+                    "Cheval": "MANGANOUR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2093&date=2011-11-04",
+                    "Jockey": "N.DESOUTTER",
+                    "Cote": "4.3",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=45847",
+                    "Cheval": "NABUCCO DE BREJOUX",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=501&date=2011-11-04",
+                    "Jockey": "M.CARROUX",
+                    "Cote": "3.2",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "3ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=108859",
+                    "Cheval": "RACKHAM DE BERCE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=990&date=2011-11-04",
+                    "Jockey": "G.OLIVIER",
+                    "Cote": "7.6",
+                    "Ecart": "4 L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=65925",
+                    "Cheval": "ROYAL ESTIVAUX",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1576&date=2011-11-04",
+                    "Jockey": "M.MINGANT",
+                    "Cote": "25",
+                    "Ecart": "3 L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=46148",
+                    "Cheval": "PAULIN DE SOURNIAC",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=311&date=2011-11-04",
+                    "Jockey": "J.PLOUGANOU",
+                    "Cote": "5.7",
+                    "Ecart": "2 L 1/2"
+                },
+                {
+                    "Place": "6ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=76591",
+                    "Cheval": "JEBELY TOP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=331&date=2011-11-04",
+                    "Jockey": "J.BESNARDIERE",
+                    "Cote": "61",
+                    "Ecart": "3 L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=90920",
+                    "Cheval": "TITAN DELRO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1578&date=2011-11-04",
+                    "Jockey": "P.BLOT",
+                    "Cote": "53",
+                    "Ecart": "12 L"
+                },
+                {
+                    "Place": "8ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=66414",
+                    "Cheval": "QUANJALINE D'AYZA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=979&date=2011-11-04",
+                    "Jockey": "V.CHENET",
+                    "Cote": "65",
+                    "Ecart": "20 L"
+                }
+            ]
+        }
+    ],
+    "nb_courses": 4
+}

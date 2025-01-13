@@ -1,0 +1,381 @@
+{
+    "courses": [
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2011-11-05/auteuil/65757_111eme-prix-de-france.html",
+                "https://www.canalturf.com/resultats-PMU/2011-11-05/auteuil/65757_111eme-prix-de-france.html"
+            ],
+            "prix": "52000",
+            "distance": "3500m",
+            "type_de_course": "STEEPLE CHASE",
+            "lieux": "1",
+            "heure": " 13:25 ",
+            "nom_de_la_course": "111EME PRIX DE FRANCE",
+            "date": "2011-11-05",
+            "nb_participants": 8,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "LE BAZIN (H/8)",
+                    "Jockey": "B.GUENET",
+                    "Entraineur": "MACAIRE (S)",
+                    "Poids": "71.0 kg",
+                    "Val.": "-",
+                    "Matin": "2.7",
+                    "": "--",
+                    "Pmu.fr": "2.9"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "CIEL BLEU AZUR (H8)",
+                    "Jockey": "MAX .DENUAULT",
+                    "Entraineur": "E.CLAYEUX",
+                    "Poids": "70.0 kg",
+                    "Val.": "-",
+                    "Matin": "5.3",
+                    "": "--",
+                    "Pmu.fr": "4.1"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "RADIUM (H9)",
+                    "Jockey": "JP.BOISGONTIER",
+                    "Entraineur": "E.CLAYEUX",
+                    "Poids": "69.0 kg",
+                    "Val.": "-",
+                    "Matin": "5",
+                    "": "--",
+                    "Pmu.fr": "3.6"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "SUPER DE SIVOLA (H8)",
+                    "Jockey": "P.PAILHES",
+                    "Entraineur": "TRAPENARD (S)",
+                    "Poids": "68.0 kg",
+                    "Val.": "-",
+                    "Matin": "7.1",
+                    "": "--",
+                    "Pmu.fr": "8.3"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "KALIN DES COTIERES (H10)",
+                    "Jockey": "A.GASNIER",
+                    "Entraineur": "W.MENUET (S)",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "--",
+                    "Pmu.fr": "29"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "BONNET JAUNE (H/9)",
+                    "Jockey": "M.BRASME",
+                    "Entraineur": "A.LAMOTTE D'ARGY",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "12",
+                    "": "--",
+                    "Pmu.fr": "23"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "SAINT VIVIEN (H9)",
+                    "Jockey": "F.GUY",
+                    "Entraineur": "A.ADELINE DE BOISBRUNET",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "12",
+                    "": "--",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "SACRE MICHEL (H7)",
+                    "Jockey": "M.HAVART",
+                    "Entraineur": "H.FORTINEAU",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "22",
+                    "": "--",
+                    "Pmu.fr": "65"
+                }
+            ],
+            "nb_participants_partants": 8,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=65155",
+                    "Cheval": "SAINT VIVIEN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2111&date=2011-11-05",
+                    "Jockey": "F.GUY",
+                    "Cote": "10",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=49431",
+                    "Cheval": "LE BAZIN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6234&date=2011-11-05",
+                    "Jockey": "B.GUENET",
+                    "Cote": "2.9",
+                    "Ecart": "3/4 L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=83454",
+                    "Cheval": "SUPER DE SIVOLA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6062&date=2011-11-05",
+                    "Jockey": "P.PAILHES",
+                    "Cote": "8.3",
+                    "Ecart": "2 L 1/2"
+                },
+                {
+                    "Place": "4ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=64183",
+                    "Cheval": "KALIN DES COTIERES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6449&date=2011-11-05",
+                    "Jockey": "A.GASNIER",
+                    "Cote": "29",
+                    "Ecart": "3 L 1/2"
+                },
+                {
+                    "Place": "5ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=67634",
+                    "Cheval": "RADIUM",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=5029&date=2011-11-05",
+                    "Jockey": "JP.BOISGONTIER",
+                    "Cote": "3.6",
+                    "Ecart": "5 L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29078",
+                    "Cheval": "BONNET JAUNE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=4950&date=2011-11-05",
+                    "Jockey": "M.BRASME",
+                    "Cote": "23",
+                    "Ecart": "LOIN"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2011-11-05/auteuil/65758_prix-bournosienne-prix-direct-matin.html",
+                "https://www.canalturf.com/resultats-PMU/2011-11-05/auteuil/65758_prix-bournosienne-prix-direct-matin.html"
+            ],
+            "prix": "135000",
+            "distance": "3600m",
+            "type_de_course": "HAIES",
+            "lieux": "2",
+            "heure": " 14:00 ",
+            "nom_de_la_course": "PRIX BOURNOSIENNE (PRIX DIRECT MATIN)",
+            "date": "2011-11-05",
+            "nb_participants": 10,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "FUBBS (F4)",
+                    "Jockey": "S.DEHEZ",
+                    "Entraineur": "J.-P. GALLORINI",
+                    "Poids": "67.0 kg",
+                    "Val.": "-",
+                    "Matin": "2.4",
+                    "": "--",
+                    "Pmu.fr": "3"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "DALLIDAS (F5)",
+                    "Jockey": "B.LESTRADE",
+                    "Entraineur": "MACAIRE (S)",
+                    "Poids": "66.0 kg",
+                    "Val.": "-",
+                    "Matin": "6.7",
+                    "": "--",
+                    "Pmu.fr": "5.1"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "JETFIRE (F4)",
+                    "Jockey": "A.CARDINE",
+                    "Entraineur": "D. PROD'HOMME",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "27",
+                    "": "--",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "PRINCESSE KAP (F6)",
+                    "Jockey": "P.BEACCO",
+                    "Entraineur": "GALLORINI (S)",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "9",
+                    "": "--",
+                    "Pmu.fr": "7.4"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "HIGH DESTINY (F4)",
+                    "Jockey": "A.LECORDIER",
+                    "Entraineur": "C. SCANDELLA",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "11",
+                    "": "--",
+                    "Pmu.fr": "8.5"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "PUR STYLE (F/3)",
+                    "Jockey": "M.REGAIRAZ",
+                    "Entraineur": "FOUIN (S)",
+                    "Poids": "65.0 kg",
+                    "Val.": "-",
+                    "Matin": "23",
+                    "": "--",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "YELLOW BALL (F8)",
+                    "Jockey": "A.CHITRAY",
+                    "Entraineur": "B.MONTZEY DE",
+                    "Poids": "64.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "--",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "ULYSSIA ROYALE (F6)",
+                    "Jockey": "C.PIEUX",
+                    "Entraineur": "BERTRAN DE BALANDA (S)",
+                    "Poids": "64.0 kg",
+                    "Val.": "-",
+                    "Matin": "9.3",
+                    "": "--",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "EN VEDETTE (F4)",
+                    "Jockey": "R.SCHMIDLIN",
+                    "Entraineur": "MARC.ROLLAND",
+                    "Poids": "64.0 kg",
+                    "Val.": "-",
+                    "Matin": "19",
+                    "": "--",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "UTOPIE DES BORDES (F5)",
+                    "Jockey": "J.PLOUGANOU",
+                    "Entraineur": "NICKY HENDERSON",
+                    "Poids": "64.0 kg",
+                    "Val.": "-",
+                    "Matin": "9.4",
+                    "": "--",
+                    "Pmu.fr": "14"
+                }
+            ],
+            "nb_participants_partants": 10,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=100058",
+                    "Cheval": "PRINCESSE KAP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2115&date=2011-11-05",
+                    "Jockey": "P.BEACCO",
+                    "Cote": "7.4",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=107285",
+                    "Cheval": "UTOPIE DES BORDES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=311&date=2011-11-05",
+                    "Jockey": "J.PLOUGANOU",
+                    "Cote": "14",
+                    "Ecart": "1 L 1/4"
+                },
+                {
+                    "Place": "3ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=97071",
+                    "Cheval": "PUR STYLE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=340&date=2011-11-05",
+                    "Jockey": "M.REGAIRAZ",
+                    "Cote": "12",
+                    "Ecart": "ENCOLURE"
+                },
+                {
+                    "Place": "4ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=100057",
+                    "Cheval": "FUBBS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=661&date=2011-11-05",
+                    "Jockey": "S.DEHEZ",
+                    "Cote": "3",
+                    "Ecart": "2 L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=103256",
+                    "Cheval": "HIGH DESTINY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=308&date=2011-11-05",
+                    "Jockey": "A.LECORDIER",
+                    "Cote": "8.5",
+                    "Ecart": "2 L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=100055",
+                    "Cheval": "JETFIRE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=657&date=2011-11-05",
+                    "Jockey": "A.CARDINE",
+                    "Cote": "22",
+                    "Ecart": "1 L 1/2"
+                },
+                {
+                    "Place": "7ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=107297",
+                    "Cheval": "EN VEDETTE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=319&date=2011-11-05",
+                    "Jockey": "R.SCHMIDLIN",
+                    "Cote": "19",
+                    "Ecart": "3/4 L"
+                },
+                {
+                    "Place": "8ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=100499",
+                    "Cheval": "ULYSSIA ROYALE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=343&date=2011-11-05",
+                    "Jockey": "C.PIEUX",
+                    "Cote": "11",
+                    "Ecart": "12 L"
+                }
+            ]
+        }
+    ],
+    "nb_courses": 2
+}

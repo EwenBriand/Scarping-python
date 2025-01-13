@@ -1,0 +1,48 @@
+{
+    "Nom du cheval": "ALGOLIA",
+    "info_cheval": {
+        "Sexe/Age :": "F3",
+        "Robe :": "ALEZAN",
+        "Père :": "LOPE DE VEGA",
+        "Mère :": "VIVA RAFAELA",
+        "Père de Mère :": "KNOW HEIGHTS",
+        "Propriétaire :": "WERTHEIMER & FRERE",
+        "Entraineur :": "A.FABRE (S)"
+    },
+    "Palmares": {
+        "Gains :": "27500â¬",
+        "Perf. :": "1p1p",
+        "Course(s) :": "2",
+        "Victoire(s) :": "2",
+        "PlacÃ©(s) :": "0"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "6Ã¨me",
+            "Date": "16/04/2023",
+            "course information": "https://www.canalturf.com/resultats-PMU/2023-04-16/longchamp/304003_prix-de-la-grotte.html"
+        },
+        {
+            "Place": "1er",
+            "Date": "28/03/2023",
+            "course information": "https://www.canalturf.com/resultats-PMU/2023-03-28/saint-cloud/302187_prix-kizil-kourgan.html"
+        },
+        {
+            "Place": "1er",
+            "Date": "07/03/2023",
+            "course information": "https://www.canalturf.com/resultats-PMU/2023-03-07/chantilly/300421_prix-du-soissonnais.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "1",
+            "Pourcentage": "33.33%"
+        },
+        {
+            "Place": "1er",
+            "Nombre de fois": "2",
+            "Pourcentage": "66.67%"
+        }
+    ]
+}

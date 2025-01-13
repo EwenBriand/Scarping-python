@@ -1,0 +1,68 @@
+{
+    "Nom du cheval": "DOCTEUR DJANGO",
+    "info_cheval": {
+        "Sexe/Age :": "M5",
+        "Robe :": "BAI",
+        "Père :": "QUAI BOURBON",
+        "Mère :": "LOLA D'ERONVILLE",
+        "Père de Mère :": "",
+        "Propriétaire :": "KOEN DE LETTER",
+        "Entraineur :": "DRIES DEVOLDER"
+    },
+    "Palmares": {
+        "Gains :": "2793â¬",
+        "Perf. :": "7a7a7a7a0a1a6a0a",
+        "Course(s) :": "7",
+        "Victoire(s) :": "1",
+        "PlacÃ©(s) :": "3"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "6Ã¨me",
+            "Date": "28/03/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-03-28/mons-ghlin/167628_prix-zeus-gr-a.html"
+        },
+        {
+            "Place": "7Ã¨me",
+            "Date": "20/03/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-03-20/mons-ghlin/167269_prix-mont-blanc.html"
+        },
+        {
+            "Place": "8Ã¨me",
+            "Date": "28/11/2017",
+            "course information": "https://www.canalturf.com/resultats-PMU/2017-11-28/mons-ghlin/162259_prix-bretagne-gr-b.html"
+        },
+        {
+            "Place": "7Ã¨me",
+            "Date": "17/11/2017",
+            "course information": "https://www.canalturf.com/resultats-PMU/2017-11-17/mons-ghlin/161678_prix-abo-volo.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "15/08/2017",
+            "course information": "https://www.canalturf.com/resultats-PMU/2017-08-15/la-capelle/156991_prix-du-pole-d-excellence-rurale.html"
+        },
+        {
+            "Place": "2Ã¨me",
+            "Date": "04/08/2017",
+            "course information": "https://www.canalturf.com/resultats-PMU/2017-08-04/mons-ghlin/156464_prix-le-trot-com-gr-b.html"
+        },
+        {
+            "Place": "10Ã¨me",
+            "Date": "12/09/2016",
+            "course information": "https://www.canalturf.com/resultats-PMU/2016-09-12/caen/141163_prix-d-amblie-gr-b.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "6",
+            "Pourcentage": "85.71%"
+        },
+        {
+            "Place": "2eme",
+            "Nombre de fois": "1",
+            "Pourcentage": "14.29%"
+        }
+    ]
+}

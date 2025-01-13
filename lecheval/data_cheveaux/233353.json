@@ -1,0 +1,78 @@
+{
+    "Nom du cheval": "DJANGO DE LA BASLE",
+    "info_cheval": {
+        "Sexe/Age :": "H5",
+        "Robe :": "BAI FONCE",
+        "Père :": "UBRIACO",
+        "Mère :": "QUARINA D'AUTHON",
+        "Père de Mère :": "",
+        "Propriétaire :": "TH. DESMARRES",
+        "Entraineur :": "TH. DESMARRES"
+    },
+    "Palmares": {
+        "Gains :": "25610â¬",
+        "Perf. :": "Dm7m5m9mDmDm4m3m7m0m",
+        "Course(s) :": "20",
+        "Victoire(s) :": "0",
+        "PlacÃ©(s) :": "13"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "N-Pl",
+            "Date": "07/11/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-11-07/nantes/178649_prix-instagram-hippodromenantes.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "02/10/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-10-02/cabourg/176848_prix-de-coulvain.html"
+        },
+        {
+            "Place": "7Ã¨me",
+            "Date": "22/09/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-09-22/mauquenchy/176329_prix-de-la-societe-des-courses-des-andelys.html"
+        },
+        {
+            "Place": "5Ã¨me",
+            "Date": "03/09/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-09-03/caen/175438_prix-de-pierrepont.html"
+        },
+        {
+            "Place": "9Ã¨me",
+            "Date": "25/08/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-08-25/les-sables-d-olonne/175026_prix-gilles-tartoue.html"
+        },
+        {
+            "Place": "4Ã¨me",
+            "Date": "20/07/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-07-20/pornichet/173230_prix-bonne-source.html"
+        },
+        {
+            "Place": "3Ã¨me",
+            "Date": "03/07/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-07-03/nantes/172442_prix-cpme-loire-atlantique.html"
+        },
+        {
+            "Place": "7Ã¨me",
+            "Date": "25/06/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-06-25/caen/172051_prix-de-bazenville.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "12",
+            "Pourcentage": "75.00%"
+        },
+        {
+            "Place": "2eme",
+            "Nombre de fois": "1",
+            "Pourcentage": "6.25%"
+        },
+        {
+            "Place": "3eme",
+            "Nombre de fois": "3",
+            "Pourcentage": "18.75%"
+        }
+    ]
+}

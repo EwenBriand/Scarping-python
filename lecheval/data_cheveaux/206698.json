@@ -1,0 +1,43 @@
+{
+    "Nom du cheval": "DJANGO DE CARRERE",
+    "info_cheval": {
+        "Sexe/Age :": "M3",
+        "Robe :": "",
+        "Père :": "SAMIR DE CARRERE",
+        "Mère :": "NADIA DE CARRERE",
+        "Père de Mère :": "GUYTOU DE CARRERE",
+        "Propriétaire :": "MR. E. DELLOVA",
+        "Entraineur :": "E. DELLOVA"
+    },
+    "Palmares": {
+        "Gains :": "0â¬",
+        "Perf. :": "6p6p7p",
+        "Course(s) :": "3",
+        "Victoire(s) :": "0",
+        "PlacÃ©(s) :": "0"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "9Ã¨me",
+            "Date": "08/08/2016",
+            "course information": "https://www.canalturf.com/resultats-PMU/2016-08-08/san-sebastian/139532_premio-hipodromoa-turf.html"
+        },
+        {
+            "Place": "6Ã¨me",
+            "Date": "22/04/2016",
+            "course information": "https://www.canalturf.com/resultats-PMU/2016-04-22/toulouse/134538_prix-denouste.html"
+        },
+        {
+            "Place": "7Ã¨me",
+            "Date": "01/04/2016",
+            "course information": "https://www.canalturf.com/resultats-PMU/2016-04-01/bordeaux-le-bouscat/133547_prix-massoud.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "3",
+            "Pourcentage": "100.00%"
+        }
+    ]
+}

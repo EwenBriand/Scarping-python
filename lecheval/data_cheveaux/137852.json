@@ -1,0 +1,44 @@
+{
+    "Nom du cheval": "EXCLUDE ",
+    "info_cheval": {
+        "Sexe/Age :": "F3",
+        "Robe :": "BAI",
+        "Père :": "INCLUDE",
+        "Mère :": "SOLDERA",
+        "Père de Mère :": "POLISH NUMBERS",
+        "Propriétaire :": "WERTHEIMER & FRERE",
+        "Entraineur :": "FABRE (S)",
+        "Eleveur :": "WERTHEIMER & FRERE"
+    },
+    "Palmares": {
+        "Gains :": "12500â¬",
+        "Perf. :": "1p",
+        "Course(s) :": "1",
+        "Victoire(s) :": "1",
+        "PlacÃ©(s) :": "0"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "N-Pl",
+            "Date": "04/09/2013",
+            "course information": "https://www.canalturf.com/resultats-PMU/2013-09-04/chantilly/91288_prix-de-laigneville.html"
+        },
+        {
+            "Place": "1er",
+            "Date": "01/04/2013",
+            "course information": "https://www.canalturf.com/resultats-PMU/2013-04-01/chantilly/84911_prix-de-la-serpentine.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "1",
+            "Pourcentage": "50.00%"
+        },
+        {
+            "Place": "1er",
+            "Nombre de fois": "1",
+            "Pourcentage": "50.00%"
+        }
+    ]
+}

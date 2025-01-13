@@ -1,0 +1,156 @@
+{
+    "courses": [
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2011-11-03/saint-cloud/65695_prix-motrico.html",
+                "https://www.canalturf.com/resultats-PMU/2011-11-03/saint-cloud/65695_prix-motrico.html"
+            ],
+            "prix": "29000",
+            "distance": "1600m",
+            "type_de_course": "PLAT",
+            "lieux": "1",
+            "heure": " 13:15 ",
+            "nom_de_la_course": "PRIX MOTRICO",
+            "date": "2011-11-03",
+            "nb_participants": 6,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "EGOTIST (M4)",
+                    "Corde": "4",
+                    "Jockey": "PC.BOUDOT",
+                    "Entraineur": "A. FABRE",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "4.2",
+                    "": "--",
+                    "Pmu.fr": "4.1"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "TOTXO (M10)",
+                    "Corde": "1",
+                    "Jockey": "G.BENOIST",
+                    "Entraineur": "R.AVIAL LOPEZ",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "19",
+                    "": "--",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "LACHLAN BRIDGE (M/3)",
+                    "Corde": "6",
+                    "Jockey": "S.PASQUIER",
+                    "Entraineur": "Y.NICOLAY DE",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "8.1",
+                    "": "--",
+                    "Pmu.fr": "9.1"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "CAT MELODY (F9)",
+                    "Corde": "2",
+                    "Jockey": "A.CRASTUS",
+                    "Entraineur": "H.BILLOT (S)",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "7.9",
+                    "": "--",
+                    "Pmu.fr": "9.8"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "ELUSIVE ERIA (F6)",
+                    "Corde": "5",
+                    "Jockey": "A.LEMAITRE",
+                    "Entraineur": "P.CHATELAIN",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "6",
+                    "": "--",
+                    "Pmu.fr": "7.5"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "TOSS THE DICE (M7)",
+                    "Corde": "3",
+                    "Jockey": "C.SOUMILLON",
+                    "Entraineur": "J.PAULEN",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "2.1",
+                    "": "--",
+                    "Pmu.fr": "1.8"
+                }
+            ],
+            "nb_participants_partants": 6,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=95715",
+                    "Cheval": "EGOTIST",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=225&date=2011-11-03",
+                    "Jockey": "PC.BOUDOT",
+                    "Cote": "4.1",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=86769",
+                    "Cheval": "TOSS THE DICE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=249&date=2011-11-03",
+                    "Jockey": "C.SOUMILLON",
+                    "Cote": "1.8",
+                    "Ecart": "1 L 1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=86590",
+                    "Cheval": "LACHLAN BRIDGE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2011-11-03",
+                    "Jockey": "S.PASQUIER",
+                    "Cote": "9.1",
+                    "Ecart": "ENCOLURE"
+                },
+                {
+                    "Place": "4ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=91542",
+                    "Cheval": "TOTXO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2011-11-03",
+                    "Jockey": "G.BENOIST",
+                    "Cote": "21",
+                    "Ecart": "3 L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=87944",
+                    "Cheval": "ELUSIVE ERIA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=255&date=2011-11-03",
+                    "Jockey": "A.LEMAITRE",
+                    "Cote": "7.5",
+                    "Ecart": "2 L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=84756",
+                    "Cheval": "CAT MELODY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=219&date=2011-11-03",
+                    "Jockey": "A.CRASTUS",
+                    "Cote": "9.8",
+                    "Ecart": "1 L 3/4"
+                }
+            ]
+        }
+    ],
+    "nb_courses": 1
+}

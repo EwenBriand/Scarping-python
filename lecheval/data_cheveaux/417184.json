@@ -1,0 +1,78 @@
+{
+    "Nom du cheval": "KEL JAC",
+    "info_cheval": {
+        "Sexe/Age :": "M4",
+        "Robe :": "BAI",
+        "Père :": "DJANGO RIFF",
+        "Mère :": "ARIANE MARCEAUX",
+        "Père de Mère :": "",
+        "Propriétaire :": "Ecurie Martial GAUVIN",
+        "Entraineur :": "MARTIAL GAUVIN"
+    },
+    "Palmares": {
+        "Gains :": "23900â¬",
+        "Perf. :": "Da4a3a3a6a4a1aDa7a4a",
+        "Course(s) :": "19",
+        "Victoire(s) :": "1",
+        "PlacÃ©(s) :": "12"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "N-Pl",
+            "Date": "11/10/2024",
+            "course information": "https://www.canalturf.com/resultats-PMU/2024-10-11/marseille-borely/352161_prix-de-la-chabrerie.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "21/09/2024",
+            "course information": "https://www.canalturf.com/resultats-PMU/2024-09-21/vichy/350375_prix-jean-charles-schill-prix-de-strasbourg.html"
+        },
+        {
+            "Place": "3Ã¨me",
+            "Date": "07/08/2024",
+            "course information": "https://www.canalturf.com/resultats-PMU/2024-08-07/cagnes-sur-mer/346344_prix-etienos-de-chenou.html"
+        },
+        {
+            "Place": "3Ã¨me",
+            "Date": "23/07/2024",
+            "course information": "https://www.canalturf.com/resultats-PMU/2024-07-23/saint-galmier/344958_prix-des-clematites.html"
+        },
+        {
+            "Place": "6Ã¨me",
+            "Date": "04/07/2024",
+            "course information": "https://www.canalturf.com/resultats-PMU/2024-07-04/vichy/343287_prix-vans-fautras-prix-paul-perichon.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "24/03/2024",
+            "course information": "https://www.canalturf.com/resultats-PMU/2024-03-24/feurs/334035_prix-henri-et-roland-thomas.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "01/08/2023",
+            "course information": "https://www.canalturf.com/resultats-PMU/2023-08-01/aix-les-bains/313480_prix-de-hautecombe-groupe-a.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "03/06/2023",
+            "course information": "https://www.canalturf.com/resultats-PMU/2023-06-03/vichy/308336_prix-andre-lerenard.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "8",
+            "Pourcentage": "66.67%"
+        },
+        {
+            "Place": "2eme",
+            "Nombre de fois": "1",
+            "Pourcentage": "8.33%"
+        },
+        {
+            "Place": "3eme",
+            "Nombre de fois": "3",
+            "Pourcentage": "25.00%"
+        }
+    ]
+}

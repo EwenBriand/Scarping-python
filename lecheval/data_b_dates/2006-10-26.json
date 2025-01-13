@@ -1,0 +1,3532 @@
+{
+    "courses": [
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/longchamp/20339_prix-de-la-breche-aux-loups.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/longchamp/20339_prix-de-la-breche-aux-loups.html"
+            ],
+            "prix": "0",
+            "distance": "1600m",
+            "type_de_course": "PLAT",
+            "lieux": "1",
+            "heure": " 14:00 ",
+            "nom_de_la_course": "PRIX DE LA BRECHE AUX LOUPS",
+            "date": "2006-10-26",
+            "nb_participants": 6,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "BERNANDO (M9)",
+                    "Corde": "",
+                    "Jockey": "LEMAIRE CP.",
+                    "Entraineur": "JUL .PHELIPPON",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+50%",
+                    "Pmu.fr": "1.5"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "GRISHAN (H5)",
+                    "Corde": "",
+                    "Jockey": "HUET T.",
+                    "Entraineur": "COLLET (S)",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+780%",
+                    "Pmu.fr": "8.8"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "GASTON D'HAGUENET",
+                    "Corde": "",
+                    "Jockey": "LEFEBVRE F.",
+                    "Entraineur": "Plisson C.",
+                    "Poids": "53.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+3,000%",
+                    "Pmu.fr": "31"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "BUENOS AIRES (M5)",
+                    "Corde": "",
+                    "Jockey": "BLANCPAIN M.",
+                    "Entraineur": "JORGE ANDRES DIAZ",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,200%",
+                    "Pmu.fr": "23"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "GAY SLOANE (M3)",
+                    "Corde": "",
+                    "Jockey": "PESLIER O.",
+                    "Entraineur": "HEAD (S)",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+660%",
+                    "Pmu.fr": "7.6"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "PRINCE GREC (M/5)",
+                    "Corde": "",
+                    "Jockey": "BADEL ALXI.",
+                    "Entraineur": "CHATELAIN P.",
+                    "Poids": "50.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+310%",
+                    "Pmu.fr": "4.1"
+                }
+            ],
+            "nb_participants_partants": 6,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42238",
+                    "Cheval": "BERNANDO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=247&date=2006-10-26",
+                    "Jockey": "LEMAIRE CP.",
+                    "Cote": "1.5",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=40898",
+                    "Cheval": "GAY SLOANE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=529&date=2006-10-26",
+                    "Jockey": "PESLIER O.",
+                    "Cote": "7.6",
+                    "Ecart": "3L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42239",
+                    "Cheval": "GRISHAN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=240&date=2006-10-26",
+                    "Jockey": "HUET T.",
+                    "Cote": "8.8",
+                    "Ecart": "ENC."
+                },
+                {
+                    "Place": "4ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43133",
+                    "Cheval": "PRINCE GREC",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=295&date=2006-10-26",
+                    "Jockey": "BADEL ALXI.",
+                    "Cote": "4.1",
+                    "Ecart": "4L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=5981",
+                    "Cheval": "BUENOS AIRES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6823&date=2006-10-26",
+                    "Jockey": "BLANCPAIN M.",
+                    "Cote": "23",
+                    "Ecart": "3L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42839",
+                    "Cheval": "GASTON D'HAGUENET",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=222&date=2006-10-26",
+                    "Jockey": "LEFEBVRE F.",
+                    "Cote": "31",
+                    "Ecart": "15L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/longchamp/20340_prix-du-marche-aux-fleurs.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/longchamp/20340_prix-du-marche-aux-fleurs.html"
+            ],
+            "prix": "0",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "2",
+            "heure": " 14:30 ",
+            "nom_de_la_course": "PRIX DU MARCHE AUX FLEURS",
+            "date": "2006-10-26",
+            "nb_participants": 8,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "KHAZAR (H4)",
+                    "Corde": "",
+                    "Jockey": "SOUMILLON C.",
+                    "Entraineur": "DOUMEN (S)",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+90%",
+                    "Pmu.fr": "1.9"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "DOMANCY (M/6)",
+                    "Corde": "",
+                    "Jockey": "JARNET T.",
+                    "Entraineur": "LYON A.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,500%",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "BARTHOLDI (H7)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "M G AZZIE/A A AZZIE",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+640%",
+                    "Pmu.fr": "7.4"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "ESTRELA BORG",
+                    "Corde": "",
+                    "Jockey": "SPANU F.",
+                    "Entraineur": "Hammond J.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "ALYSCAMP",
+                    "Corde": "",
+                    "Jockey": "FAUCON G.",
+                    "Entraineur": "Lellouche E.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+3,300%",
+                    "Pmu.fr": "34"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "PUIT D'OR",
+                    "Corde": "",
+                    "Jockey": "LEMAIRE CP.",
+                    "Entraineur": "Gibson R.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+260%",
+                    "Pmu.fr": "3.6"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "SILHOUETTING (H/6)",
+                    "Corde": "",
+                    "Jockey": "GILLET T.",
+                    "Entraineur": "NICOT MLLE C.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,800%",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "ALDEBAR",
+                    "Corde": "",
+                    "Jockey": "PESLIER O.",
+                    "Entraineur": "Rohne R.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,600%",
+                    "Pmu.fr": "17"
+                }
+            ],
+            "nb_participants_partants": 8,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42288",
+                    "Cheval": "KHAZAR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=249&date=2006-10-26",
+                    "Jockey": "SOUMILLON C.",
+                    "Cote": "1.9",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=35157",
+                    "Cheval": "ESTRELA BORG",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=230&date=2006-10-26",
+                    "Jockey": "SPANU F.",
+                    "Cote": "10",
+                    "Ecart": "2L1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29275",
+                    "Cheval": "PUIT D'OR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=247&date=2006-10-26",
+                    "Jockey": "LEMAIRE CP.",
+                    "Cote": "3.6",
+                    "Ecart": "ENC."
+                },
+                {
+                    "Place": "4ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29273",
+                    "Cheval": "DOMANCY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=221&date=2006-10-26",
+                    "Jockey": "JARNET T.",
+                    "Cote": "26",
+                    "Ecart": "CTEENC."
+                },
+                {
+                    "Place": "5ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43135",
+                    "Cheval": "SILHOUETTING",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=908&date=2006-10-26",
+                    "Jockey": "GILLET T.",
+                    "Cote": "19",
+                    "Ecart": "4L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=35464",
+                    "Cheval": "ALYSCAMP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7139&date=2006-10-26",
+                    "Jockey": "FAUCON G.",
+                    "Cote": "34",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "7ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43134",
+                    "Cheval": "BARTHOLDI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2006-10-26",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "7.4",
+                    "Ecart": "1L1/2"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/longchamp/20341_prix-de-la-faisanderie.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/longchamp/20341_prix-de-la-faisanderie.html"
+            ],
+            "prix": "0",
+            "distance": "1600m",
+            "type_de_course": "PLAT",
+            "lieux": "3",
+            "heure": " 15:00 ",
+            "nom_de_la_course": "PRIX DE LA FAISANDERIE",
+            "date": "2006-10-26",
+            "nb_participants": 6,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "AIR BAG (F5)",
+                    "Corde": "",
+                    "Jockey": "MARTINEZ M.",
+                    "Entraineur": "MME C.BARANDE BARBE",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+750%",
+                    "Pmu.fr": "8.5"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "NUNEZ (F3)",
+                    "Corde": "",
+                    "Jockey": "HUET T.",
+                    "Entraineur": "R.PRITCHARD-GORDON",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+340%",
+                    "Pmu.fr": "4.4"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "GRANDE ROUSSE (F3)",
+                    "Corde": "",
+                    "Jockey": "LEMAIRE CP.",
+                    "Entraineur": "BARY (S)",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+140%",
+                    "Pmu.fr": "2.4"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "UNE PIVOINE (F4)",
+                    "Corde": "",
+                    "Jockey": "GILLET T.",
+                    "Entraineur": "JE.PEASE",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+430%",
+                    "Pmu.fr": "5.3"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "THEOLOGIE (F3)",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "MME C.HEAD-MAAREK",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+540%",
+                    "Pmu.fr": "6.4"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "ASKHADA (F4)",
+                    "Corde": "",
+                    "Jockey": "GUYON M.",
+                    "Entraineur": "S.WATTEL",
+                    "Poids": "50.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+780%",
+                    "Pmu.fr": "8.8"
+                }
+            ],
+            "nb_participants_partants": 6,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=40309",
+                    "Cheval": "GRANDE ROUSSE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=247&date=2006-10-26",
+                    "Jockey": "LEMAIRE CP.",
+                    "Cote": "2.4",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=40881",
+                    "Cheval": "UNE PIVOINE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=908&date=2006-10-26",
+                    "Jockey": "GILLET T.",
+                    "Cote": "5.3",
+                    "Ecart": "3L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=41365",
+                    "Cheval": "THEOLOGIE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=236&date=2006-10-26",
+                    "Jockey": "BOEUF D.",
+                    "Cote": "6.4",
+                    "Ecart": "CTEENC."
+                },
+                {
+                    "Place": "4ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=40879",
+                    "Cheval": "NUNEZ",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=240&date=2006-10-26",
+                    "Jockey": "HUET T.",
+                    "Cote": "4.4",
+                    "Ecart": "ENC."
+                },
+                {
+                    "Place": "5ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43137",
+                    "Cheval": "ASKHADA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=228&date=2006-10-26",
+                    "Jockey": "GUYON M.",
+                    "Cote": "8.8",
+                    "Ecart": "2L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=39320",
+                    "Cheval": "AIR BAG",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=109&date=2006-10-26",
+                    "Jockey": "MARTINEZ M.",
+                    "Cote": "8.5",
+                    "Ecart": "CTETETE"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/longchamp/20342_prix-de-vivienne.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/longchamp/20342_prix-de-vivienne.html"
+            ],
+            "prix": "0",
+            "distance": "1400m",
+            "type_de_course": "PLAT",
+            "lieux": "4",
+            "heure": " 15:30 ",
+            "nom_de_la_course": "PRIX DE VIVIENNE",
+            "date": "2006-10-26",
+            "nb_participants": 13,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "BLACK CAT (H4)",
+                    "Corde": "",
+                    "Jockey": "BADEL ALXI.",
+                    "Entraineur": "MLLE A.WATTEL",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+640%",
+                    "Pmu.fr": "7.4"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "WAL D'ARCY (H/7)",
+                    "Corde": "",
+                    "Jockey": "MARTINEZ M.",
+                    "Entraineur": "SABATINO JP.",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "DIVIN TREMP (H8)",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "C. SCANDELLA",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "DIARY CHOP (M/3)",
+                    "Corde": "",
+                    "Jockey": "LERMYTE J.",
+                    "Entraineur": "Collet Rob.",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "ULTRAMARIN (H4)",
+                    "Corde": "",
+                    "Jockey": "GUYON M.",
+                    "Entraineur": "CAPITTE (S)",
+                    "Poids": "53.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "SEA ISLAND (F5)",
+                    "Corde": "",
+                    "Jockey": "MARCHELLI R.",
+                    "Entraineur": "G D SMITH",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+750%",
+                    "Pmu.fr": "8.5"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "INMIGRANTE (M/7)",
+                    "Corde": "",
+                    "Jockey": "LERNER Y.",
+                    "Entraineur": "F.SERGEANT",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,400%",
+                    "Pmu.fr": "25"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "KUTIKA (F5)",
+                    "Corde": "",
+                    "Jockey": "FARGEAT S.",
+                    "Entraineur": "R.DEFONTAINE",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+5,100%",
+                    "Pmu.fr": "52"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "CARIMO (M8)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "NAPOLI JC.",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+710%",
+                    "Pmu.fr": "8.1"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "FOLIE DES AIGLES (F/6)",
+                    "Corde": "",
+                    "Jockey": "CRASTUS A.",
+                    "Entraineur": "BARANDE BARBE MME C.",
+                    "Poids": "54.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+470%",
+                    "Pmu.fr": "5.7"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "DANZA TEDESCA",
+                    "Corde": "",
+                    "Jockey": "SOUMILLON C.",
+                    "Entraineur": "Nicolay Y.",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+310%",
+                    "Pmu.fr": "4.1"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "JENAURAISJAMAISCRU (F4)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "PIERRE BLEUE",
+                    "Corde": "",
+                    "Jockey": "GUEUDE C.",
+                    "Entraineur": "Bonin A.",
+                    "Poids": "51.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,200%",
+                    "Pmu.fr": "23"
+                }
+            ],
+            "nb_participants_partants": 12,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "11",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=34586",
+                    "Cheval": "DANZA TEDESCA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=249&date=2006-10-26",
+                    "Jockey": "SOUMILLON C.",
+                    "Cote": "4.1",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38471",
+                    "Cheval": "INMIGRANTE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=4279&date=2006-10-26",
+                    "Jockey": "LERNER Y.",
+                    "Cote": "25",
+                    "Ecart": "1L1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=37670",
+                    "Cheval": "DIARY CHOP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1804&date=2006-10-26",
+                    "Jockey": "LERMYTE J.",
+                    "Cote": "12",
+                    "Ecart": "CTEENC."
+                },
+                {
+                    "Place": "4ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=34914",
+                    "Cheval": "SEA ISLAND",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1142&date=2006-10-26",
+                    "Jockey": "MARCHELLI R.",
+                    "Cote": "8.5",
+                    "Ecart": "1L1/2"
+                },
+                {
+                    "Place": "5ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=36379",
+                    "Cheval": "CARIMO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2006-10-26",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "8.1",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=35543",
+                    "Cheval": "BLACK CAT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=295&date=2006-10-26",
+                    "Jockey": "BADEL ALXI.",
+                    "Cote": "7.4",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42259",
+                    "Cheval": "ULTRAMARIN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=228&date=2006-10-26",
+                    "Jockey": "GUYON M.",
+                    "Cote": "14",
+                    "Ecart": "ENC."
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/longchamp/20343_prix-jouvence.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/longchamp/20343_prix-jouvence.html"
+            ],
+            "prix": "0",
+            "distance": "3100m",
+            "type_de_course": "PLAT",
+            "lieux": "5",
+            "heure": " 16:05 ",
+            "nom_de_la_course": "PRIX JOUVENCE",
+            "date": "2006-10-26",
+            "nb_participants": 18,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "TZAR DU FRENE (H9)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "E.LELLOUCHE",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+590%",
+                    "Pmu.fr": "6.9"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "STEPHENSON (H8)",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "WERN.BALTROMEI",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "GREAT TUNE (H8)",
+                    "Corde": "",
+                    "Jockey": "SOUMILLON C.",
+                    "Entraineur": "G.COLLET",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+560%",
+                    "Pmu.fr": "6.6"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "TOP WORLD (M8)",
+                    "Corde": "",
+                    "Jockey": "BLONDEL F.",
+                    "Entraineur": "M.CESANDRI",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+3,100%",
+                    "Pmu.fr": "32"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "HITAAF (M5)",
+                    "Corde": "",
+                    "Jockey": "AUGE J.",
+                    "Entraineur": "HAMMOND (S)",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+710%",
+                    "Pmu.fr": "8.1"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "HARMONIEUX (H/8)",
+                    "Corde": "",
+                    "Jockey": "BLANCPAIN M.",
+                    "Entraineur": "LOWTHER D.",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+3,800%",
+                    "Pmu.fr": "39"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "LONG RANGE (H6)",
+                    "Corde": "",
+                    "Jockey": "BADEL ALXI.",
+                    "Entraineur": "BERTRAN DE BALANDA (S)",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,400%",
+                    "Pmu.fr": "25"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "MONSIEUR LE REGENT (H8)",
+                    "Corde": "",
+                    "Jockey": "VICTOIRE J.",
+                    "Entraineur": "GOUDOT (S)",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "GREEK SIGNAL (H9)",
+                    "Corde": "",
+                    "Jockey": "GILLET T.",
+                    "Entraineur": "M.DELZANGLES",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+620%",
+                    "Pmu.fr": "7.2"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "L'IMPATIENT (M10)",
+                    "Corde": "",
+                    "Jockey": "GEROUX F.",
+                    "Entraineur": "",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,800%",
+                    "Pmu.fr": "29"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "APACHE HOGAN",
+                    "Corde": "",
+                    "Jockey": "PESLIER O.",
+                    "Entraineur": "Clout T.",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "SUPERMAN (H10)",
+                    "Corde": "",
+                    "Jockey": "THULLIEZ T.",
+                    "Entraineur": "MLLE ML.MORTIER",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,800%",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "L'ESTRANGE",
+                    "Corde": "",
+                    "Jockey": "FAUCON G.",
+                    "Entraineur": "Lellouche E.",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,900%",
+                    "Pmu.fr": "30"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "ALLAR (M8)",
+                    "Corde": "",
+                    "Jockey": "CABRE J.",
+                    "Entraineur": "E.DANEL",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+800%",
+                    "Pmu.fr": "9"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "DARGASH (H5)",
+                    "Corde": "",
+                    "Jockey": "LEMAIRE CP.",
+                    "Entraineur": "FX.CHEVIGNY DE",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "GENIAL PLATEROIE (H/9)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "17",
+                    "Cheval": "SILVER WORLD",
+                    "Corde": "",
+                    "Jockey": "MAILLOT S.",
+                    "Entraineur": "Vergne C.",
+                    "Poids": "52.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+6,600%",
+                    "Pmu.fr": "67"
+                },
+                {
+                    "nÂ°": "18",
+                    "Cheval": "LADY NEEDLES (F/7)",
+                    "Corde": "",
+                    "Jockey": "MARCHELLI R.",
+                    "Entraineur": "ROLLAND MARC.",
+                    "Poids": "51.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,900%",
+                    "Pmu.fr": "30"
+                }
+            ],
+            "nb_participants_partants": 16,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=39868",
+                    "Cheval": "STEPHENSON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=236&date=2006-10-26",
+                    "Jockey": "BOEUF D.",
+                    "Cote": "12",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=14541",
+                    "Cheval": "GREAT TUNE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=249&date=2006-10-26",
+                    "Jockey": "SOUMILLON C.",
+                    "Cote": "6.6",
+                    "Ecart": "NEZ"
+                },
+                {
+                    "Place": "3ème",
+                    "": "17",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=20149",
+                    "Cheval": "SILVER WORLD",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=220&date=2006-10-26",
+                    "Jockey": "MAILLOT S.",
+                    "Cote": "67",
+                    "Ecart": "2L1/2"
+                },
+                {
+                    "Place": "4ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=280",
+                    "Cheval": "TZAR DU FRENE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2006-10-26",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "6.9",
+                    "Ecart": "ENC."
+                },
+                {
+                    "Place": "5ème",
+                    "": "11",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=21377",
+                    "Cheval": "APACHE HOGAN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=529&date=2006-10-26",
+                    "Jockey": "PESLIER O.",
+                    "Cote": "15",
+                    "Ecart": "3/4L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=6624",
+                    "Cheval": "TOP WORLD",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=528&date=2006-10-26",
+                    "Jockey": "BLONDEL F.",
+                    "Cote": "32",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=2582",
+                    "Cheval": "MONSIEUR LE REGENT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=227&date=2006-10-26",
+                    "Jockey": "VICTOIRE J.",
+                    "Cote": "15",
+                    "Ecart": "1L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/longchamp/20344_prix-de-newmarket.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/longchamp/20344_prix-de-newmarket.html"
+            ],
+            "prix": "0",
+            "distance": "1800m",
+            "type_de_course": "PLAT",
+            "lieux": "6",
+            "heure": " 16:35 ",
+            "nom_de_la_course": "PRIX DE NEWMARKET",
+            "date": "2006-10-26",
+            "nb_participants": 8,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "SHAKEN",
+                    "Corde": "",
+                    "Jockey": "GUYON M.",
+                    "Entraineur": "Fouin Y.",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+670%",
+                    "Pmu.fr": "7.7"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "ASHKELON (M5)",
+                    "Corde": "",
+                    "Jockey": "FARGEAT S.",
+                    "Entraineur": "D.FERIR",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,900%",
+                    "Pmu.fr": "20"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "QUICKLY CHOP (H4)",
+                    "Corde": "",
+                    "Jockey": "LERMYTE J.",
+                    "Entraineur": "F.EYERMANN",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+280%",
+                    "Pmu.fr": "3.8"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "BIDA (F3)",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "C.BOUTIN",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+750%",
+                    "Pmu.fr": "8.5"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "VERSKY (F4)",
+                    "Corde": "",
+                    "Jockey": "CRASTUS A.",
+                    "Entraineur": "S.LOEUILLET",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "CAMPODAWAR (M3)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "M.CESANDRI",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+680%",
+                    "Pmu.fr": "7.8"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "BOTINTIN (H4)",
+                    "Corde": "",
+                    "Jockey": "SOUMILLON C.",
+                    "Entraineur": "MALI.DROUECHE",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+340%",
+                    "Pmu.fr": "4.4"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "BRING IT BACK (F6)",
+                    "Corde": "",
+                    "Jockey": "BADEL ALXI.",
+                    "Entraineur": "FERTILLET (S)",
+                    "Poids": "52.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+360%",
+                    "Pmu.fr": "4.6"
+                }
+            ],
+            "nb_participants_partants": 8,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43140",
+                    "Cheval": "BRING IT BACK",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=295&date=2006-10-26",
+                    "Jockey": "BADEL ALXI.",
+                    "Cote": "4.6",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38986",
+                    "Cheval": "BIDA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=236&date=2006-10-26",
+                    "Jockey": "BOEUF D.",
+                    "Cote": "8.5",
+                    "Ecart": "3L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=35785",
+                    "Cheval": "QUICKLY CHOP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1804&date=2006-10-26",
+                    "Jockey": "LERMYTE J.",
+                    "Cote": "3.8",
+                    "Ecart": "CTEENC."
+                },
+                {
+                    "Place": "4ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38700",
+                    "Cheval": "CAMPODAWAR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2006-10-26",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "7.8",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=37978",
+                    "Cheval": "BOTINTIN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=249&date=2006-10-26",
+                    "Jockey": "SOUMILLON C.",
+                    "Cote": "4.4",
+                    "Ecart": "ENC."
+                },
+                {
+                    "Place": "6ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43139",
+                    "Cheval": "ASHKELON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=246&date=2006-10-26",
+                    "Jockey": "FARGEAT S.",
+                    "Cote": "20",
+                    "Ecart": "ENC."
+                },
+                {
+                    "Place": "7ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38215",
+                    "Cheval": "SHAKEN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=228&date=2006-10-26",
+                    "Jockey": "GUYON M.",
+                    "Cote": "7.7",
+                    "Ecart": "2L1/2"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/longchamp/20345_prix-de-l-allee-des-cygnes.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/longchamp/20345_prix-de-l-allee-des-cygnes.html"
+            ],
+            "prix": "0",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "7",
+            "heure": " 17:05 ",
+            "nom_de_la_course": "PRIX DE L'ALLEE DES CYGNES",
+            "date": "2006-10-26",
+            "nb_participants": 9,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "KIBAAR (F/8)",
+                    "Corde": "",
+                    "Jockey": "SPANU F.",
+                    "Entraineur": "F.MONNIER",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+300%",
+                    "Pmu.fr": "4"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "JANE ERIA",
+                    "Corde": "",
+                    "Jockey": "SOUMILLON C.",
+                    "Entraineur": "Royer Dupre A.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+250%",
+                    "Pmu.fr": "3.5"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "LA GATINAISE",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "CAUCASIENNE (F4)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "ROD .COLLET",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+330%",
+                    "Pmu.fr": "4.3"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "WYSIWYG LUCKY (F7)",
+                    "Corde": "",
+                    "Jockey": "CARDINE A.",
+                    "Entraineur": "JL.GAY",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,000%",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "POUR TOI LIBERTE (F5)",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "LYON (S)",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "MANADOUNA",
+                    "Corde": "",
+                    "Jockey": "LEMAIRE CP.",
+                    "Entraineur": "Head-maarek C.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "QUEEN OF STARS (F6)",
+                    "Corde": "",
+                    "Jockey": "MAILLOT S.",
+                    "Entraineur": "B.PETITCOLAS",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "ANNINA (F3)",
+                    "Corde": "",
+                    "Jockey": "PESLIER O.",
+                    "Entraineur": "JOSE BRAVO M.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+630%",
+                    "Pmu.fr": "7.3"
+                }
+            ],
+            "nb_participants_partants": 3,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=39434",
+                    "Cheval": "KIBAAR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=230&date=2006-10-26",
+                    "Jockey": "SPANU F.",
+                    "Cote": "4",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=28731",
+                    "Cheval": "JANE ERIA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=249&date=2006-10-26",
+                    "Jockey": "SOUMILLON C.",
+                    "Cote": "3.5",
+                    "Ecart": "3L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=35664",
+                    "Cheval": "QUEEN OF STARS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=220&date=2006-10-26",
+                    "Jockey": "MAILLOT S.",
+                    "Cote": "10",
+                    "Ecart": "3/4L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38969",
+                    "Cheval": "POUR TOI LIBERTE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=236&date=2006-10-26",
+                    "Jockey": "BOEUF D.",
+                    "Cote": "14",
+                    "Ecart": "ENC."
+                },
+                {
+                    "Place": "5ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43142",
+                    "Cheval": "WYSIWYG LUCKY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=657&date=2006-10-26",
+                    "Jockey": "CARDINE A.",
+                    "Cote": "21",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=35827",
+                    "Cheval": "CAUCASIENNE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2006-10-26",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "4.3",
+                    "Ecart": "2L1/2"
+                },
+                {
+                    "Place": "7ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43143",
+                    "Cheval": "MANADOUNA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=247&date=2006-10-26",
+                    "Jockey": "LEMAIRE CP.",
+                    "Cote": "10",
+                    "Ecart": "1/2L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/longchamp/20346_prix-hervine.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/longchamp/20346_prix-hervine.html"
+            ],
+            "prix": "0",
+            "distance": "3100m",
+            "type_de_course": "PLAT",
+            "lieux": "8",
+            "heure": " 17:35 ",
+            "nom_de_la_course": "PRIX HERVINE",
+            "date": "2006-10-26",
+            "nb_participants": 12,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "SAVOISIEN (M9)",
+                    "Corde": "",
+                    "Jockey": "VICTOIRE J.",
+                    "Entraineur": "JV.TOUX",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "ELGUERA NOIR (H/8)",
+                    "Corde": "",
+                    "Jockey": "FARGEAT S.",
+                    "Entraineur": "LARRIVIERE T.",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "SALESMAN (H6)",
+                    "Corde": "",
+                    "Jockey": "BONILLA D.",
+                    "Entraineur": "R E MANDELLA",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "NAVA DES ONGRAIS (F7)",
+                    "Corde": "",
+                    "Jockey": "BARBEROT Y.",
+                    "Entraineur": "P.CHEMIN",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "ALTAMIRANO (H/9)",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "FERTILLET Y.",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+760%",
+                    "Pmu.fr": "8.6"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "DREAM FOR EVER",
+                    "Corde": "",
+                    "Jockey": "SOUMILLON C.",
+                    "Entraineur": "",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,100%",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "SKYNOS (H8)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "G.MAILLARD",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+510%",
+                    "Pmu.fr": "6.1"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "PRECIPITATE (F3)",
+                    "Corde": "",
+                    "Jockey": "PESLIER O.",
+                    "Entraineur": "CHAD C. BROWN",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,700%",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "NO AUTHORITY (M8)",
+                    "Corde": "",
+                    "Jockey": "THULLIEZ T.",
+                    "Entraineur": "C.BOUTIN",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+620%",
+                    "Pmu.fr": "7.2"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "MISTRAL RIVER (H/10)",
+                    "Corde": "",
+                    "Jockey": "BONNEFOY A.",
+                    "Entraineur": "JP.LABRANCHE",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+3,100%",
+                    "Pmu.fr": "32"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "TOKEN OF HONOUR (H8)",
+                    "Corde": "",
+                    "Jockey": "MARCHELLI R.",
+                    "Entraineur": "P.BAUDRY",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,800%",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "BEHASNI",
+                    "Corde": "",
+                    "Jockey": "JARNET T.",
+                    "Entraineur": "Gallorini I.",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+230%",
+                    "Pmu.fr": "3.3"
+                }
+            ],
+            "nb_participants_partants": 12,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=41259",
+                    "Cheval": "NAVA DES ONGRAIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7354&date=2006-10-26",
+                    "Jockey": "BARBEROT Y.",
+                    "Cote": "10",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=28451",
+                    "Cheval": "ELGUERA NOIR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=246&date=2006-10-26",
+                    "Jockey": "FARGEAT S.",
+                    "Cote": "15",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=16803",
+                    "Cheval": "SKYNOS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2006-10-26",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "6.1",
+                    "Ecart": "2L1/2"
+                },
+                {
+                    "Place": "4ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=23491",
+                    "Cheval": "ALTAMIRANO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=236&date=2006-10-26",
+                    "Jockey": "BOEUF D.",
+                    "Cote": "8.6",
+                    "Ecart": "CTETETE"
+                },
+                {
+                    "Place": "5ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29028",
+                    "Cheval": "MISTRAL RIVER",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=291&date=2006-10-26",
+                    "Jockey": "BONNEFOY A.",
+                    "Cote": "32",
+                    "Ecart": "2L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=12127",
+                    "Cheval": "NO AUTHORITY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=238&date=2006-10-26",
+                    "Jockey": "THULLIEZ T.",
+                    "Cote": "7.2",
+                    "Ecart": "2L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "11",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=20849",
+                    "Cheval": "TOKEN OF HONOUR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1142&date=2006-10-26",
+                    "Jockey": "MARCHELLI R.",
+                    "Cote": "19",
+                    "Ecart": "1/2L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/enghien/20347_prix-de-sevran-gr-a.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/enghien/20347_prix-de-sevran-gr-a.html"
+            ],
+            "prix": "0",
+            "distance": "2875m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "1",
+            "heure": " 18:00 ",
+            "nom_de_la_course": "PRIX DE SEVRAN (GR A)",
+            "date": "2006-10-26",
+            "nb_participants": 14,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "OSEE JULRY",
+                    "Def.": "",
+                    "Jockey": "ROCHETTE F.",
+                    "Entraineur": "Engberg P.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+9,200%",
+                    "Pmu.fr": "93"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "ORAXANE DE VOLZAC",
+                    "Def.": "",
+                    "Jockey": "VERCRUYSSE P.",
+                    "Entraineur": "Dollion M.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,300%",
+                    "Pmu.fr": "24"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "ORANGE FOUFRET (F9)",
+                    "Def.": "",
+                    "Jockey": "FRERET P.",
+                    "Entraineur": "PH. LAMBERT",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,000%",
+                    "Pmu.fr": "41"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "OCEANE LATINE",
+                    "Def.": "",
+                    "Jockey": "PRIGENT F.",
+                    "Entraineur": "Prigent P.M.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+3,100%",
+                    "Pmu.fr": "32"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "OREE DE VILLENEUVE (F6)",
+                    "Def.": "",
+                    "Jockey": "DELAROCHE D.",
+                    "Entraineur": "D. DELAROCHE",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+670%",
+                    "Pmu.fr": "7.7"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "OLGA DE LA FONTE (F7)",
+                    "Def.": "",
+                    "Jockey": "CAVEY P.G.",
+                    "Entraineur": "J.M. DUPONT",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,800%",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "OREZZA PHEDO (F/7)",
+                    "Def.": "",
+                    "Jockey": "TOUVAIS P.",
+                    "Entraineur": "TOUVAIS P.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "OBOLE DES PRES (F/7)",
+                    "Def.": "",
+                    "Jockey": "DESSARTRE P.",
+                    "Entraineur": "DESSARTRE P.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "OREE DU VERBOIS (F7)",
+                    "Def.": "",
+                    "Jockey": "LIZEE B.",
+                    "Entraineur": "G. LEFROU",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+3,100%",
+                    "Pmu.fr": "32"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "OCARINA FLEURIE (F/7)",
+                    "Def.": "",
+                    "Jockey": "BEZIER F.",
+                    "Entraineur": "BEZIER F.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,500%",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "OKLAHOMA CITY (F6)",
+                    "Def.": "",
+                    "Jockey": "RAFFIN E.",
+                    "Entraineur": "ANDERS LINDQVIST",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+680%",
+                    "Pmu.fr": "7.8"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "ODYSSEE D'AZUR (F5)",
+                    "Def.": "",
+                    "Jockey": "LE BELLER T.",
+                    "Entraineur": "J.P. MARMION",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+180%",
+                    "Pmu.fr": "2.8"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "OLE OLE (F/6)",
+                    "Def.": "",
+                    "Jockey": "BEKAERT D.",
+                    "Entraineur": "MRIERA B.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "OISELETTA (F/7)",
+                    "Def.": "",
+                    "Jockey": "BAZIRE J.M.",
+                    "Entraineur": "DEVENNE E.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+540%",
+                    "Pmu.fr": "6.4"
+                }
+            ],
+            "nb_participants_partants": 14,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=26675",
+                    "Cheval": "ORAXANE DE VOLZAC",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=489&date=2006-10-26",
+                    "Jockey": "VERCRUYSSE P.",
+                    "Cote": "24",
+                    "Redkm": "1'17\"80"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=26697",
+                    "Cheval": "OREE DE VILLENEUVE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2828&date=2006-10-26",
+                    "Jockey": "DELAROCHE D.",
+                    "Cote": "7.7",
+                    "Redkm": "1'17\"90"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=39042",
+                    "Cheval": "OLGA DE LA FONTE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1933&date=2006-10-26",
+                    "Jockey": "CAVEY P.G.",
+                    "Cote": "19",
+                    "Redkm": "1'18\"10"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29712",
+                    "Cheval": "OBOLE DES PRES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3609&date=2006-10-26",
+                    "Jockey": "DESSARTRE P.",
+                    "Cote": "12",
+                    "Redkm": "1'18\"10"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=27643",
+                    "Cheval": "OISELETTA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3169&date=2006-10-26",
+                    "Jockey": "BAZIRE J.M.",
+                    "Cote": "6.4",
+                    "Redkm": "1'18\"20"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=26852",
+                    "Cheval": "OCEANE LATINE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3780&date=2006-10-26",
+                    "Jockey": "PRIGENT F.",
+                    "Cote": "32",
+                    "Redkm": "1'18\"20"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=23004",
+                    "Cheval": "OCARINA FLEURIE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2697&date=2006-10-26",
+                    "Jockey": "BEZIER F.",
+                    "Cote": "26",
+                    "Redkm": "1'18\"20"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/enghien/20348_prix-de-sevran-gr-b.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/enghien/20348_prix-de-sevran-gr-b.html"
+            ],
+            "prix": "0",
+            "distance": "2875m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "2",
+            "heure": " 18:28 ",
+            "nom_de_la_course": "PRIX DE SEVRAN (GR B)",
+            "date": "2006-10-26",
+            "nb_participants": 13,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "OLYMPE DE REVERIE",
+                    "Def.": "",
+                    "Jockey": "MENEGHETTI A.",
+                    "Entraineur": "Meneghetti A.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,600%",
+                    "Pmu.fr": "47"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "OBADE FOUFRET (F/9)",
+                    "Def.": "",
+                    "Jockey": "FOSSARD P.",
+                    "Entraineur": "P. FOSSARD",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "OFF COURSE (F6)",
+                    "Def.": "",
+                    "Jockey": "BEKAERT D.",
+                    "Entraineur": "N. ENSCH",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "ODYSSEE D'ARTHENAY (F/7)",
+                    "Def.": "",
+                    "Jockey": "ANNE F.",
+                    "Entraineur": "RENAULT V.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+600%",
+                    "Pmu.fr": "7"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "OPALINE WAY",
+                    "Def.": "",
+                    "Jockey": "CHARUEL E.",
+                    "Entraineur": "Charuel B.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,800%",
+                    "Pmu.fr": "29"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "ODYSSEE PERRINE (F/7)",
+                    "Def.": "",
+                    "Jockey": "PITON B.",
+                    "Entraineur": "DESHAYES ST.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,800%",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "ONDINE DU MOUZON (F8)",
+                    "Def.": "",
+                    "Jockey": "ANDRE J.P.",
+                    "Entraineur": "G. FONTAINE",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "OLGA DES COUPERIES (F6)",
+                    "Def.": "",
+                    "Jockey": "COUBARD L.",
+                    "Entraineur": "L. GAZENGEL",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+510%",
+                    "Pmu.fr": "6.1"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "OMBRELLE DU LIVAYE (F6)",
+                    "Def.": "",
+                    "Jockey": "DELASALLE S.",
+                    "Entraineur": "S. DELASALLE",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,200%",
+                    "Pmu.fr": "23"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "OMBRE CHINOISE (F/7)",
+                    "Def.": "",
+                    "Jockey": "LE FLOCH TH.",
+                    "Entraineur": "D. VALLEE",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,900%",
+                    "Pmu.fr": "20"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "ORIELLE (F5)",
+                    "Def.": "",
+                    "Jockey": "NIVARD F.",
+                    "Entraineur": "J.F. NIVARD",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+270%",
+                    "Pmu.fr": "3.7"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "OLGA DES CHAMPS (F5)",
+                    "Def.": "",
+                    "Jockey": "LAURENT A.",
+                    "Entraineur": "A. LAURENT",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+440%",
+                    "Pmu.fr": "5.4"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "ONE BLACK NIGHT (F5)",
+                    "Def.": "",
+                    "Jockey": "DESHAYES J.R.",
+                    "Entraineur": "ST. DESHAYES",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,500%",
+                    "Pmu.fr": "26"
+                }
+            ],
+            "nb_participants_partants": 13,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43144",
+                    "Cheval": "ODYSSEE PERRINE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=171&date=2006-10-26",
+                    "Jockey": "PITON B.",
+                    "Cote": "19",
+                    "Redkm": "1'17\"40"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=28369",
+                    "Cheval": "OLGA DES CHAMPS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1126&date=2006-10-26",
+                    "Jockey": "LAURENT A.",
+                    "Cote": "5.4",
+                    "Redkm": "1'17\"50"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=32112",
+                    "Cheval": "ODYSSEE D'ARTHENAY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=932&date=2006-10-26",
+                    "Jockey": "ANNE F.",
+                    "Cote": "7",
+                    "Redkm": "1'17\"60"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42822",
+                    "Cheval": "OBADE FOUFRET",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2385&date=2006-10-26",
+                    "Jockey": "FOSSARD P.",
+                    "Cote": "13",
+                    "Redkm": "1'17\"60"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29710",
+                    "Cheval": "ORIELLE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=139&date=2006-10-26",
+                    "Jockey": "NIVARD F.",
+                    "Cote": "3.7",
+                    "Redkm": "1'17\"70"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29563",
+                    "Cheval": "OPALINE WAY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=4493&date=2006-10-26",
+                    "Jockey": "CHARUEL E.",
+                    "Cote": "29",
+                    "Redkm": "1'17\"80"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42498",
+                    "Cheval": "ONDINE DU MOUZON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2046&date=2006-10-26",
+                    "Jockey": "ANDRE J.P.",
+                    "Cote": "11",
+                    "Redkm": "1'18\"00"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/enghien/20349_prix-de-la-place-du-canada.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/enghien/20349_prix-de-la-place-du-canada.html"
+            ],
+            "prix": "0",
+            "distance": "2900m",
+            "type_de_course": "TROT MONTE",
+            "lieux": "3",
+            "heure": " 18:56 ",
+            "nom_de_la_course": "PRIX DE LA PLACE DU CANADA",
+            "date": "2006-10-26",
+            "nb_participants": 11,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "NEW LOOK DES MOTS (H/9)",
+                    "Def.": "",
+                    "Jockey": "KAUFFMANN J.",
+                    "Entraineur": "FRESNEAU L.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+6,100%",
+                    "Pmu.fr": "62"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "NARLY (H/9)",
+                    "Def.": "",
+                    "Jockey": "MONCLIN J.PH.",
+                    "Entraineur": "DELAUNAY S.M.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+530%",
+                    "Pmu.fr": "6.3"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "NARCOS DU BESSIN (H11)",
+                    "Def.": "",
+                    "Jockey": "AVOINE MELLE F.",
+                    "Entraineur": "SUREDA BARCELO MME MF.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+630%",
+                    "Pmu.fr": "7.3"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "NEW LOOK DU BOURG (H/9)",
+                    "Def.": "",
+                    "Jockey": "NICLAIR K.",
+                    "Entraineur": "PICOT P.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,600%",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "NICOS D'AND (H/8)",
+                    "Def.": "",
+                    "Jockey": "LECLERCQ MELLE C.",
+                    "Entraineur": "VERVA PH.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,000%",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "NOBLE DE TRAMON (H6)",
+                    "Def.": "",
+                    "Jockey": "MARTINEAU N.",
+                    "Entraineur": "F. LEBLANC",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,700%",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "NOBEL DE NACRE (H/10)",
+                    "Def.": "",
+                    "Jockey": "LIBERT MELLE C.",
+                    "Entraineur": "HERVALET S.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,400%",
+                    "Pmu.fr": "25"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "NODAKH DE L'ISOP (H/10)",
+                    "Def.": "",
+                    "Jockey": "GOETZ MELLE M.A.",
+                    "Entraineur": "V. LACROIX",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+310%",
+                    "Pmu.fr": "4.1"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "NEGOTIANS D'ORTIGE (H15)",
+                    "Def.": "",
+                    "Jockey": "MARIE P.",
+                    "Entraineur": "FELBER PATRICIA",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "NIAKOU BELE",
+                    "Def.": "",
+                    "Jockey": "MORISSE MELLE A.",
+                    "Entraineur": "Berthault G.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+590%",
+                    "Pmu.fr": "6.9"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "NOVO LA RATTERIE (H13)",
+                    "Def.": "",
+                    "Jockey": "BAUDY W.",
+                    "Entraineur": "B. MELIS",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+290%",
+                    "Pmu.fr": "3.9"
+                }
+            ],
+            "nb_participants_partants": 11,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=20319",
+                    "Cheval": "NARLY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2357&date=2006-10-26",
+                    "Jockey": "MONCLIN J.PH.",
+                    "Cote": "6.3",
+                    "Redkm": "1'15\"70"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=27451",
+                    "Cheval": "NARCOS DU BESSIN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6753&date=2006-10-26",
+                    "Jockey": "AVOINE MELLE F.",
+                    "Cote": "7.3",
+                    "Redkm": "1'15\"80"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=21842",
+                    "Cheval": "NOVO LA RATTERIE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=863&date=2006-10-26",
+                    "Jockey": "BAUDY W.",
+                    "Cote": "3.9",
+                    "Redkm": "1'16\"10"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=26014",
+                    "Cheval": "NEGOTIANS D'ORTIGE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1378&date=2006-10-26",
+                    "Jockey": "MARIE P.",
+                    "Cote": "15",
+                    "Redkm": "1'16\"20"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=11342",
+                    "Cheval": "NODAKH DE L'ISOP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6509&date=2006-10-26",
+                    "Jockey": "GOETZ MELLE M.A.",
+                    "Cote": "4.1",
+                    "Redkm": "1'16\"20"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=12450",
+                    "Cheval": "NOBLE DE TRAMON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1206&date=2006-10-26",
+                    "Jockey": "MARTINEAU N.",
+                    "Cote": "18",
+                    "Redkm": "1'16\"30"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=6819",
+                    "Cheval": "NICOS D'AND",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6657&date=2006-10-26",
+                    "Jockey": "LECLERCQ MELLE C.",
+                    "Cote": "21",
+                    "Redkm": "1'16\"30"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/enghien/20350_prix-des-halles.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/enghien/20350_prix-des-halles.html"
+            ],
+            "prix": "0",
+            "distance": "2875m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "4",
+            "heure": " 19:24 ",
+            "nom_de_la_course": "PRIX DES HALLES",
+            "date": "2006-10-26",
+            "nb_participants": 16,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "NINA DE BEAUREGARD",
+                    "Def.": "",
+                    "Jockey": "DAVID W.",
+                    "Entraineur": "Marie Ph.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "NEOLA DU CADRAN (F7)",
+                    "Def.": "",
+                    "Jockey": "LAMARE F.",
+                    "Entraineur": "TH. LAMARE",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,300%",
+                    "Pmu.fr": "24"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "NANOU D'ARTHENAY",
+                    "Def.": "",
+                    "Jockey": "COUILLAUD MELLE V.",
+                    "Entraineur": "Bizoux M.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,100%",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "NOBLE EMERAUDE (F10)",
+                    "Def.": "",
+                    "Jockey": "LEBLOND MARO F.",
+                    "Entraineur": "S. PROVOOST",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,600%",
+                    "Pmu.fr": "27"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "NANETTE D'AIRBEL",
+                    "Def.": "",
+                    "Jockey": "COTTARD A.",
+                    "Entraineur": "Baude S.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "NELLENCIA",
+                    "Def.": "",
+                    "Jockey": "FLAHAUT F.",
+                    "Entraineur": "Dersoir J.L.Cl.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+620%",
+                    "Pmu.fr": "7.2"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "NAROLDA DU HAUZEY",
+                    "Def.": "",
+                    "Jockey": "LIGER A.",
+                    "Entraineur": "Liger J.Cl.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,800%",
+                    "Pmu.fr": "29"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "NEVA LUCERNAISE",
+                    "Def.": "",
+                    "Jockey": "JEHANNE W.",
+                    "Entraineur": "Deshayes L.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "NACELLE DU BESSAY (F/8)",
+                    "Def.": "",
+                    "Jockey": "BEDEL C.",
+                    "Entraineur": "BOUCLY F.M.",
+                    "Dist.": "2900m",
+                    "Matin": "1",
+                    "": "+1,700%",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "NEW FRAGILITY (F/7)",
+                    "Def.": "",
+                    "Jockey": "GUILBERT G.",
+                    "Entraineur": "PLOQUIN P.",
+                    "Dist.": "2900m",
+                    "Matin": "1",
+                    "": "+1,600%",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "NYMPHE PERRINE",
+                    "Def.": "",
+                    "Jockey": "LAURIERE F.",
+                    "Entraineur": "Mary J.F.",
+                    "Dist.": "2900m",
+                    "Matin": "1",
+                    "": "+2,800%",
+                    "Pmu.fr": "29"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "NARIMA DE MONTI (F/8)",
+                    "Def.": "",
+                    "Jockey": "HEON D.",
+                    "Entraineur": "GOUT L.",
+                    "Dist.": "2900m",
+                    "Matin": "1",
+                    "": "+1,700%",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "NYMPHE DU CHATELET (F/8)",
+                    "Def.": "",
+                    "Jockey": "VANMEERBECK J.",
+                    "Entraineur": "PRIGENT P.M.",
+                    "Dist.": "2900m",
+                    "Matin": "1",
+                    "": "+630%",
+                    "Pmu.fr": "7.3"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "NOBLESSE DU MONTIL",
+                    "Def.": "",
+                    "Jockey": "GANNE B.",
+                    "Entraineur": "Abrivard L.Cl.",
+                    "Dist.": "2900m",
+                    "Matin": "1",
+                    "": "+3,400%",
+                    "Pmu.fr": "35"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "NYALA",
+                    "Def.": "",
+                    "Jockey": "VERVA M.",
+                    "Entraineur": "Rokkan Kim",
+                    "Dist.": "2900m",
+                    "Matin": "1",
+                    "": "+420%",
+                    "Pmu.fr": "5.2"
+                },
+                {
+                    "nÂ°": "16",
+                    "Cheval": "NANOU VOLO",
+                    "Def.": "",
+                    "Jockey": "RAFFEGEAU J.PH.",
+                    "Entraineur": "Abrivard L.Cl.",
+                    "Dist.": "2900m",
+                    "Matin": "1",
+                    "": "+860%",
+                    "Pmu.fr": "9.6"
+                }
+            ],
+            "nb_participants_partants": 7,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=19125",
+                    "Cheval": "NYALA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=487&date=2006-10-26",
+                    "Jockey": "VERVA M.",
+                    "Cote": "5.2",
+                    "Redkm": "1'17\"60"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=24044",
+                    "Cheval": "NANOU VOLO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=733&date=2006-10-26",
+                    "Jockey": "RAFFEGEAU J.PH.",
+                    "Cote": "9.6",
+                    "Redkm": "1'17\"70"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=26990",
+                    "Cheval": "NEVA LUCERNAISE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1411&date=2006-10-26",
+                    "Jockey": "JEHANNE W.",
+                    "Cote": "10",
+                    "Redkm": "1'18\"40"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=27446",
+                    "Cheval": "NOBLE EMERAUDE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1337&date=2006-10-26",
+                    "Jockey": "LEBLOND MARO F.",
+                    "Cote": "27",
+                    "Redkm": "1'18\"50"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=27575",
+                    "Cheval": "NINA DE BEAUREGARD",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6649&date=2006-10-26",
+                    "Jockey": "DAVID W.",
+                    "Cote": "11",
+                    "Redkm": "1'18\"60"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=977",
+                    "Cheval": "NARIMA DE MONTI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=161&date=2006-10-26",
+                    "Jockey": "HEON D.",
+                    "Cote": "18",
+                    "Redkm": "1'18\"10"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=19053",
+                    "Cheval": "NEOLA DU CADRAN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3813&date=2006-10-26",
+                    "Jockey": "LAMARE F.",
+                    "Cote": "24",
+                    "Redkm": "1'18\"70"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/enghien/20351_prix-du-bas-rhin.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/enghien/20351_prix-du-bas-rhin.html"
+            ],
+            "prix": "0",
+            "distance": "2150m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "5",
+            "heure": " 19:52 ",
+            "nom_de_la_course": "PRIX DU BAS-RHIN",
+            "date": "2006-10-26",
+            "nb_participants": 10,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "QUAMIA DU RIB (F4)",
+                    "Def.": "",
+                    "Jockey": "THIBOUT P.",
+                    "Entraineur": "P. THIBOUT",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+4,500%",
+                    "Pmu.fr": "46"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "QUITA DE LA COTE (F4)",
+                    "Def.": "",
+                    "Jockey": "THEVENET X.",
+                    "Entraineur": "X. THEVENET",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,600%",
+                    "Pmu.fr": "27"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "QUILLE D'AVRIL (F8)",
+                    "Def.": "",
+                    "Jockey": "ANNE F.",
+                    "Entraineur": "MARTIN E.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+420%",
+                    "Pmu.fr": "5.2"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "QUONAEY BLOTAIE",
+                    "Def.": "",
+                    "Jockey": "PLOQUIN P.",
+                    "Entraineur": "Ploquin P.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,800%",
+                    "Pmu.fr": "29"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "QUIJONG JET (F3)",
+                    "Def.": "",
+                    "Jockey": "DUBOIS J.ET.",
+                    "Entraineur": "J.ET. DUBOIS",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "QUOKINE BERRY (F6)",
+                    "Def.": "",
+                    "Jockey": "BAZIRE J.M.",
+                    "Entraineur": "J.M. BAZIRE",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+60%",
+                    "Pmu.fr": "1.6"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "QUESCHUA LOVE (F5)",
+                    "Def.": "",
+                    "Jockey": "LAURENT A.",
+                    "Entraineur": "A. LAURENT",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "QUERIDA D'URZY (F4)",
+                    "Def.": "",
+                    "Jockey": "LENOIR M.",
+                    "Entraineur": "",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "QUEEN DU POLI (F3)",
+                    "Def.": "",
+                    "Jockey": "PITON B.",
+                    "Entraineur": "B. PITON",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,500%",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "QUILLE DES BROUETS (F/6)",
+                    "Def.": "",
+                    "Jockey": "VERCRUYSSE P.",
+                    "Entraineur": "N. ENSCH",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+3,000%",
+                    "Pmu.fr": "31"
+                }
+            ],
+            "nb_participants_partants": 10,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=41722",
+                    "Cheval": "QUOKINE BERRY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3169&date=2006-10-26",
+                    "Jockey": "BAZIRE J.M.",
+                    "Cote": "1.6",
+                    "Redkm": "1'18\"10"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=41725",
+                    "Cheval": "QUESCHUA LOVE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1126&date=2006-10-26",
+                    "Jockey": "LAURENT A.",
+                    "Cote": "14",
+                    "Redkm": "1'18\"20"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42509",
+                    "Cheval": "QUITA DE LA COTE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1400&date=2006-10-26",
+                    "Jockey": "THEVENET X.",
+                    "Cote": "27",
+                    "Redkm": "1'18\"30"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43145",
+                    "Cheval": "QUILLE D'AVRIL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=932&date=2006-10-26",
+                    "Jockey": "ANNE F.",
+                    "Cote": "5.2",
+                    "Redkm": "1'18\"30"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=39415",
+                    "Cheval": "QUONAEY BLOTAIE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2805&date=2006-10-26",
+                    "Jockey": "PLOQUIN P.",
+                    "Cote": "29",
+                    "Redkm": "1'18\"40"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43146",
+                    "Cheval": "QUEEN DU POLI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=171&date=2006-10-26",
+                    "Jockey": "PITON B.",
+                    "Cote": "26",
+                    "Redkm": "1'18\"80"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42972",
+                    "Cheval": "QUIJONG JET",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=492&date=2006-10-26",
+                    "Jockey": "DUBOIS J.ET.",
+                    "Cote": "13",
+                    "Redkm": "1'19\"20"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/enghien/20352_prix-de-la-porte-de-clignancourt.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/enghien/20352_prix-de-la-porte-de-clignancourt.html"
+            ],
+            "prix": "0",
+            "distance": "2875m",
+            "type_de_course": "TROT MONTE",
+            "lieux": "6",
+            "heure": " 20:20 ",
+            "nom_de_la_course": "PRIX DE LA PORTE DE CLIGNANCOURT",
+            "date": "2006-10-26",
+            "nb_participants": 18,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "LUCKY DES BRISANTS (H9)",
+                    "Def.": "",
+                    "Jockey": "DERSOIR J.L.CL.",
+                    "Entraineur": "R. DERSOIR",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,600%",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "L'AS DES PRES (H9)",
+                    "Def.": "",
+                    "Jockey": "COUVREUX D.",
+                    "Entraineur": "",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+3,700%",
+                    "Pmu.fr": "38"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "LUTIN LUXOR (M/9)",
+                    "Def.": "",
+                    "Jockey": "CASTEL G.",
+                    "Entraineur": "L. LENEVEU",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+3,500%",
+                    "Pmu.fr": "36"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "KELINOT DES ETANGS (H10)",
+                    "Def.": "",
+                    "Jockey": "COUILLAUD MELLE V.",
+                    "Entraineur": "Mlle L. LAST",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,500%",
+                    "Pmu.fr": "46"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "LILAS BLEU (M)",
+                    "Def.": "",
+                    "Jockey": "GIRARD MELLE A.",
+                    "Entraineur": "Peupion J.L.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,000%",
+                    "Pmu.fr": "41"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "KHEOPS D'ARNAGE (H10)",
+                    "Def.": "",
+                    "Jockey": "NICLAIR K.",
+                    "Entraineur": "",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,100%",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "KRAC DE PARMENIE (H9)",
+                    "Def.": "",
+                    "Jockey": "FOURNIGAULT E.",
+                    "Entraineur": "J. FOURNIGAULT",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,200%",
+                    "Pmu.fr": "23"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "KIDY DE TOURELLE",
+                    "Def.": "",
+                    "Jockey": "BAUDY W.",
+                    "Entraineur": "Angot Y.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "KANSAS DES NIELLES (H9)",
+                    "Def.": "",
+                    "Jockey": "MORISSE MELLE A.",
+                    "Entraineur": "H. MAHE",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,900%",
+                    "Pmu.fr": "30"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "LENORA ROYALE (F)",
+                    "Def.": "",
+                    "Jockey": "MONCLIN J.PH.",
+                    "Entraineur": "Marmion J.P.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "KENILWORTH (H10)",
+                    "Def.": "",
+                    "Jockey": "LEPINAY A.",
+                    "Entraineur": "E. OHANESSIAN",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,900%",
+                    "Pmu.fr": "30"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "LACHEUSE DU VAL (F10)",
+                    "Def.": "",
+                    "Jockey": "LARUE R.CH.",
+                    "Entraineur": "D. LARUE",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+870%",
+                    "Pmu.fr": "9.7"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "KALINO DE MONTFORT (H10)",
+                    "Def.": "",
+                    "Jockey": "DAVODET MELLE L.",
+                    "Entraineur": "G. LAUREYS",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,000%",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "LAND HAVAROCHE (H10)",
+                    "Def.": "",
+                    "Jockey": "RAFFIN E.",
+                    "Entraineur": "B. GOETZ",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+520%",
+                    "Pmu.fr": "6.2"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "LE LOGIS (H9)",
+                    "Def.": "",
+                    "Jockey": "MASSCHAELE PH.",
+                    "Entraineur": "B. MARIE",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "16",
+                    "Cheval": "LOUVOIS (H/10)",
+                    "Def.": "",
+                    "Jockey": "NIVARD F.",
+                    "Entraineur": "SOREL J.CH.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+490%",
+                    "Pmu.fr": "5.9"
+                },
+                {
+                    "nÂ°": "17",
+                    "Cheval": "LET'S DREAM (H)",
+                    "Def.": "",
+                    "Jockey": "GOETZ MELLE M.A.",
+                    "Entraineur": "Goetz V.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,100%",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "18",
+                    "Cheval": "LOOK DU CHAILLOU (H8)",
+                    "Def.": "",
+                    "Jockey": "VERVA P.Y.",
+                    "Entraineur": "B. LIZEE",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+620%",
+                    "Pmu.fr": "7.2"
+                }
+            ],
+            "nb_participants_partants": 3,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=2863",
+                    "Cheval": "LACHEUSE DU VAL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=153&date=2006-10-26",
+                    "Jockey": "LARUE R.CH.",
+                    "Cote": "9.7",
+                    "Redkm": "1'15\"60"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=8554",
+                    "Cheval": "LAND HAVAROCHE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=137&date=2006-10-26",
+                    "Jockey": "RAFFIN E.",
+                    "Cote": "6.2",
+                    "Redkm": "1'15\"60"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=8319",
+                    "Cheval": "LOUVOIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=139&date=2006-10-26",
+                    "Jockey": "NIVARD F.",
+                    "Cote": "5.9",
+                    "Redkm": "1'15\"60"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=9610",
+                    "Cheval": "KHEOPS D'ARNAGE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=214&date=2006-10-26",
+                    "Jockey": "NICLAIR K.",
+                    "Cote": "22",
+                    "Redkm": "1'15\"70"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=19800",
+                    "Cheval": "KANSAS DES NIELLES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6514&date=2006-10-26",
+                    "Jockey": "MORISSE MELLE A.",
+                    "Cote": "30",
+                    "Redkm": "1'16\"00"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=24147",
+                    "Cheval": "L'AS DES PRES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2025&date=2006-10-26",
+                    "Jockey": "COUVREUX D.",
+                    "Cote": "38",
+                    "Redkm": "1'16\"20"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=1551",
+                    "Cheval": "KIDY DE TOURELLE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=863&date=2006-10-26",
+                    "Jockey": "BAUDY W.",
+                    "Cote": "15",
+                    "Redkm": "1'16\"30"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/enghien/20353_prix-du-champs-de-mars.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/enghien/20353_prix-du-champs-de-mars.html"
+            ],
+            "prix": "0",
+            "distance": "2150m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "7",
+            "heure": " 20:48 ",
+            "nom_de_la_course": "PRIX DU CHAMPS DE MARS",
+            "date": "2006-10-26",
+            "nb_participants": 9,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "QUARTZ DE CALENDES (M/5)",
+                    "Def.": "",
+                    "Jockey": "NICOLE CH.",
+                    "Entraineur": "NICOLE CH.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+670%",
+                    "Pmu.fr": "7.7"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "QRAWFORD (M/7)",
+                    "Def.": "",
+                    "Jockey": "NORDIN U.",
+                    "Entraineur": "PH.X. PERRON",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+460%",
+                    "Pmu.fr": "5.6"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "QUACAND D'OMBREE (H/7)",
+                    "Def.": "",
+                    "Jockey": "DESHAYES J.R.",
+                    "Entraineur": "FOURNIER S.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "QUIZ DES BROUETS (M6)",
+                    "Def.": "",
+                    "Jockey": "VERCRUYSSE P.",
+                    "Entraineur": "P. DAULIER",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+330%",
+                    "Pmu.fr": "4.3"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "QUID DE BOUSSIERES (H8)",
+                    "Def.": "",
+                    "Jockey": "THIBOUT P.",
+                    "Entraineur": "Y. SERES",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "QUESO MANCHEGO (M/7)",
+                    "Def.": "",
+                    "Jockey": "DUBOIS J.ET.",
+                    "Entraineur": "X. DECAUDIN",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "QUASSIA BLUE (H9)",
+                    "Def.": "",
+                    "Jockey": "CHALON CH.",
+                    "Entraineur": "R. WESTER",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+380%",
+                    "Pmu.fr": "4.8"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "QUATUSSO (H3)",
+                    "Def.": "",
+                    "Jockey": "LENOIR M.",
+                    "Entraineur": "M. LENOIR",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+530%",
+                    "Pmu.fr": "6.3"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "QADJAR TURGOT (H10)",
+                    "Def.": "",
+                    "Jockey": "ANNE F.",
+                    "Entraineur": "P. GODEY",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                }
+            ],
+            "nb_participants_partants": 9,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42492",
+                    "Cheval": "QUESO MANCHEGO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=492&date=2006-10-26",
+                    "Jockey": "DUBOIS J.ET.",
+                    "Cote": "14",
+                    "Redkm": "1'19\"10"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=41120",
+                    "Cheval": "QUIZ DES BROUETS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=489&date=2006-10-26",
+                    "Jockey": "VERCRUYSSE P.",
+                    "Cote": "4.3",
+                    "Redkm": "1'19\"30"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=40007",
+                    "Cheval": "QRAWFORD",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=5037&date=2006-10-26",
+                    "Jockey": "NORDIN U.",
+                    "Cote": "5.6",
+                    "Redkm": "1'19\"40"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43147",
+                    "Cheval": "QUATUSSO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=485&date=2006-10-26",
+                    "Jockey": "LENOIR M.",
+                    "Cote": "6.3",
+                    "Redkm": "1'19\"50"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=40686",
+                    "Cheval": "QUACAND D'OMBREE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7206&date=2006-10-26",
+                    "Jockey": "DESHAYES J.R.",
+                    "Cote": "15",
+                    "Redkm": "1'19\"50"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=39539",
+                    "Cheval": "QADJAR TURGOT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=932&date=2006-10-26",
+                    "Jockey": "ANNE F.",
+                    "Cote": "12",
+                    "Redkm": "1'19\"70"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=39851",
+                    "Cheval": "QUID DE BOUSSIERES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1366&date=2006-10-26",
+                    "Jockey": "THIBOUT P.",
+                    "Cote": "10",
+                    "Redkm": "1'21\"30"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2006-10-26/enghien/20354_prix-de-la-porte-de-vincennes.html",
+                "https://www.canalturf.com/resultats-PMU/2006-10-26/enghien/20354_prix-de-la-porte-de-vincennes.html"
+            ],
+            "prix": "0",
+            "distance": "2150m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "8",
+            "heure": " 21:15 ",
+            "nom_de_la_course": "PRIX DE LA PORTE DE VINCENNES",
+            "date": "2006-10-26",
+            "nb_participants": 14,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "PABLO DE CARLY (H9)",
+                    "Def.": "",
+                    "Jockey": "VERVA P.Y.",
+                    "Entraineur": "D. COURBOT",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+820%",
+                    "Pmu.fr": "9.2"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "PROPOS DE STAR (H9)",
+                    "Def.": "",
+                    "Jockey": "LAURENT A.",
+                    "Entraineur": "G. PARIS",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+780%",
+                    "Pmu.fr": "8.8"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "PAOLINO DI BANCO (H4)",
+                    "Def.": "",
+                    "Jockey": "LEPINAY A.",
+                    "Entraineur": "D. DORE",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "PRIVATE DANCER (H/7)",
+                    "Def.": "",
+                    "Jockey": "MASSCHAELE PH.",
+                    "Entraineur": "DE JESUS A.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "PRECIOUS DIAMOND (F3)",
+                    "Def.": "",
+                    "Jockey": "NICOLE CH.",
+                    "Entraineur": "LONN MARIE",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,400%",
+                    "Pmu.fr": "25"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "PELITO (H/8)",
+                    "Def.": "",
+                    "Jockey": "D'HAENENS N.",
+                    "Entraineur": "B. HOJKA",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,700%",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "PACING (M/7)",
+                    "Def.": "",
+                    "Jockey": "GILBERT MARTENS",
+                    "Entraineur": "VERPLANCKEN FREDDY",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,700%",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "PICK WICK (H/7)",
+                    "Def.": "",
+                    "Jockey": "BAZIRE J.M.",
+                    "Entraineur": "PUJOL R.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+180%",
+                    "Pmu.fr": "2.8"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "PUNCH (M/8)",
+                    "Def.": "",
+                    "Jockey": "MASSEGUIN B.",
+                    "Entraineur": "ANDERS LINDQVIST",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+3,400%",
+                    "Pmu.fr": "35"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "PICCOLO MONDO (H4)",
+                    "Def.": "",
+                    "Jockey": "GAILLARD J.",
+                    "Entraineur": "PH. BENGALA",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+7,800%",
+                    "Pmu.fr": "79"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "POWER STROH (M6)",
+                    "Def.": "",
+                    "Jockey": "DUBOIS F.F.",
+                    "Entraineur": "G. VERVA",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,300%",
+                    "Pmu.fr": "24"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "PLOGOFF",
+                    "Def.": "",
+                    "Jockey": "BARTHELEMY P.",
+                    "Entraineur": "Barthelemy P.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,200%",
+                    "Pmu.fr": "23"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "PACTOLE DE BOOTZ (H/8)",
+                    "Def.": "",
+                    "Jockey": "LECELLIER P.",
+                    "Entraineur": "S. CINGLAND",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "PLAISIR (H9)",
+                    "Def.": "",
+                    "Jockey": "DUBOIS J.ET.",
+                    "Entraineur": "G.R. HUGUET",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+840%",
+                    "Pmu.fr": "9.4"
+                }
+            ],
+            "nb_participants_partants": 14,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42495",
+                    "Cheval": "PLAISIR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=492&date=2006-10-26",
+                    "Jockey": "DUBOIS J.ET.",
+                    "Cote": "9.4",
+                    "Redkm": "1'17\"50"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=33862",
+                    "Cheval": "PICK WICK",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3169&date=2006-10-26",
+                    "Jockey": "BAZIRE J.M.",
+                    "Cote": "2.8",
+                    "Redkm": "1'17\"70"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=34929",
+                    "Cheval": "PAOLINO DI BANCO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2488&date=2006-10-26",
+                    "Jockey": "LEPINAY A.",
+                    "Cote": "14",
+                    "Redkm": "1'17\"80"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38634",
+                    "Cheval": "PACTOLE DE BOOTZ",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=203&date=2006-10-26",
+                    "Jockey": "LECELLIER P.",
+                    "Cote": "10",
+                    "Redkm": "1'17\"90"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=28275",
+                    "Cheval": "PRECIOUS DIAMOND",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1633&date=2006-10-26",
+                    "Jockey": "NICOLE CH.",
+                    "Cote": "25",
+                    "Redkm": "1'17\"90"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42274",
+                    "Cheval": "PABLO DE CARLY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=491&date=2006-10-26",
+                    "Jockey": "VERVA P.Y.",
+                    "Cote": "9.2",
+                    "Redkm": "1'18\"10"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=27135",
+                    "Cheval": "PACING",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1069&date=2006-10-26",
+                    "Jockey": "GILBERT MARTENS",
+                    "Cote": "18",
+                    "Redkm": "1'18\"20"
+                }
+            ]
+        }
+    ],
+    "nb_courses": 16
+}

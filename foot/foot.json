@@ -1,0 +1,7372 @@
+[{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b1f"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Lens",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b20"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Strasbourg",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b21"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Brest",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 3,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b22"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Reims",
+  "egaliter": 8,
+  "equipe1_win": 4,
+  "equipe2_win": 2,
+  "nb_total_match": 14,
+  "perc_egaliter": 57.142857142857146,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 14.285714285714286
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b23"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Nantes",
+  "egaliter": 5,
+  "equipe1_win": 8,
+  "equipe2_win": 5,
+  "nb_total_match": 18,
+  "perc_egaliter": 27.77777777777778,
+  "perc_equipe1_win": 44.44444444444444,
+  "perc_equipe2_win": 27.77777777777778
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b24"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Rennes",
+  "egaliter": 10,
+  "equipe1_win": 8,
+  "equipe2_win": 5,
+  "nb_total_match": 23,
+  "perc_egaliter": 43.47826086956522,
+  "perc_equipe1_win": 34.78260869565217,
+  "perc_equipe2_win": 21.73913043478261
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b25"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Lyon",
+  "egaliter": 4,
+  "equipe1_win": 7,
+  "equipe2_win": 14,
+  "nb_total_match": 25,
+  "perc_egaliter": 16,
+  "perc_equipe1_win": 28,
+  "perc_equipe2_win": 56
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b26"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "ASSE",
+  "egaliter": 9,
+  "equipe1_win": 13,
+  "equipe2_win": 4,
+  "nb_total_match": 26,
+  "perc_egaliter": 34.61538461538461,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 15.384615384615385
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b27"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Metz",
+  "egaliter": 0,
+  "equipe1_win": 10,
+  "equipe2_win": 0,
+  "nb_total_match": 10,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b28"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Angers",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 7,
+  "nb_total_match": 8,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 12.5,
+  "perc_equipe2_win": 87.5
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b29"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Dijon",
+  "egaliter": 2,
+  "equipe1_win": 7,
+  "equipe2_win": 2,
+  "nb_total_match": 11,
+  "perc_egaliter": 18.181818181818183,
+  "perc_equipe1_win": 63.63636363636363,
+  "perc_equipe2_win": 18.181818181818183
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b2a"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Montpellier",
+  "egaliter": 6,
+  "equipe1_win": 10,
+  "equipe2_win": 8,
+  "nb_total_match": 24,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 41.666666666666664,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b2b"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Nice",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 2,
+  "nb_total_match": 9,
+  "perc_egaliter": 22.22222222222222,
+  "perc_equipe1_win": 55.55555555555556,
+  "perc_equipe2_win": 22.22222222222222
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b2c"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Lille",
+  "egaliter": 3,
+  "equipe1_win": 6,
+  "equipe2_win": 6,
+  "nb_total_match": 15,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b2d"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Nîmes",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 5,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b2e"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Lorient",
+  "egaliter": 2,
+  "equipe1_win": 8,
+  "equipe2_win": 10,
+  "nb_total_match": 20,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b2f"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Monaco",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 10,
+  "nb_total_match": 11,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 9.090909090909092,
+  "perc_equipe2_win": 90.9090909090909
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b30"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Bordeaux",
+  "egaliter": 5,
+  "equipe1_win": 5,
+  "equipe2_win": 3,
+  "nb_total_match": 13,
+  "perc_egaliter": 38.46153846153846,
+  "perc_equipe1_win": 38.46153846153846,
+  "perc_equipe2_win": 23.076923076923077
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b31"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Marseille",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 7,
+  "nb_total_match": 11,
+  "perc_egaliter": 18.181818181818183,
+  "perc_equipe1_win": 18.181818181818183,
+  "perc_equipe2_win": 63.63636363636363
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b32"
+  },
+  "equipe1": "Lens",
+  "equipe2": "PSG",
+  "egaliter": 5,
+  "equipe1_win": 1,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 10,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b33"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Lyon",
+  "egaliter": 10,
+  "equipe1_win": 7,
+  "equipe2_win": 9,
+  "nb_total_match": 26,
+  "perc_egaliter": 38.46153846153846,
+  "perc_equipe1_win": 26.923076923076923,
+  "perc_equipe2_win": 34.61538461538461
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b34"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Nice",
+  "egaliter": 5,
+  "equipe1_win": 13,
+  "equipe2_win": 7,
+  "nb_total_match": 25,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 52,
+  "perc_equipe2_win": 28
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b35"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Strasbourg",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 3,
+  "nb_total_match": 9,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b36"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Metz",
+  "egaliter": 4,
+  "equipe1_win": 4,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b37"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Lens",
+  "egaliter": 3,
+  "equipe1_win": 5,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b38"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Brest",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b39"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Rennes",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 5,
+  "nb_total_match": 6,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 83.33333333333333
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b3a"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Reims",
+  "egaliter": 5,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b3b"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Nantes",
+  "egaliter": 3,
+  "equipe1_win": 13,
+  "equipe2_win": 1,
+  "nb_total_match": 17,
+  "perc_egaliter": 17.647058823529413,
+  "perc_equipe1_win": 76.47058823529412,
+  "perc_equipe2_win": 5.882352941176471
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b3c"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Marseille",
+  "egaliter": 4,
+  "equipe1_win": 16,
+  "equipe2_win": 5,
+  "nb_total_match": 25,
+  "perc_egaliter": 16,
+  "perc_equipe1_win": 64,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b3d"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Nîmes",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 0,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 75,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b3e"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Bordeaux",
+  "egaliter": 1,
+  "equipe1_win": 4,
+  "equipe2_win": 4,
+  "nb_total_match": 9,
+  "perc_egaliter": 11.11111111111111,
+  "perc_equipe1_win": 44.44444444444444,
+  "perc_equipe2_win": 44.44444444444444
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b3f"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Monaco",
+  "egaliter": 5,
+  "equipe1_win": 5,
+  "equipe2_win": 10,
+  "nb_total_match": 20,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b40"
+  },
+  "equipe1": "Nice",
+  "equipe2": "PSG",
+  "egaliter": 5,
+  "equipe1_win": 5,
+  "equipe2_win": 15,
+  "nb_total_match": 25,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b41"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Angers",
+  "egaliter": 4,
+  "equipe1_win": 5,
+  "equipe2_win": 3,
+  "nb_total_match": 12,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 41.666666666666664,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b42"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Dijon",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 7,
+  "perc_egaliter": 28.571428571428573,
+  "perc_equipe1_win": 42.857142857142854,
+  "perc_equipe2_win": 28.571428571428573
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b43"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Reims",
+  "egaliter": 4,
+  "equipe1_win": 4,
+  "equipe2_win": 0,
+  "nb_total_match": 8,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b44"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Lorient",
+  "egaliter": 1,
+  "equipe1_win": 4,
+  "equipe2_win": 5,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b45"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "ASSE",
+  "egaliter": 7,
+  "equipe1_win": 3,
+  "equipe2_win": 7,
+  "nb_total_match": 17,
+  "perc_egaliter": 41.1764705882353,
+  "perc_equipe1_win": 17.647058823529413,
+  "perc_equipe2_win": 41.1764705882353
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b46"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Lille",
+  "egaliter": 6,
+  "equipe1_win": 12,
+  "equipe2_win": 8,
+  "nb_total_match": 26,
+  "perc_egaliter": 23.076923076923077,
+  "perc_equipe1_win": 46.15384615384615,
+  "perc_equipe2_win": 30.76923076923077
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b47"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Nantes",
+  "egaliter": 5,
+  "equipe1_win": 11,
+  "equipe2_win": 1,
+  "nb_total_match": 17,
+  "perc_egaliter": 29.41176470588235,
+  "perc_equipe1_win": 64.70588235294117,
+  "perc_equipe2_win": 5.882352941176471
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b48"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Rennes",
+  "egaliter": 12,
+  "equipe1_win": 4,
+  "equipe2_win": 9,
+  "nb_total_match": 25,
+  "perc_egaliter": 48,
+  "perc_equipe1_win": 16,
+  "perc_equipe2_win": 36
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b49"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Metz",
+  "egaliter": 4,
+  "equipe1_win": 6,
+  "equipe2_win": 1,
+  "nb_total_match": 11,
+  "perc_egaliter": 36.36363636363637,
+  "perc_equipe1_win": 54.54545454545455,
+  "perc_equipe2_win": 9.090909090909092
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b4a"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Nice",
+  "egaliter": 9,
+  "equipe1_win": 6,
+  "equipe2_win": 11,
+  "nb_total_match": 26,
+  "perc_egaliter": 34.61538461538461,
+  "perc_equipe1_win": 23.076923076923077,
+  "perc_equipe2_win": 42.30769230769231
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b4b"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Strasbourg",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 5,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 30,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b4c"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Lens",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b4d"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Montpellier",
+  "egaliter": 7,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 12,
+  "perc_egaliter": 58.333333333333336,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b4e"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Brest",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b4f"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Lyon",
+  "egaliter": 6,
+  "equipe1_win": 4,
+  "equipe2_win": 10,
+  "nb_total_match": 20,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b50"
+  },
+  "equipe1": "Reims",
+  "equipe2": "PSG",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 9,
+  "nb_total_match": 13,
+  "perc_egaliter": 15.384615384615385,
+  "perc_equipe1_win": 15.384615384615385,
+  "perc_equipe2_win": 69.23076923076923
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b51"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Angers",
+  "egaliter": 1,
+  "equipe1_win": 12,
+  "equipe2_win": 0,
+  "nb_total_match": 13,
+  "perc_egaliter": 7.6923076923076925,
+  "perc_equipe1_win": 92.3076923076923,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b52"
+  },
+  "equipe1": "Lens",
+  "equipe2": "ASSE",
+  "egaliter": 2,
+  "equipe1_win": 6,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b53"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Nantes",
+  "egaliter": 5,
+  "equipe1_win": 7,
+  "equipe2_win": 5,
+  "nb_total_match": 17,
+  "perc_egaliter": 29.41176470588235,
+  "perc_equipe1_win": 41.1764705882353,
+  "perc_equipe2_win": 29.41176470588235
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b54"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Nîmes",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b55"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Lille",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 6,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 10,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b56"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Monaco",
+  "egaliter": 0,
+  "equipe1_win": 4,
+  "equipe2_win": 3,
+  "nb_total_match": 7,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 57.142857142857146,
+  "perc_equipe2_win": 42.857142857142854
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b57"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Dijon",
+  "egaliter": 4,
+  "equipe1_win": 6,
+  "equipe2_win": 2,
+  "nb_total_match": 12,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b58"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Lorient",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 5,
+  "nb_total_match": 8,
+  "perc_egaliter": 12.5,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 62.5
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b59"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Reims",
+  "egaliter": 3,
+  "equipe1_win": 4,
+  "equipe2_win": 8,
+  "nb_total_match": 15,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 26.666666666666668,
+  "perc_equipe2_win": 53.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b5a"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Marseille",
+  "egaliter": 11,
+  "equipe1_win": 11,
+  "equipe2_win": 3,
+  "nb_total_match": 25,
+  "perc_egaliter": 44,
+  "perc_equipe1_win": 44,
+  "perc_equipe2_win": 12
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b5b"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Rennes",
+  "egaliter": 3,
+  "equipe1_win": 4,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b5c"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "PSG",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 5,
+  "nb_total_match": 5,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b5d"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Lorient",
+  "egaliter": 4,
+  "equipe1_win": 4,
+  "equipe2_win": 4,
+  "nb_total_match": 12,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b5e"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Bordeaux",
+  "egaliter": 14,
+  "equipe1_win": 8,
+  "equipe2_win": 4,
+  "nb_total_match": 26,
+  "perc_egaliter": 53.84615384615385,
+  "perc_equipe1_win": 30.76923076923077,
+  "perc_equipe2_win": 15.384615384615385
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b5f"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Nice",
+  "egaliter": 4,
+  "equipe1_win": 8,
+  "equipe2_win": 12,
+  "nb_total_match": 24,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b60"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Metz",
+  "egaliter": 1,
+  "equipe1_win": 5,
+  "equipe2_win": 3,
+  "nb_total_match": 9,
+  "perc_egaliter": 11.11111111111111,
+  "perc_equipe1_win": 55.55555555555556,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b61"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Montpellier",
+  "egaliter": 8,
+  "equipe1_win": 10,
+  "equipe2_win": 3,
+  "nb_total_match": 21,
+  "perc_egaliter": 38.095238095238095,
+  "perc_equipe1_win": 47.61904761904762,
+  "perc_equipe2_win": 14.285714285714286
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b62"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Lyon",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 6,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 10,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b63"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Brest",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 0,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b64"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Lens",
+  "egaliter": 2,
+  "equipe1_win": 6,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b65"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Angers",
+  "egaliter": 3,
+  "equipe1_win": 8,
+  "equipe2_win": 2,
+  "nb_total_match": 13,
+  "perc_egaliter": 23.076923076923077,
+  "perc_equipe1_win": 61.53846153846154,
+  "perc_equipe2_win": 15.384615384615385
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b66"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Marseille",
+  "egaliter": 5,
+  "equipe1_win": 3,
+  "equipe2_win": 12,
+  "nb_total_match": 20,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 15,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b67"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Dijon",
+  "egaliter": 0,
+  "equipe1_win": 11,
+  "equipe2_win": 1,
+  "nb_total_match": 12,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 91.66666666666667,
+  "perc_equipe2_win": 8.333333333333334
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b68"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Strasbourg",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 5,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b69"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Reims",
+  "egaliter": 4,
+  "equipe1_win": 6,
+  "equipe2_win": 5,
+  "nb_total_match": 15,
+  "perc_egaliter": 26.666666666666668,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b6a"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Nîmes",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 5,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b6b"
+  },
+  "equipe1": "Metz",
+  "equipe2": "ASSE",
+  "egaliter": 3,
+  "equipe1_win": 4,
+  "equipe2_win": 5,
+  "nb_total_match": 12,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 41.666666666666664
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b6c"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Lille",
+  "egaliter": 12,
+  "equipe1_win": 8,
+  "equipe2_win": 5,
+  "nb_total_match": 25,
+  "perc_egaliter": 48,
+  "perc_equipe1_win": 32,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b6d"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Monaco",
+  "egaliter": 4,
+  "equipe1_win": 10,
+  "equipe2_win": 6,
+  "nb_total_match": 20,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b6e"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Nantes",
+  "egaliter": 3,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 5,
+  "perc_egaliter": 60,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b6f"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Brest",
+  "egaliter": 5,
+  "equipe1_win": 6,
+  "equipe2_win": 1,
+  "nb_total_match": 12,
+  "perc_egaliter": 41.666666666666664,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 8.333333333333334
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b70"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "PSG",
+  "egaliter": 0,
+  "equipe1_win": 3,
+  "equipe2_win": 14,
+  "nb_total_match": 17,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 17.647058823529413,
+  "perc_equipe2_win": 82.3529411764706
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b71"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Montpellier",
+  "egaliter": 4,
+  "equipe1_win": 14,
+  "equipe2_win": 8,
+  "nb_total_match": 26,
+  "perc_egaliter": 15.384615384615385,
+  "perc_equipe1_win": 53.84615384615385,
+  "perc_equipe2_win": 30.76923076923077
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b72"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Lorient",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b73"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Nice",
+  "egaliter": 5,
+  "equipe1_win": 2,
+  "equipe2_win": 7,
+  "nb_total_match": 14,
+  "perc_egaliter": 35.714285714285715,
+  "perc_equipe1_win": 14.285714285714286,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b74"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Strasbourg",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e51c31508e64a658b75"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Metz",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 3,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b76"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Bordeaux",
+  "egaliter": 5,
+  "equipe1_win": 9,
+  "equipe2_win": 6,
+  "nb_total_match": 20,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 45,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b77"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Lyon",
+  "egaliter": 11,
+  "equipe1_win": 10,
+  "equipe2_win": 4,
+  "nb_total_match": 25,
+  "perc_egaliter": 44,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 16
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b78"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Lens",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b79"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Marseille",
+  "egaliter": 3,
+  "equipe1_win": 0,
+  "equipe2_win": 5,
+  "nb_total_match": 8,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 62.5
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b7a"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Montpellier",
+  "egaliter": 6,
+  "equipe1_win": 7,
+  "equipe2_win": 10,
+  "nb_total_match": 23,
+  "perc_egaliter": 26.08695652173913,
+  "perc_equipe1_win": 30.434782608695652,
+  "perc_equipe2_win": 43.47826086956522
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b7b"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Rennes",
+  "egaliter": 5,
+  "equipe1_win": 13,
+  "equipe2_win": 7,
+  "nb_total_match": 25,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 52,
+  "perc_equipe2_win": 28
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b7c"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Lille",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 6,
+  "nb_total_match": 11,
+  "perc_egaliter": 18.181818181818183,
+  "perc_equipe1_win": 27.272727272727273,
+  "perc_equipe2_win": 54.54545454545455
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b7d"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Dijon",
+  "egaliter": 4,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 7,
+  "perc_egaliter": 57.142857142857146,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 14.285714285714286
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b7e"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Angers",
+  "egaliter": 0,
+  "equipe1_win": 3,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b7f"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Reims",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 0,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b80"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Nantes",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 8,
+  "nb_total_match": 12,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 8.333333333333334,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b81"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Monaco",
+  "egaliter": 4,
+  "equipe1_win": 4,
+  "equipe2_win": 12,
+  "nb_total_match": 20,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b82"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "ASSE",
+  "egaliter": 5,
+  "equipe1_win": 15,
+  "equipe2_win": 6,
+  "nb_total_match": 26,
+  "perc_egaliter": 19.23076923076923,
+  "perc_equipe1_win": 57.69230769230769,
+  "perc_equipe2_win": 23.076923076923077
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b83"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Bordeaux",
+  "egaliter": 10,
+  "equipe1_win": 7,
+  "equipe2_win": 8,
+  "nb_total_match": 25,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 28,
+  "perc_equipe2_win": 32
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b84"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "PSG",
+  "egaliter": 8,
+  "equipe1_win": 7,
+  "equipe2_win": 7,
+  "nb_total_match": 22,
+  "perc_egaliter": 36.36363636363637,
+  "perc_equipe1_win": 31.818181818181817,
+  "perc_equipe2_win": 31.818181818181817
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b85"
+  },
+  "equipe1": "Brest",
+  "equipe2": "ASSE",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 5,
+  "nb_total_match": 12,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 41.666666666666664,
+  "perc_equipe2_win": 41.666666666666664
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b86"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Metz",
+  "egaliter": 7,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 12,
+  "perc_egaliter": 58.333333333333336,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b87"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Nîmes",
+  "egaliter": 3,
+  "equipe1_win": 0,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b88"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Lens",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b89"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Strasbourg",
+  "egaliter": 4,
+  "equipe1_win": 4,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b8a"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Lyon",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 9,
+  "nb_total_match": 13,
+  "perc_egaliter": 15.384615384615385,
+  "perc_equipe1_win": 15.384615384615385,
+  "perc_equipe2_win": 69.23076923076923
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b8b"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Lorient",
+  "egaliter": 2,
+  "equipe1_win": 10,
+  "equipe2_win": 6,
+  "nb_total_match": 18,
+  "perc_egaliter": 11.11111111111111,
+  "perc_equipe1_win": 55.55555555555556,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b8c"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Nice",
+  "egaliter": 4,
+  "equipe1_win": 14,
+  "equipe2_win": 7,
+  "nb_total_match": 25,
+  "perc_egaliter": 16,
+  "perc_equipe1_win": 56,
+  "perc_equipe2_win": 28
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b8d"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Rennes",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 5,
+  "nb_total_match": 9,
+  "perc_egaliter": 11.11111111111111,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 55.55555555555556
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b8e"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Nantes",
+  "egaliter": 5,
+  "equipe1_win": 7,
+  "equipe2_win": 6,
+  "nb_total_match": 18,
+  "perc_egaliter": 27.77777777777778,
+  "perc_equipe1_win": 38.888888888888886,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b8f"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Bordeaux",
+  "egaliter": 7,
+  "equipe1_win": 15,
+  "equipe2_win": 4,
+  "nb_total_match": 26,
+  "perc_egaliter": 26.923076923076923,
+  "perc_equipe1_win": 57.69230769230769,
+  "perc_equipe2_win": 15.384615384615385
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b90"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Reims",
+  "egaliter": 4,
+  "equipe1_win": 6,
+  "equipe2_win": 4,
+  "nb_total_match": 14,
+  "perc_egaliter": 28.571428571428573,
+  "perc_equipe1_win": 42.857142857142854,
+  "perc_equipe2_win": 28.571428571428573
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b91"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Montpellier",
+  "egaliter": 7,
+  "equipe1_win": 3,
+  "equipe2_win": 10,
+  "nb_total_match": 20,
+  "perc_egaliter": 35,
+  "perc_equipe1_win": 15,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b92"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Angers",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b93"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Brest",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 5,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b94"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Nîmes",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b95"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Dijon",
+  "egaliter": 1,
+  "equipe1_win": 5,
+  "equipe2_win": 5,
+  "nb_total_match": 11,
+  "perc_egaliter": 9.090909090909092,
+  "perc_equipe1_win": 45.45454545454545,
+  "perc_equipe2_win": 45.45454545454545
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b96"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Lille",
+  "egaliter": 8,
+  "equipe1_win": 3,
+  "equipe2_win": 11,
+  "nb_total_match": 22,
+  "perc_egaliter": 36.36363636363637,
+  "perc_equipe1_win": 13.636363636363637,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b97"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Marseille",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b98"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Lens",
+  "egaliter": 5,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 30,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b99"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "PSG",
+  "egaliter": 9,
+  "equipe1_win": 2,
+  "equipe2_win": 13,
+  "nb_total_match": 24,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 8.333333333333334,
+  "perc_equipe2_win": 54.166666666666664
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b9a"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Monaco",
+  "egaliter": 6,
+  "equipe1_win": 6,
+  "equipe2_win": 9,
+  "nb_total_match": 21,
+  "perc_egaliter": 28.571428571428573,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 42.857142857142854
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b9b"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Brest",
+  "egaliter": 4,
+  "equipe1_win": 3,
+  "equipe2_win": 4,
+  "nb_total_match": 11,
+  "perc_egaliter": 36.36363636363637,
+  "perc_equipe1_win": 27.272727272727273,
+  "perc_equipe2_win": 36.36363636363637
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b9c"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Lorient",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b9d"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Strasbourg",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 3,
+  "nb_total_match": 7,
+  "perc_egaliter": 14.285714285714286,
+  "perc_equipe1_win": 42.857142857142854,
+  "perc_equipe2_win": 42.857142857142854
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b9e"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "ASSE",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 7,
+  "nb_total_match": 11,
+  "perc_egaliter": 27.272727272727273,
+  "perc_equipe1_win": 9.090909090909092,
+  "perc_equipe2_win": 63.63636363636363
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658b9f"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Nice",
+  "egaliter": 7,
+  "equipe1_win": 3,
+  "equipe2_win": 5,
+  "nb_total_match": 15,
+  "perc_egaliter": 46.666666666666664,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba0"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Lyon",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 8,
+  "nb_total_match": 12,
+  "perc_egaliter": 8.333333333333334,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba1"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Angers",
+  "egaliter": 4,
+  "equipe1_win": 7,
+  "equipe2_win": 1,
+  "nb_total_match": 12,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 58.333333333333336,
+  "perc_equipe2_win": 8.333333333333334
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba2"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Monaco",
+  "egaliter": 5,
+  "equipe1_win": 6,
+  "equipe2_win": 10,
+  "nb_total_match": 21,
+  "perc_egaliter": 23.80952380952381,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 47.61904761904762
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba3"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Montpellier",
+  "egaliter": 1,
+  "equipe1_win": 4,
+  "equipe2_win": 5,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba4"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Rennes",
+  "egaliter": 8,
+  "equipe1_win": 12,
+  "equipe2_win": 6,
+  "nb_total_match": 26,
+  "perc_egaliter": 30.76923076923077,
+  "perc_equipe1_win": 46.15384615384615,
+  "perc_equipe2_win": 23.076923076923077
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba5"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Nîmes",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba6"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Reims",
+  "egaliter": 3,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 7,
+  "perc_egaliter": 42.857142857142854,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 28.571428571428573
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba7"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Dijon",
+  "egaliter": 3,
+  "equipe1_win": 5,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba8"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Metz",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658ba9"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Bordeaux",
+  "egaliter": 7,
+  "equipe1_win": 10,
+  "equipe2_win": 8,
+  "nb_total_match": 25,
+  "perc_egaliter": 28,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 32
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658baa"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Lyon",
+  "egaliter": 6,
+  "equipe1_win": 14,
+  "equipe2_win": 6,
+  "nb_total_match": 26,
+  "perc_egaliter": 23.076923076923077,
+  "perc_equipe1_win": 53.84615384615385,
+  "perc_equipe2_win": 23.076923076923077
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bab"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Nice",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 5,
+  "nb_total_match": 6,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 83.33333333333333
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bac"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Nantes",
+  "egaliter": 4,
+  "equipe1_win": 6,
+  "equipe2_win": 3,
+  "nb_total_match": 13,
+  "perc_egaliter": 30.76923076923077,
+  "perc_equipe1_win": 46.15384615384615,
+  "perc_equipe2_win": 23.076923076923077
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bad"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Lille",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 9,
+  "nb_total_match": 12,
+  "perc_egaliter": 8.333333333333334,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 75
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bae"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Metz",
+  "egaliter": 4,
+  "equipe1_win": 4,
+  "equipe2_win": 4,
+  "nb_total_match": 12,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658baf"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Strasbourg",
+  "egaliter": 4,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 9,
+  "perc_egaliter": 44.44444444444444,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 22.22222222222222
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb0"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Brest",
+  "egaliter": 7,
+  "equipe1_win": 3,
+  "equipe2_win": 1,
+  "nb_total_match": 11,
+  "perc_egaliter": 63.63636363636363,
+  "perc_equipe1_win": 27.272727272727273,
+  "perc_equipe2_win": 9.090909090909092
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb1"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Lorient",
+  "egaliter": 5,
+  "equipe1_win": 10,
+  "equipe2_win": 3,
+  "nb_total_match": 18,
+  "perc_egaliter": 27.77777777777778,
+  "perc_equipe1_win": 55.55555555555556,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb2"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Lens",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 3,
+  "nb_total_match": 9,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb3"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Marseille",
+  "egaliter": 8,
+  "equipe1_win": 7,
+  "equipe2_win": 11,
+  "nb_total_match": 26,
+  "perc_egaliter": 30.76923076923077,
+  "perc_equipe1_win": 26.923076923076923,
+  "perc_equipe2_win": 42.30769230769231
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb4"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "ASSE",
+  "egaliter": 7,
+  "equipe1_win": 9,
+  "equipe2_win": 8,
+  "nb_total_match": 24,
+  "perc_egaliter": 29.166666666666668,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb5"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Lens",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb6"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Reims",
+  "egaliter": 5,
+  "equipe1_win": 5,
+  "equipe2_win": 4,
+  "nb_total_match": 14,
+  "perc_egaliter": 35.714285714285715,
+  "perc_equipe1_win": 35.714285714285715,
+  "perc_equipe2_win": 28.571428571428573
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb7"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Lyon",
+  "egaliter": 3,
+  "equipe1_win": 9,
+  "equipe2_win": 10,
+  "nb_total_match": 22,
+  "perc_egaliter": 13.636363636363637,
+  "perc_equipe1_win": 40.90909090909091,
+  "perc_equipe2_win": 45.45454545454545
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb8"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Montpellier",
+  "egaliter": 5,
+  "equipe1_win": 1,
+  "equipe2_win": 5,
+  "nb_total_match": 11,
+  "perc_egaliter": 45.45454545454545,
+  "perc_equipe1_win": 9.090909090909092,
+  "perc_equipe2_win": 45.45454545454545
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bb9"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Monaco",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 6,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 10,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bba"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Angers",
+  "egaliter": 4,
+  "equipe1_win": 7,
+  "equipe2_win": 2,
+  "nb_total_match": 13,
+  "perc_egaliter": 30.76923076923077,
+  "perc_equipe1_win": 53.84615384615385,
+  "perc_equipe2_win": 15.384615384615385
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bbb"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Nîmes",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 0,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bbc"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Bordeaux",
+  "egaliter": 0,
+  "equipe1_win": 6,
+  "equipe2_win": 3,
+  "nb_total_match": 9,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bbd"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Rennes",
+  "egaliter": 6,
+  "equipe1_win": 5,
+  "equipe2_win": 9,
+  "nb_total_match": 20,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 45
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bbe"
+  },
+  "equipe1": "Lille",
+  "equipe2": "PSG",
+  "egaliter": 7,
+  "equipe1_win": 4,
+  "equipe2_win": 15,
+  "nb_total_match": 26,
+  "perc_egaliter": 26.923076923076923,
+  "perc_equipe1_win": 15.384615384615385,
+  "perc_equipe2_win": 57.69230769230769
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bbf"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Metz",
+  "egaliter": 3,
+  "equipe1_win": 7,
+  "equipe2_win": 1,
+  "nb_total_match": 11,
+  "perc_egaliter": 27.272727272727273,
+  "perc_equipe1_win": 63.63636363636363,
+  "perc_equipe2_win": 9.090909090909092
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc0"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Brest",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc1"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Lorient",
+  "egaliter": 6,
+  "equipe1_win": 9,
+  "equipe2_win": 5,
+  "nb_total_match": 20,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 45,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc2"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Reims",
+  "egaliter": 6,
+  "equipe1_win": 2,
+  "equipe2_win": 7,
+  "nb_total_match": 15,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 13.333333333333334,
+  "perc_equipe2_win": 46.666666666666664
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc3"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Dijon",
+  "egaliter": 1,
+  "equipe1_win": 4,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc4"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "ASSE",
+  "egaliter": 6,
+  "equipe1_win": 8,
+  "equipe2_win": 7,
+  "nb_total_match": 21,
+  "perc_egaliter": 28.571428571428573,
+  "perc_equipe1_win": 38.095238095238095,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc5"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Strasbourg",
+  "egaliter": 3,
+  "equipe1_win": 5,
+  "equipe2_win": 1,
+  "nb_total_match": 9,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 55.55555555555556,
+  "perc_equipe2_win": 11.11111111111111
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc6"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Marseille",
+  "egaliter": 7,
+  "equipe1_win": 2,
+  "equipe2_win": 5,
+  "nb_total_match": 14,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 14.285714285714286,
+  "perc_equipe2_win": 35.714285714285715
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc7"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Nantes",
+  "egaliter": 4,
+  "equipe1_win": 11,
+  "equipe2_win": 2,
+  "nb_total_match": 17,
+  "perc_egaliter": 23.529411764705884,
+  "perc_equipe1_win": 64.70588235294117,
+  "perc_equipe2_win": 11.764705882352942
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc8"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Lille",
+  "egaliter": 5,
+  "equipe1_win": 6,
+  "equipe2_win": 14,
+  "nb_total_match": 25,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 24,
+  "perc_equipe2_win": 56
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bc9"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Nice",
+  "egaliter": 5,
+  "equipe1_win": 2,
+  "equipe2_win": 5,
+  "nb_total_match": 12,
+  "perc_egaliter": 41.666666666666664,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 41.666666666666664
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bca"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Nîmes",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bcb"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Rennes",
+  "egaliter": 6,
+  "equipe1_win": 3,
+  "equipe2_win": 9,
+  "nb_total_match": 18,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bcc"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Bordeaux",
+  "egaliter": 4,
+  "equipe1_win": 1,
+  "equipe2_win": 6,
+  "nb_total_match": 11,
+  "perc_egaliter": 36.36363636363637,
+  "perc_equipe1_win": 9.090909090909092,
+  "perc_equipe2_win": 54.54545454545455
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bcd"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Monaco",
+  "egaliter": 4,
+  "equipe1_win": 4,
+  "equipe2_win": 7,
+  "nb_total_match": 15,
+  "perc_egaliter": 26.666666666666668,
+  "perc_equipe1_win": 26.666666666666668,
+  "perc_equipe2_win": 46.666666666666664
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bce"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Dijon",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 60,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bcf"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Montpellier",
+  "egaliter": 5,
+  "equipe1_win": 12,
+  "equipe2_win": 7,
+  "nb_total_match": 24,
+  "perc_egaliter": 20.833333333333332,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 29.166666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd0"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "PSG",
+  "egaliter": 6,
+  "equipe1_win": 1,
+  "equipe2_win": 17,
+  "nb_total_match": 24,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 4.166666666666667,
+  "perc_equipe2_win": 70.83333333333333
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd1"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Angers",
+  "egaliter": 4,
+  "equipe1_win": 4,
+  "equipe2_win": 6,
+  "nb_total_match": 14,
+  "perc_egaliter": 28.571428571428573,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 42.857142857142854
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd2"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Lens",
+  "egaliter": 2,
+  "equipe1_win": 7,
+  "equipe2_win": 1,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 70,
+  "perc_equipe2_win": 10
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd3"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Lyon",
+  "egaliter": 8,
+  "equipe1_win": 8,
+  "equipe2_win": 7,
+  "nb_total_match": 23,
+  "perc_egaliter": 34.78260869565217,
+  "perc_equipe1_win": 34.78260869565217,
+  "perc_equipe2_win": 30.434782608695652
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd4"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Strasbourg",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 75
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd5"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Nice",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 5,
+  "nb_total_match": 11,
+  "perc_egaliter": 27.272727272727273,
+  "perc_equipe1_win": 27.272727272727273,
+  "perc_equipe2_win": 45.45454545454545
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd6"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Angers",
+  "egaliter": 2,
+  "equipe1_win": 10,
+  "equipe2_win": 2,
+  "nb_total_match": 14,
+  "perc_egaliter": 14.285714285714286,
+  "perc_equipe1_win": 71.42857142857143,
+  "perc_equipe2_win": 14.285714285714286
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd7"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Nantes",
+  "egaliter": 3,
+  "equipe1_win": 6,
+  "equipe2_win": 8,
+  "nb_total_match": 17,
+  "perc_egaliter": 17.647058823529413,
+  "perc_equipe1_win": 35.294117647058826,
+  "perc_equipe2_win": 47.05882352941177
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd8"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Brest",
+  "egaliter": 1,
+  "equipe1_win": 10,
+  "equipe2_win": 0,
+  "nb_total_match": 11,
+  "perc_egaliter": 9.090909090909092,
+  "perc_equipe1_win": 90.9090909090909,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bd9"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Lorient",
+  "egaliter": 6,
+  "equipe1_win": 9,
+  "equipe2_win": 4,
+  "nb_total_match": 19,
+  "perc_egaliter": 31.57894736842105,
+  "perc_equipe1_win": 47.36842105263158,
+  "perc_equipe2_win": 21.05263157894737
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bda"
+  },
+  "equipe1": "Reims",
+  "equipe2": "ASSE",
+  "egaliter": 6,
+  "equipe1_win": 4,
+  "equipe2_win": 6,
+  "nb_total_match": 16,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 37.5
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bdb"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Marseille",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 7,
+  "nb_total_match": 11,
+  "perc_egaliter": 27.272727272727273,
+  "perc_equipe1_win": 9.090909090909092,
+  "perc_equipe2_win": 63.63636363636363
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bdc"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Lille",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 5,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bdd"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Boulogne",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 1,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bde"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Sochaux",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bdf"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "Lyon",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 1,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be0"
+  },
+  "equipe1": "Grenoble",
+  "equipe2": "Marseille",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 1,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be1"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Toulouse",
+  "egaliter": 5,
+  "equipe1_win": 9,
+  "equipe2_win": 2,
+  "nb_total_match": 16,
+  "perc_egaliter": 31.25,
+  "perc_equipe1_win": 56.25,
+  "perc_equipe2_win": 12.5
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be2"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Nancy",
+  "egaliter": 4,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 7,
+  "perc_egaliter": 57.142857142857146,
+  "perc_equipe1_win": 14.285714285714286,
+  "perc_equipe2_win": 28.571428571428573
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be3"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Le Mans",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be4"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Bordeaux",
+  "egaliter": 3,
+  "equipe1_win": 2,
+  "equipe2_win": 5,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be5"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Monaco",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be6"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Valenciennes",
+  "egaliter": 3,
+  "equipe1_win": 5,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be7"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Auxerre",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 4,
+  "perc_egaliter": 75,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be8"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "ASSE",
+  "egaliter": 8,
+  "equipe1_win": 6,
+  "equipe2_win": 7,
+  "nb_total_match": 21,
+  "perc_egaliter": 38.095238095238095,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658be9"
+  },
+  "equipe1": "Boulogne",
+  "equipe2": "Grenoble",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bea"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "Nancy",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658beb"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Boulogne",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bec"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Sochaux",
+  "egaliter": 1,
+  "equipe1_win": 9,
+  "equipe2_win": 0,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 90,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bed"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Lyon",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bee"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "PSG",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 8,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 80
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bef"
+  },
+  "equipe1": "Grenoble",
+  "equipe2": "Lens",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf0"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Toulouse",
+  "egaliter": 6,
+  "equipe1_win": 11,
+  "equipe2_win": 5,
+  "nb_total_match": 22,
+  "perc_egaliter": 27.272727272727273,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 22.727272727272727
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf1"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Monaco",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf2"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Grenoble",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf3"
+  },
+  "equipe1": "Boulogne",
+  "equipe2": "Auxerre",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf4"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Le Mans",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf5"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Nancy",
+  "egaliter": 1,
+  "equipe1_win": 8,
+  "equipe2_win": 1,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 80,
+  "perc_equipe2_win": 10
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf6"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Valenciennes",
+  "egaliter": 3,
+  "equipe1_win": 2,
+  "equipe2_win": 4,
+  "nb_total_match": 9,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 22.22222222222222,
+  "perc_equipe2_win": 44.44444444444444
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf7"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Toulouse",
+  "egaliter": 4,
+  "equipe1_win": 0,
+  "equipe2_win": 6,
+  "nb_total_match": 10,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf8"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "Marseille",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bf9"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Boulogne",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bfa"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Sochaux",
+  "egaliter": 4,
+  "equipe1_win": 5,
+  "equipe2_win": 1,
+  "nb_total_match": 10,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 10
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bfb"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Grenoble",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bfc"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Nice",
+  "egaliter": 0,
+  "equipe1_win": 4,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bfd"
+  },
+  "equipe1": "Boulogne",
+  "equipe2": "Bordeaux",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bfe"
+  },
+  "equipe1": "Grenoble",
+  "equipe2": "Rennes",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658bff"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Auxerre",
+  "egaliter": 5,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 83.33333333333333,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c00"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Nancy",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c01"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Valenciennes",
+  "egaliter": 5,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c02"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Le Mans",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c03"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Boulogne",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c04"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Sochaux",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 3,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 37.5
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c05"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Marseille",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 30,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c06"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Grenoble",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c07"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Toulouse",
+  "egaliter": 4,
+  "equipe1_win": 14,
+  "equipe2_win": 4,
+  "nb_total_match": 22,
+  "perc_egaliter": 18.181818181818183,
+  "perc_equipe1_win": 63.63636363636363,
+  "perc_equipe2_win": 18.181818181818183
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c08"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "Lens",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c09"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Le Mans",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c0a"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Valenciennes",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 3,
+  "nb_total_match": 9,
+  "perc_egaliter": 22.22222222222222,
+  "perc_equipe1_win": 44.44444444444444,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c0b"
+  },
+  "equipe1": "Grenoble",
+  "equipe2": "Montpellier",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c0c"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Auxerre",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c0d"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Nancy",
+  "egaliter": 3,
+  "equipe1_win": 4,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c0e"
+  },
+  "equipe1": "Boulogne",
+  "equipe2": "Lille",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c0f"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Lorient",
+  "egaliter": 6,
+  "equipe1_win": 5,
+  "equipe2_win": 5,
+  "nb_total_match": 16,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 31.25,
+  "perc_equipe2_win": 31.25
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c10"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Sochaux",
+  "egaliter": 1,
+  "equipe1_win": 6,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c11"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Marseille",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 8,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 10,
+  "perc_equipe2_win": 80
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c12"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Bordeaux",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c13"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Grenoble",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c14"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "Boulogne",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c15"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "PSG",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 17,
+  "nb_total_match": 21,
+  "perc_egaliter": 9.523809523809524,
+  "perc_equipe1_win": 9.523809523809524,
+  "perc_equipe2_win": 80.95238095238095
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c16"
+  },
+  "equipe1": "Boulogne",
+  "equipe2": "Monaco",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c17"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Le Mans",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c18"
+  },
+  "equipe1": "Grenoble",
+  "equipe2": "Nancy",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c19"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Valenciennes",
+  "egaliter": 3,
+  "equipe1_win": 5,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c1a"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Lorient",
+  "egaliter": 3,
+  "equipe1_win": 4,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c1b"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Lille",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c1c"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Toulouse",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c1d"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Sochaux",
+  "egaliter": 0,
+  "equipe1_win": 6,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c1e"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Auxerre",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c1f"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Boulogne",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c20"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Nice",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c21"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "Grenoble",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c22"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Montpellier",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c23"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Toulouse",
+  "egaliter": 10,
+  "equipe1_win": 11,
+  "equipe2_win": 1,
+  "nb_total_match": 22,
+  "perc_egaliter": 45.45454545454545,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 4.545454545454546
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c24"
+  },
+  "equipe1": "Boulogne",
+  "equipe2": "Nancy",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c25"
+  },
+  "equipe1": "Grenoble",
+  "equipe2": "Lille",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c26"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Valenciennes",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 5,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 30,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c27"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Le Mans",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c28"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "PSG",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 7,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 70
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c29"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Grenoble",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c2a"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "Auxerre",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c2b"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "ASSE",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 5,
+  "nb_total_match": 9,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 11.11111111111111,
+  "perc_equipe2_win": 55.55555555555556
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c2c"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Montpellier",
+  "egaliter": 4,
+  "equipe1_win": 1,
+  "equipe2_win": 5,
+  "nb_total_match": 10,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 10,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c2d"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Boulogne",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c2e"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Lens",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c2f"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Rennes",
+  "egaliter": 4,
+  "equipe1_win": 7,
+  "equipe2_win": 11,
+  "nb_total_match": 22,
+  "perc_egaliter": 18.181818181818183,
+  "perc_equipe1_win": 31.818181818181817,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c30"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Valenciennes",
+  "egaliter": 3,
+  "equipe1_win": 5,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c31"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Le Mans",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c32"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Nancy",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 3,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c33"
+  },
+  "equipe1": "Grenoble",
+  "equipe2": "Lyon",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c34"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Monaco",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c35"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Toulouse",
+  "egaliter": 6,
+  "equipe1_win": 11,
+  "equipe2_win": 4,
+  "nb_total_match": 21,
+  "perc_egaliter": 28.571428571428573,
+  "perc_equipe1_win": 52.38095238095238,
+  "perc_equipe2_win": 19.047619047619047
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c36"
+  },
+  "equipe1": "Boulogne",
+  "equipe2": "PSG",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c37"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Sochaux",
+  "egaliter": 2,
+  "equipe1_win": 6,
+  "equipe2_win": 1,
+  "nb_total_match": 9,
+  "perc_egaliter": 22.22222222222222,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 11.11111111111111
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c38"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Valenciennes",
+  "egaliter": 2,
+  "equipe1_win": 7,
+  "equipe2_win": 1,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 70,
+  "perc_equipe2_win": 10
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c39"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Grenoble",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c3a"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Boulogne",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c3b"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Auxerre",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c3c"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Nice",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c3d"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "ASSE",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e52c31508e64a658c3e"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Bordeaux",
+  "egaliter": 4,
+  "equipe1_win": 1,
+  "equipe2_win": 5,
+  "nb_total_match": 10,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 10,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c3f"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Monaco",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c40"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Le Mans",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c41"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Sochaux",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c42"
+  },
+  "equipe1": "Boulogne",
+  "equipe2": "Lens",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c43"
+  },
+  "equipe1": "Grenoble",
+  "equipe2": "Toulouse",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c44"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Nancy",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c45"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Boulogne",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c46"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "Valenciennes",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c47"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Rennes",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 30,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c48"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Auxerre",
+  "egaliter": 4,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 80,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c49"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Montpellier",
+  "egaliter": 5,
+  "equipe1_win": 4,
+  "equipe2_win": 11,
+  "nb_total_match": 20,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 55
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c4a"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Grenoble",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c4b"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Nancy",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c4c"
+  },
+  "equipe1": "Grenoble",
+  "equipe2": "Nice",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c4d"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Lens",
+  "egaliter": 4,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 4,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c4e"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Toulouse",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c4f"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Le Mans",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c50"
+  },
+  "equipe1": "Boulogne",
+  "equipe2": "Sochaux",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c51"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Rennes",
+  "egaliter": 1,
+  "equipe1_win": 5,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c52"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Valenciennes",
+  "egaliter": 4,
+  "equipe1_win": 4,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c53"
+  },
+  "equipe1": "Le Mans",
+  "equipe2": "Monaco",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c54"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Boulogne",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c55"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Auxerre",
+  "egaliter": 4,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 66.66666666666667,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c56"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Grenoble",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c57"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Lille",
+  "egaliter": 3,
+  "equipe1_win": 0,
+  "equipe2_win": 6,
+  "nb_total_match": 9,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c58"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Bordeaux",
+  "egaliter": 3,
+  "equipe1_win": 8,
+  "equipe2_win": 10,
+  "nb_total_match": 21,
+  "perc_egaliter": 14.285714285714286,
+  "perc_equipe1_win": 38.095238095238095,
+  "perc_equipe2_win": 47.61904761904762
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c59"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Arles",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 1,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c5a"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Caen",
+  "egaliter": 1,
+  "equipe1_win": 9,
+  "equipe2_win": 3,
+  "nb_total_match": 13,
+  "perc_egaliter": 7.6923076923076925,
+  "perc_equipe1_win": 69.23076923076923,
+  "perc_equipe2_win": 23.076923076923077
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c5b"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Brest",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 1,
+  "nb_total_match": 7,
+  "perc_egaliter": 42.857142857142854,
+  "perc_equipe1_win": 42.857142857142854,
+  "perc_equipe2_win": 14.285714285714286
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c5c"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Auxerre",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c5d"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Lens",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c5e"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Lyon",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 7,
+  "nb_total_match": 14,
+  "perc_egaliter": 14.285714285714286,
+  "perc_equipe1_win": 35.714285714285715,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c5f"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Arles",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c60"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Caen",
+  "egaliter": 3,
+  "equipe1_win": 8,
+  "equipe2_win": 3,
+  "nb_total_match": 14,
+  "perc_egaliter": 21.428571428571427,
+  "perc_equipe1_win": 57.142857142857146,
+  "perc_equipe2_win": 21.428571428571427
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c61"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Rennes",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c62"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Brest",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c63"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Caen",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c64"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Arles",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c65"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Brest",
+  "egaliter": 0,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 5,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c66"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Caen",
+  "egaliter": 1,
+  "equipe1_win": 5,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c67"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Marseille",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c68"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Arles",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c69"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Bordeaux",
+  "egaliter": 4,
+  "equipe1_win": 5,
+  "equipe2_win": 3,
+  "nb_total_match": 12,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 41.666666666666664,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c6a"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Valenciennes",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c6b"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Caen",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 3,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c6c"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Auxerre",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c6d"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Monaco",
+  "egaliter": 5,
+  "equipe1_win": 1,
+  "equipe2_win": 6,
+  "nb_total_match": 12,
+  "perc_egaliter": 41.666666666666664,
+  "perc_equipe1_win": 8.333333333333334,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c6e"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Arles",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c6f"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Caen",
+  "egaliter": 1,
+  "equipe1_win": 8,
+  "equipe2_win": 5,
+  "nb_total_match": 14,
+  "perc_egaliter": 7.142857142857143,
+  "perc_equipe1_win": 57.142857142857146,
+  "perc_equipe2_win": 35.714285714285715
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c70"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Lyon",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c71"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Arles",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c72"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Nancy",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c73"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Caen",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c74"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Arles",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c75"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Sochaux",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c76"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Lille",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 13,
+  "nb_total_match": 14,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 7.142857142857143,
+  "perc_equipe2_win": 92.85714285714286
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c77"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Caen",
+  "egaliter": 2,
+  "equipe1_win": 10,
+  "equipe2_win": 0,
+  "nb_total_match": 12,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 83.33333333333333,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c78"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Bordeaux",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c79"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Arles",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c7a"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Sochaux",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 75
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c7b"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Nancy",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c7c"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Caen",
+  "egaliter": 4,
+  "equipe1_win": 5,
+  "equipe2_win": 5,
+  "nb_total_match": 14,
+  "perc_egaliter": 28.571428571428573,
+  "perc_equipe1_win": 35.714285714285715,
+  "perc_equipe2_win": 35.714285714285715
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c7d"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Nice",
+  "egaliter": 6,
+  "equipe1_win": 4,
+  "equipe2_win": 4,
+  "nb_total_match": 14,
+  "perc_egaliter": 42.857142857142854,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 28.571428571428573
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c7e"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Lille",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c7f"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Arles",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c80"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Caen",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c81"
+  },
+  "equipe1": "Arles",
+  "equipe2": "Nice",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e53c31508e64a658c82"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Rennes",
+  "egaliter": 3,
+  "equipe1_win": 4,
+  "equipe2_win": 7,
+  "nb_total_match": 14,
+  "perc_egaliter": 21.428571428571427,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c83"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Toulouse",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c84"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Evian TG",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 3,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c85"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Dijon",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 7,
+  "perc_egaliter": 28.571428571428573,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 42.857142857142854
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c86"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Ajaccio",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c87"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Nice",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c88"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Evian TG",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c89"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Ajaccio",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c8a"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Dijon",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c8b"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Evian TG",
+  "egaliter": 3,
+  "equipe1_win": 4,
+  "equipe2_win": 0,
+  "nb_total_match": 7,
+  "perc_egaliter": 42.857142857142854,
+  "perc_equipe1_win": 57.142857142857146,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c8c"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Valenciennes",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c8d"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Dijon",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c8e"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Ajaccio",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c8f"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "PSG",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 5,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 12.5,
+  "perc_equipe2_win": 62.5
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c90"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Evian TG",
+  "egaliter": 1,
+  "equipe1_win": 6,
+  "equipe2_win": 1,
+  "nb_total_match": 8,
+  "perc_egaliter": 12.5,
+  "perc_equipe1_win": 75,
+  "perc_equipe2_win": 12.5
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c91"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Montpellier",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c92"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Caen",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 3,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c93"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Ajaccio",
+  "egaliter": 3,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 75,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c94"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Ajaccio",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c95"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Evian TG",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c96"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "ASSE",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 6,
+  "nb_total_match": 8,
+  "perc_egaliter": 12.5,
+  "perc_equipe1_win": 12.5,
+  "perc_equipe2_win": 75
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c97"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "PSG",
+  "egaliter": 3,
+  "equipe1_win": 0,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c98"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Evian TG",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c99"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Ajaccio",
+  "egaliter": 1,
+  "equipe1_win": 4,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c9a"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Auxerre",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c9b"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Bordeaux",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c9c"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Evian TG",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 1,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 62.5,
+  "perc_equipe2_win": 12.5
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c9d"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Ajaccio",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c9e"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Dijon",
+  "egaliter": 1,
+  "equipe1_win": 4,
+  "equipe2_win": 3,
+  "nb_total_match": 8,
+  "perc_egaliter": 12.5,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 37.5
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658c9f"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Lorient",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca0"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Caen",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca1"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Ajaccio",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 0,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca2"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Evian TG",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca3"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Dijon",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca4"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Lille",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 6,
+  "nb_total_match": 6,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca5"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Valenciennes",
+  "egaliter": 0,
+  "equipe1_win": 4,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca6"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Sochaux",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca7"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Evian TG",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 3,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 37.5
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca8"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Ajaccio",
+  "egaliter": 4,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 4,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658ca9"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Evian TG",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 1,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 62.5,
+  "perc_equipe2_win": 12.5
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658caa"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Rennes",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658cab"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Ajaccio",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658cac"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Montpellier",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e54c31508e64a658cad"
+  },
+  "equipe1": "Auxerre",
+  "equipe2": "Dijon",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cae"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Bastia",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 3,
+  "perc_egaliter": 66.66666666666667,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658caf"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Valenciennes",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 1,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb0"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Troyes",
+  "egaliter": 0,
+  "equipe1_win": 8,
+  "equipe2_win": 0,
+  "nb_total_match": 8,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb1"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Reims",
+  "egaliter": 0,
+  "equipe1_win": 5,
+  "equipe2_win": 3,
+  "nb_total_match": 8,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 62.5,
+  "perc_equipe2_win": 37.5
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb2"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Lorient",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 5,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb3"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Bastia",
+  "egaliter": 0,
+  "equipe1_win": 3,
+  "equipe2_win": 6,
+  "nb_total_match": 9,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb4"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Sochaux",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb5"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "ASSE",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 7,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 10,
+  "perc_equipe2_win": 70
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb6"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Troyes",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb7"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Reims",
+  "egaliter": 4,
+  "equipe1_win": 5,
+  "equipe2_win": 2,
+  "nb_total_match": 11,
+  "perc_egaliter": 36.36363636363637,
+  "perc_equipe1_win": 45.45454545454545,
+  "perc_equipe2_win": 18.181818181818183
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb8"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Lille",
+  "egaliter": 4,
+  "equipe1_win": 3,
+  "equipe2_win": 1,
+  "nb_total_match": 8,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 12.5
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cb9"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Bastia",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cba"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "PSG",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 9,
+  "nb_total_match": 10,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 10,
+  "perc_equipe2_win": 90
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cbb"
+  },
+  "equipe1": "Sochaux",
+  "equipe2": "Troyes",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cbc"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Nancy",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cbd"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Toulouse",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cbe"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Bastia",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 30,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cbf"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Troyes",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc0"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Bastia",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc1"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Marseille",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 5,
+  "nb_total_match": 7,
+  "perc_egaliter": 14.285714285714286,
+  "perc_equipe1_win": 14.285714285714286,
+  "perc_equipe2_win": 71.42857142857143
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc2"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Troyes",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc3"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Bordeaux",
+  "egaliter": 4,
+  "equipe1_win": 3,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 30,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc4"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Montpellier",
+  "egaliter": 5,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 62.5,
+  "perc_equipe1_win": 12.5,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc5"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Bastia",
+  "egaliter": 2,
+  "equipe1_win": 6,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc6"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Troyes",
+  "egaliter": 2,
+  "equipe1_win": 5,
+  "equipe2_win": 1,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 62.5,
+  "perc_equipe2_win": 12.5
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc7"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Evian TG",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc8"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Valenciennes",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cc9"
+  },
+  "equipe1": "Brest",
+  "equipe2": "Bastia",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cca"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Nancy",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ccb"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Troyes",
+  "egaliter": 1,
+  "equipe1_win": 7,
+  "equipe2_win": 0,
+  "nb_total_match": 8,
+  "perc_egaliter": 12.5,
+  "perc_equipe1_win": 87.5,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ccc"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Lorient",
+  "egaliter": 3,
+  "equipe1_win": 4,
+  "equipe2_win": 3,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 30
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ccd"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Reims",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cce"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Bastia",
+  "egaliter": 3,
+  "equipe1_win": 6,
+  "equipe2_win": 1,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 10
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ccf"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Rennes",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 4,
+  "nb_total_match": 8,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 12.5,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd0"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Bastia",
+  "egaliter": 3,
+  "equipe1_win": 2,
+  "equipe2_win": 5,
+  "nb_total_match": 10,
+  "perc_egaliter": 30,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd1"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Nice",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 4,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd2"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Reims",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd3"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Troyes",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd4"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Marseille",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 5,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 12.5,
+  "perc_equipe2_win": 62.5
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd5"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Bastia",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 4,
+  "nb_total_match": 10,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd6"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Ajaccio",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd7"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Troyes",
+  "egaliter": 1,
+  "equipe1_win": 5,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 12.5,
+  "perc_equipe1_win": 62.5,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd8"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Nancy",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cd9"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Bastia",
+  "egaliter": 4,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 7,
+  "perc_egaliter": 57.142857142857146,
+  "perc_equipe1_win": 28.571428571428573,
+  "perc_equipe2_win": 14.285714285714286
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cda"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Marseille",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 7,
+  "nb_total_match": 11,
+  "perc_egaliter": 18.181818181818183,
+  "perc_equipe1_win": 18.181818181818183,
+  "perc_equipe2_win": 63.63636363636363
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cdb"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Guingamp",
+  "egaliter": 1,
+  "equipe1_win": 8,
+  "equipe2_win": 2,
+  "nb_total_match": 11,
+  "perc_egaliter": 9.090909090909092,
+  "perc_equipe1_win": 72.72727272727273,
+  "perc_equipe2_win": 18.181818181818183
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cdc"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Lorient",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 4,
+  "nb_total_match": 8,
+  "perc_egaliter": 12.5,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cdd"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Guingamp",
+  "egaliter": 2,
+  "equipe1_win": 8,
+  "equipe2_win": 2,
+  "nb_total_match": 12,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cde"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Sochaux",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658cdf"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Bastia",
+  "egaliter": 2,
+  "equipe1_win": 3,
+  "equipe2_win": 3,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 37.5
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ce0"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Guingamp",
+  "egaliter": 1,
+  "equipe1_win": 4,
+  "equipe2_win": 3,
+  "nb_total_match": 8,
+  "perc_egaliter": 12.5,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 37.5
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ce1"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Sochaux",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ce2"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Bastia",
+  "egaliter": 1,
+  "equipe1_win": 7,
+  "equipe2_win": 0,
+  "nb_total_match": 8,
+  "perc_egaliter": 12.5,
+  "perc_equipe1_win": 87.5,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ce3"
+  },
+  "equipe1": "Nice",
+  "equipe2": "Guingamp",
+  "egaliter": 1,
+  "equipe1_win": 7,
+  "equipe2_win": 3,
+  "nb_total_match": 11,
+  "perc_egaliter": 9.090909090909092,
+  "perc_equipe1_win": 63.63636363636363,
+  "perc_equipe2_win": 27.272727272727273
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ce4"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Rennes",
+  "egaliter": 2,
+  "equipe1_win": 6,
+  "equipe2_win": 4,
+  "nb_total_match": 12,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ce5"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Evian TG",
+  "egaliter": 0,
+  "equipe1_win": 3,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 75,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ce6"
+  },
+  "equipe1": "Ajaccio",
+  "equipe2": "Nantes",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ce7"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Guingamp",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e55c31508e64a658ce8"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Ajaccio",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658ce9"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Guingamp",
+  "egaliter": 0,
+  "equipe1_win": 10,
+  "equipe2_win": 2,
+  "nb_total_match": 12,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 83.33333333333333,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cea"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Evian TG",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658ceb"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Lille",
+  "egaliter": 4,
+  "equipe1_win": 3,
+  "equipe2_win": 5,
+  "nb_total_match": 12,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 41.666666666666664
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cec"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Guingamp",
+  "egaliter": 7,
+  "equipe1_win": 5,
+  "equipe2_win": 0,
+  "nb_total_match": 12,
+  "perc_egaliter": 58.333333333333336,
+  "perc_equipe1_win": 41.666666666666664,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658ced"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Nantes",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 8,
+  "nb_total_match": 12,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cee"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Valenciennes",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cef"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Bordeaux",
+  "egaliter": 3,
+  "equipe1_win": 2,
+  "equipe2_win": 7,
+  "nb_total_match": 12,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 58.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf0"
+  },
+  "equipe1": "Valenciennes",
+  "equipe2": "Guingamp",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf1"
+  },
+  "equipe1": "Monaco",
+  "equipe2": "Ajaccio",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf2"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Monaco",
+  "egaliter": 4,
+  "equipe1_win": 3,
+  "equipe2_win": 5,
+  "nb_total_match": 12,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 41.666666666666664
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf3"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Toulouse",
+  "egaliter": 6,
+  "equipe1_win": 4,
+  "equipe2_win": 3,
+  "nb_total_match": 13,
+  "perc_egaliter": 46.15384615384615,
+  "perc_equipe1_win": 30.76923076923077,
+  "perc_equipe2_win": 23.076923076923077
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf4"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Guingamp",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 5,
+  "nb_total_match": 11,
+  "perc_egaliter": 27.272727272727273,
+  "perc_equipe1_win": 27.272727272727273,
+  "perc_equipe2_win": 45.45454545454545
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf5"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Guingamp",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf6"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Caen",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf7"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Lens",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf8"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Bastia",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cf9"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Metz",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cfa"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Lens",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cfb"
+  },
+  "equipe1": "Evian TG",
+  "equipe2": "Metz",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cfc"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Caen",
+  "egaliter": 3,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cfd"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Nantes",
+  "egaliter": 1,
+  "equipe1_win": 3,
+  "equipe2_win": 6,
+  "nb_total_match": 10,
+  "perc_egaliter": 10,
+  "perc_equipe1_win": 30,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cfe"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Metz",
+  "egaliter": 4,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 7,
+  "perc_egaliter": 57.142857142857146,
+  "perc_equipe1_win": 14.285714285714286,
+  "perc_equipe2_win": 28.571428571428573
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658cff"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Caen",
+  "egaliter": 6,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 10,
+  "perc_egaliter": 60,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e56c31508e64a658d00"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Bastia",
+  "egaliter": 4,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 66.66666666666667,
+  "perc_equipe1_win": 16.666666666666668,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d01"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Gazélec",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d02"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Gazélec",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d03"
+  },
+  "equipe1": "Gazélec",
+  "equipe2": "Angers",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d04"
+  },
+  "equipe1": "Lille",
+  "equipe2": "Gazélec",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d05"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Caen",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 75
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d06"
+  },
+  "equipe1": "Gazélec",
+  "equipe2": "Monaco",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d07"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Troyes",
+  "egaliter": 1,
+  "equipe1_win": 4,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d08"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Gazélec",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d09"
+  },
+  "equipe1": "Gazélec",
+  "equipe2": "Rennes",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d0a"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Gazélec",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d0b"
+  },
+  "equipe1": "Gazélec",
+  "equipe2": "Toulouse",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d0c"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Bastia",
+  "egaliter": 0,
+  "equipe1_win": 3,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 75,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d0d"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Guingamp",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 4,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d0e"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Gazélec",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d0f"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Troyes",
+  "egaliter": 0,
+  "equipe1_win": 5,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 83.33333333333333,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d10"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Angers",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 8,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 37.5,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d11"
+  },
+  "equipe1": "Gazélec",
+  "equipe2": "Nice",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d12"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Guingamp",
+  "egaliter": 3,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 8,
+  "perc_egaliter": 37.5,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 37.5
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d13"
+  },
+  "equipe1": "Gazélec",
+  "equipe2": "Bordeaux",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d14"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Gazélec",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d15"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Angers",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 6,
+  "nb_total_match": 8,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 75
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d16"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Gazélec",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d17"
+  },
+  "equipe1": "Gazélec",
+  "equipe2": "Lorient",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 1,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d18"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Gazélec",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d19"
+  },
+  "equipe1": "Gazélec",
+  "equipe2": "Nantes",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d1a"
+  },
+  "equipe1": "Marseille",
+  "equipe2": "Gazélec",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d1b"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Monaco",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 4,
+  "nb_total_match": 5,
+  "perc_egaliter": 20,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 80
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d1c"
+  },
+  "equipe1": "Gazélec",
+  "equipe2": "Lyon",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d1d"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Guingamp",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e57c31508e64a658d1e"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Nantes",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d1f"
+  },
+  "equipe1": "Bastia",
+  "equipe2": "Dijon",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d20"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Guingamp",
+  "egaliter": 1,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 6,
+  "perc_egaliter": 16.666666666666668,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d21"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Metz",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d22"
+  },
+  "equipe1": "Nancy",
+  "equipe2": "Angers",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d23"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Amiens",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 0,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d24"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Angers",
+  "egaliter": 3,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 5,
+  "perc_egaliter": 60,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d25"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Amiens",
+  "egaliter": 3,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 5,
+  "perc_egaliter": 60,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d26"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Strasbourg",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d27"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Nice",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 3,
+  "nb_total_match": 5,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 60
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d28"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Amiens",
+  "egaliter": 2,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d29"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Marseille",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 75
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d2a"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Amiens",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 2,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d2b"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Troyes",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 3,
+  "nb_total_match": 4,
+  "perc_egaliter": 25,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 75
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d2c"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Lille",
+  "egaliter": 0,
+  "equipe1_win": 3,
+  "equipe2_win": 2,
+  "nb_total_match": 5,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 60,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d2d"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Amiens",
+  "egaliter": 3,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 16.666666666666668
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d2e"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Bordeaux",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 2,
+  "nb_total_match": 5,
+  "perc_egaliter": 40,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 40
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d2f"
+  },
+  "equipe1": "Guingamp",
+  "equipe2": "Amiens",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 3,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d30"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Amiens",
+  "egaliter": 3,
+  "equipe1_win": 3,
+  "equipe2_win": 0,
+  "nb_total_match": 6,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d31"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Strasbourg",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d32"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Monaco",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d33"
+  },
+  "equipe1": "Dijon",
+  "equipe2": "Troyes",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d34"
+  },
+  "equipe1": "Metz",
+  "equipe2": "Amiens",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 3,
+  "nb_total_match": 4,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 25,
+  "perc_equipe2_win": 75
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d35"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Dijon",
+  "egaliter": 3,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 5,
+  "perc_egaliter": 60,
+  "perc_equipe1_win": 40,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d36"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Caen",
+  "egaliter": 3,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 4,
+  "perc_egaliter": 75,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 25
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d37"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Amiens",
+  "egaliter": 0,
+  "equipe1_win": 4,
+  "equipe2_win": 1,
+  "nb_total_match": 5,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 80,
+  "perc_equipe2_win": 20
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d38"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Lyon",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 4,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 66.66666666666667
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d39"
+  },
+  "equipe1": "Troyes",
+  "equipe2": "Amiens",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d3a"
+  },
+  "equipe1": "Strasbourg",
+  "equipe2": "Toulouse",
+  "egaliter": 2,
+  "equipe1_win": 4,
+  "equipe2_win": 0,
+  "nb_total_match": 6,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e58c31508e64a658d3b"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Nantes",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 4,
+  "nb_total_match": 5,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 20,
+  "perc_equipe2_win": 80
+},{
+  "_id": {
+    "$oid": "62ee7e59c31508e64a658d3c"
+  },
+  "equipe1": "Toulouse",
+  "equipe2": "Nîmes",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 1,
+  "nb_total_match": 3,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 66.66666666666667,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e59c31508e64a658d3d"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Reims",
+  "egaliter": 2,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 3,
+  "perc_egaliter": 66.66666666666667,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e59c31508e64a658d3e"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Guingamp",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e59c31508e64a658d3f"
+  },
+  "equipe1": "Nîmes",
+  "equipe2": "Amiens",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 3,
+  "perc_egaliter": 33.333333333333336,
+  "perc_equipe1_win": 33.333333333333336,
+  "perc_equipe2_win": 33.333333333333336
+},{
+  "_id": {
+    "$oid": "62ee7e59c31508e64a658d40"
+  },
+  "equipe1": "Caen",
+  "equipe2": "Nîmes",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d41"
+  },
+  "equipe1": "Amiens",
+  "equipe2": "Brest",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d42"
+  },
+  "equipe1": "Bordeaux",
+  "equipe2": "Clermont",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d43"
+  },
+  "equipe1": "Clermont",
+  "equipe2": "Troyes",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d44"
+  },
+  "equipe1": "Lyon",
+  "equipe2": "Clermont",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 1,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d45"
+  },
+  "equipe1": "Clermont",
+  "equipe2": "Metz",
+  "egaliter": 2,
+  "equipe1_win": 0,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 100,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d46"
+  },
+  "equipe1": "PSG",
+  "equipe2": "Clermont",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d47"
+  },
+  "equipe1": "Clermont",
+  "equipe2": "Brest",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d48"
+  },
+  "equipe1": "Rennes",
+  "equipe2": "Clermont",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d49"
+  },
+  "equipe1": "Clermont",
+  "equipe2": "Monaco",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d4a"
+  },
+  "equipe1": "Lorient",
+  "equipe2": "Clermont",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d4b"
+  },
+  "equipe1": "Clermont",
+  "equipe2": "Lille",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d4c"
+  },
+  "equipe1": "Nantes",
+  "equipe2": "Clermont",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d4d"
+  },
+  "equipe1": "Clermont",
+  "equipe2": "Marseille",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d4e"
+  },
+  "equipe1": "Lens",
+  "equipe2": "Troyes",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d4f"
+  },
+  "equipe1": "ASSE",
+  "equipe2": "Clermont",
+  "egaliter": 0,
+  "equipe1_win": 2,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 100,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d50"
+  },
+  "equipe1": "Clermont",
+  "equipe2": "Nice",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d51"
+  },
+  "equipe1": "Reims",
+  "equipe2": "Clermont",
+  "egaliter": 1,
+  "equipe1_win": 1,
+  "equipe2_win": 0,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 0
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d52"
+  },
+  "equipe1": "Clermont",
+  "equipe2": "Lens",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d53"
+  },
+  "equipe1": "Montpellier",
+  "equipe2": "Clermont",
+  "egaliter": 0,
+  "equipe1_win": 1,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 50,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d54"
+  },
+  "equipe1": "Angers",
+  "equipe2": "Clermont",
+  "egaliter": 1,
+  "equipe1_win": 0,
+  "equipe2_win": 1,
+  "nb_total_match": 2,
+  "perc_egaliter": 50,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 50
+},{
+  "_id": {
+    "$oid": "62ee7e5ac31508e64a658d55"
+  },
+  "equipe1": "Clermont",
+  "equipe2": "Strasbourg",
+  "egaliter": 0,
+  "equipe1_win": 0,
+  "equipe2_win": 2,
+  "nb_total_match": 2,
+  "perc_egaliter": 0,
+  "perc_equipe1_win": 0,
+  "perc_equipe2_win": 100
+}]

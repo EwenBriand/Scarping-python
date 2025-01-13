@@ -1,0 +1,1422 @@
+{
+    "courses": [
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2014-07-07/compiegne/104574_prix-du-moncel.html",
+                "https://www.canalturf.com/resultats-PMU/2014-07-07/compiegne/104574_prix-du-moncel.html"
+            ],
+            "prix": "34000",
+            "distance": "1400m",
+            "type_de_course": "PLAT",
+            "lieux": "1",
+            "heure": " 13:15 ",
+            "nom_de_la_course": "PRIX DU MONCEL",
+            "date": "2014-07-07",
+            "nb_participants": 6,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "KLOUD GATE (H9)",
+                    "Corde": "2",
+                    "Jockey": "C. DEMURO",
+                    "Entraineur": "G L MOORE",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "2.1",
+                    "": "2.75",
+                    "Pmu.fr": "2"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "PORTENIO (M4)",
+                    "Corde": "3",
+                    "Jockey": "M. LERNER",
+                    "Entraineur": "C&Y.LERNER (S)",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "4.2",
+                    "": "3.74",
+                    "Pmu.fr": "3.9"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "MAX ATTACK (H9)",
+                    "Corde": "6",
+                    "Jockey": "G. BENOIST",
+                    "Entraineur": "A.JUNK (S)",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "6.2",
+                    "": "6.14",
+                    "Pmu.fr": "7.2"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "BAIAFA (H4)",
+                    "Corde": "1",
+                    "Jockey": "S. MOULIN",
+                    "Entraineur": "A&G.BOTTI (S)",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "22",
+                    "": "12.71",
+                    "Pmu.fr": "23"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "COLDSTONE (H4)",
+                    "Corde": "4",
+                    "Jockey": "O. PESLIER",
+                    "Entraineur": "C.LAFFON-PARIAS",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "5.4",
+                    "": "4.63",
+                    "Pmu.fr": "6.3"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "GALDANA (F3)",
+                    "Corde": "5",
+                    "Jockey": "MLLE P. DOMINOIS",
+                    "Entraineur": "M.DELCHER SANCHEZ",
+                    "Poids": "54.0 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "9.72",
+                    "Pmu.fr": "10"
+                }
+            ],
+            "nb_participants_partants": 6,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=170993",
+                    "Cheval": "KLOUD GATE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1361&date=2014-07-07",
+                    "Jockey": "C. DEMURO",
+                    "Cote": "2",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=170994",
+                    "Cheval": "PORTENIO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6055&date=2014-07-07",
+                    "Jockey": "M. LERNER",
+                    "Cote": "3.9",
+                    "Ecart": "2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=170995",
+                    "Cheval": "MAX ATTACK",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2014-07-07",
+                    "Jockey": "G. BENOIST",
+                    "Cote": "7.2",
+                    "Ecart": "1/2"
+                },
+                {
+                    "Place": "4ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=170997",
+                    "Cheval": "COLDSTONE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=529&date=2014-07-07",
+                    "Jockey": "O. PESLIER",
+                    "Cote": "6.3",
+                    "Ecart": "3/4"
+                },
+                {
+                    "Place": "5ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=170998",
+                    "Cheval": "GALDANA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=10356&date=2014-07-07",
+                    "Jockey": "MLLE P. DOMINOIS",
+                    "Cote": "10",
+                    "Ecart": "1/2"
+                },
+                {
+                    "Place": "6ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=170996",
+                    "Cheval": "BAIAFA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=229&date=2014-07-07",
+                    "Jockey": "S. MOULIN",
+                    "Cote": "23",
+                    "Ecart": "10"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2014-07-07/compiegne/104575_prix-du-theatre-imperial.html",
+                "https://www.canalturf.com/resultats-PMU/2014-07-07/compiegne/104575_prix-du-theatre-imperial.html"
+            ],
+            "prix": "52000",
+            "distance": "1800m",
+            "type_de_course": "PLAT",
+            "lieux": "2",
+            "heure": " 13:50 ",
+            "nom_de_la_course": "PRIX DU THEATRE IMPERIAL",
+            "date": "2014-07-07",
+            "nb_participants": 17,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "LADY WOOD (F4)",
+                    "Corde": "16",
+                    "Jockey": "O. PESLIER",
+                    "Entraineur": "CLEMENT (S)",
+                    "Poids": "61.0 kg",
+                    "Val.": "-",
+                    "Matin": "16",
+                    "": "11.47",
+                    "Pmu.fr": "16"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "GABELLA (F5)",
+                    "Corde": "10",
+                    "Jockey": "T. THULLIEZ",
+                    "Entraineur": "N.CLEMENT (S)",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "12",
+                    "": "8.41",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "ZIGZAG (F5)",
+                    "Corde": "8",
+                    "Jockey": "M. GUYON",
+                    "Entraineur": "E.DANEL",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "5.8",
+                    "": "4.62",
+                    "Pmu.fr": "4"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "SARGASSES (F9)",
+                    "Corde": "5",
+                    "Jockey": "C. DEMURO",
+                    "Entraineur": "MLLE V.DISSAUX",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "32",
+                    "": "27.98",
+                    "Pmu.fr": "47"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "MAHILADIPA (F4)",
+                    "Corde": "12",
+                    "Jockey": "G. BENOIST",
+                    "Entraineur": "E.LELLOUCHE",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "15",
+                    "": "34.62",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "ALZUBRA (F5)",
+                    "Corde": "9",
+                    "Jockey": "P.-C. BOUDOT",
+                    "Entraineur": "A.FABRE (S)",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "7.4",
+                    "": "7.85",
+                    "Pmu.fr": "7.2"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "CATUSHABA (F9)",
+                    "Corde": "1",
+                    "Jockey": "A. HAMELIN",
+                    "Entraineur": "FX.BELVISI",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "7.3",
+                    "": "5.71",
+                    "Pmu.fr": "8.8"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "BANDARIVA (F8)",
+                    "Corde": "17",
+                    "Jockey": "R. THOMAS",
+                    "Entraineur": "MLLE C.BONIN",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "37",
+                    "": "48.18",
+                    "Pmu.fr": "37"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "LA MESSALINA (F9)",
+                    "Corde": "2",
+                    "Jockey": "W. SARAIVA",
+                    "Entraineur": "CREVEAU MARIO",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "17.16",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "MAHENDRANAGAR (F5)",
+                    "Corde": "14",
+                    "Jockey": "T. JARNET",
+                    "Entraineur": "DOUCET (S)",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "27",
+                    "": "39.42",
+                    "Pmu.fr": "37"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "PETITE DUNE (F7)",
+                    "Corde": "4",
+                    "Jockey": "T. BACHELOT",
+                    "Entraineur": "P.CHATELAIN",
+                    "Poids": "54.0 kg",
+                    "Val.": "-",
+                    "Matin": "29",
+                    "": "36.13",
+                    "Pmu.fr": "34"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "ROSEAL DES BOIS  (F8)",
+                    "Corde": "6",
+                    "Jockey": "S. PASQUIER",
+                    "Entraineur": "JUL .PHELIPPON",
+                    "Poids": "52.5 kg",
+                    "Val.": "-",
+                    "Matin": "8.5",
+                    "": "--",
+                    "Pmu.fr": "9.3"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "LEY PERCY (F4)",
+                    "Corde": "3",
+                    "Jockey": "M. BARZALONA",
+                    "Entraineur": "V.LUKA",
+                    "Poids": "52.5 kg",
+                    "Val.": "-",
+                    "Matin": "45",
+                    "": "41.30",
+                    "Pmu.fr": "56"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "PURPLE PEARL (F5)",
+                    "Corde": "13",
+                    "Jockey": "ALEX. BADEL",
+                    "Entraineur": "WARWICK BRADSHAW",
+                    "Poids": "52.5 kg",
+                    "Val.": "-",
+                    "Matin": "15",
+                    "": "27.11",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "SHASLIKA (F11)",
+                    "Corde": "11",
+                    "Jockey": "A. CRASTUS",
+                    "Entraineur": "B.LEGROS (S)",
+                    "Poids": "51.0 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "9.09",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "16",
+                    "Cheval": "GLITTER BOW (F5)",
+                    "Corde": "7",
+                    "Jockey": "E. HARDOUIN",
+                    "Entraineur": "P.DEMERCASTEL",
+                    "Poids": "51.0 kg",
+                    "Val.": "-",
+                    "Matin": "48",
+                    "": "26.64",
+                    "Pmu.fr": "37"
+                },
+                {
+                    "nÂ°": "17",
+                    "Cheval": "DELTA BLACK SHEEP (F7)",
+                    "Corde": "15",
+                    "Jockey": "MLLE P. DOMINOIS",
+                    "Entraineur": "Y.NICOLAY DE",
+                    "Poids": "51.0 kg",
+                    "Val.": "-",
+                    "Matin": "48",
+                    "": "48.18",
+                    "Pmu.fr": "57"
+                }
+            ],
+            "nb_participants_partants": 17,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "15",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=126847",
+                    "Cheval": "SHASLIKA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=219&date=2014-07-07",
+                    "Jockey": "A. CRASTUS",
+                    "Cote": "10",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=137881",
+                    "Cheval": "GABELLA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=238&date=2014-07-07",
+                    "Jockey": "T. THULLIEZ",
+                    "Cote": "11",
+                    "Ecart": "2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=137218",
+                    "Cheval": "ALZUBRA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=225&date=2014-07-07",
+                    "Jockey": "P.-C. BOUDOT",
+                    "Cote": "7.2",
+                    "Ecart": "1 3/4"
+                },
+                {
+                    "Place": "4ème",
+                    "": "14",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=142048",
+                    "Cheval": "PURPLE PEARL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=8211&date=2014-07-07",
+                    "Jockey": "ALEX. BADEL",
+                    "Cote": "15",
+                    "Ecart": "1 1/2"
+                },
+                {
+                    "Place": "5ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=126568",
+                    "Cheval": "CATUSHABA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=89&date=2014-07-07",
+                    "Jockey": "A. HAMELIN",
+                    "Cote": "8.8",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "6ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=69426",
+                    "Cheval": "SARGASSES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1361&date=2014-07-07",
+                    "Jockey": "C. DEMURO",
+                    "Cote": "47",
+                    "Ecart": "1 1/4"
+                },
+                {
+                    "Place": "7ème",
+                    "": "11",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=106872",
+                    "Cheval": "PETITE DUNE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=292&date=2014-07-07",
+                    "Jockey": "T. BACHELOT",
+                    "Cote": "34",
+                    "Ecart": "1/2"
+                },
+                {
+                    "Place": "8ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=120795",
+                    "Cheval": "BANDARIVA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=248&date=2014-07-07",
+                    "Jockey": "R. THOMAS",
+                    "Cote": "37",
+                    "Ecart": "1/2"
+                },
+                {
+                    "Place": "9ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=137640",
+                    "Cheval": "MAHILADIPA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2014-07-07",
+                    "Jockey": "G. BENOIST",
+                    "Cote": "18",
+                    "Ecart": "CTETE"
+                },
+                {
+                    "Place": "10ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=141670",
+                    "Cheval": "LADY WOOD",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=529&date=2014-07-07",
+                    "Jockey": "O. PESLIER",
+                    "Cote": "16",
+                    "Ecart": "TETE"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2014-07-07/compiegne/104576_prix-de-l-ailette.html",
+                "https://www.canalturf.com/resultats-PMU/2014-07-07/compiegne/104576_prix-de-l-ailette.html"
+            ],
+            "prix": "23000",
+            "distance": "1400m",
+            "type_de_course": "PLAT",
+            "lieux": "3",
+            "heure": " 14:20 ",
+            "nom_de_la_course": "PRIX DE L'AILETTE",
+            "date": "2014-07-07",
+            "nb_participants": 9,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "BELLE DU JOUR (F2)",
+                    "Corde": "2",
+                    "Jockey": "K. NAIMI",
+                    "Entraineur": "BOUTIN (S)",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "2.9",
+                    "": "2.02",
+                    "Pmu.fr": "2.3"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "PRINCE D'AUMONE (M2)",
+                    "Corde": "1",
+                    "Jockey": "N. KASZTELAN",
+                    "Entraineur": "S.JESUS",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "28",
+                    "": "101.07",
+                    "Pmu.fr": "55"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "DUKE IS BACK (H3)",
+                    "Corde": "4",
+                    "Jockey": "T. BACHELOT",
+                    "Entraineur": "J.BERTRAN DE BALANDA (S)",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "27.16",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "KOMTESS KA (F3)",
+                    "Corde": "7",
+                    "Jockey": "T. JARNET",
+                    "Entraineur": "A.JUNK (S)",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "19.36",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "LAST HONOURS (M3)",
+                    "Corde": "3",
+                    "Jockey": "G. BENOIST",
+                    "Entraineur": "C.BOUTIN (S)",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "7.41",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "RIVOLOCHOP (M2)",
+                    "Corde": "8",
+                    "Jockey": "A. CRASTUS",
+                    "Entraineur": "BOUTIN (S)",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "6.9",
+                    "": "10.06",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "GENTLEDOR (M2)",
+                    "Corde": "6",
+                    "Jockey": "M. BARZALONA",
+                    "Entraineur": "BARBEROT (S)",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "5",
+                    "": "4.64",
+                    "Pmu.fr": "4.2"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "ACANTOS (F4)",
+                    "Corde": "5",
+                    "Jockey": "C. DEMURO",
+                    "Entraineur": "F.PARDON",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "6.8",
+                    "": "10.49",
+                    "Pmu.fr": "5.5"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "BE MINE (F2)",
+                    "Corde": "9",
+                    "Jockey": "S.M. LAURENT",
+                    "Entraineur": "S.JEDDARI",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "37",
+                    "": "54.00",
+                    "Pmu.fr": "41"
+                }
+            ],
+            "nb_participants_partants": 9,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171003",
+                    "Cheval": "LAST HONOURS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2014-07-07",
+                    "Jockey": "G. BENOIST",
+                    "Cote": "11"
+                },
+                {
+                    "Place": "2ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171005",
+                    "Cheval": "GENTLEDOR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=531&date=2014-07-07",
+                    "Jockey": "M. BARZALONA",
+                    "Cote": "4.2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=170999",
+                    "Cheval": "BELLE DU JOUR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=11019&date=2014-07-07",
+                    "Jockey": "K. NAIMI",
+                    "Cote": "2.3"
+                },
+                {
+                    "Place": "4ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171006",
+                    "Cheval": "ACANTOS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1361&date=2014-07-07",
+                    "Jockey": "C. DEMURO",
+                    "Cote": "5.5"
+                },
+                {
+                    "Place": "5ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171000",
+                    "Cheval": "PRINCE D'AUMONE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=9304&date=2014-07-07",
+                    "Jockey": "N. KASZTELAN",
+                    "Cote": "55"
+                },
+                {
+                    "Place": "6ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171004",
+                    "Cheval": "RIVOLOCHOP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=219&date=2014-07-07",
+                    "Jockey": "A. CRASTUS",
+                    "Cote": "10"
+                },
+                {
+                    "Place": "7ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171007",
+                    "Cheval": "BE MINE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6915&date=2014-07-07",
+                    "Jockey": "S.M. LAURENT",
+                    "Cote": "41"
+                },
+                {
+                    "Place": "8ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171002",
+                    "Cheval": "KOMTESS KA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=221&date=2014-07-07",
+                    "Jockey": "T. JARNET",
+                    "Cote": "17"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2014-07-07/compiegne/104577_prix-de-venette.html",
+                "https://www.canalturf.com/resultats-PMU/2014-07-07/compiegne/104577_prix-de-venette.html"
+            ],
+            "prix": "16000",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "4",
+            "heure": " 14:50 ",
+            "nom_de_la_course": "PRIX DE VENETTE",
+            "date": "2014-07-07",
+            "nb_participants": 13,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "ALTAIRA (H8)",
+                    "Corde": "11",
+                    "Jockey": "C. DEMURO",
+                    "Entraineur": "TONY CARROLL",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "9.8",
+                    "": "23.10",
+                    "Pmu.fr": "6.1"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "RINALDO (M3)",
+                    "Corde": "6",
+                    "Jockey": "S. PASQUIER",
+                    "Entraineur": "MLLE A.VORAZ",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "8.2",
+                    "": "4.97",
+                    "Pmu.fr": "7.6"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "SHAYBOOB  (H5)",
+                    "Corde": "8",
+                    "Jockey": "T. THULLIEZ",
+                    "Entraineur": "ARM .LEFEUVRE",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "5.3",
+                    "": "--",
+                    "Pmu.fr": "2.7"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "PRIVATE (H6)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "MY MATADOR (H3)",
+                    "Corde": "12",
+                    "Jockey": "F. LEFEBVRE",
+                    "Entraineur": "HAMMOND (S)",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "5.74",
+                    "Pmu.fr": "9.3"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "YUME (M8)",
+                    "Corde": "7",
+                    "Jockey": "M. LERNER",
+                    "Entraineur": "RENSTAL FLORYN",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "27",
+                    "": "20.13",
+                    "Pmu.fr": "32"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "QUEEN FOSOOL  (F6)",
+                    "Corde": "3",
+                    "Jockey": "A. LEMAITRE",
+                    "Entraineur": "M. COMAS",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "7.3",
+                    "": "--",
+                    "Pmu.fr": "9.7"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "SAKIRA (F3)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "WEEPING WIND (F3)",
+                    "Corde": "13",
+                    "Jockey": "M. GUYON",
+                    "Entraineur": "MME P.BRANDT",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "4.25",
+                    "Pmu.fr": "5.7"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "IRELAND'S TEARDROP (F3)",
+                    "Corde": "5",
+                    "Jockey": "R. THOMAS",
+                    "Entraineur": "GRAFFARD (S)",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "27",
+                    "": "27.18",
+                    "Pmu.fr": "41"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "X'TREME (F3)",
+                    "Corde": "4",
+                    "Jockey": "A. CRASTUS",
+                    "Entraineur": "D.PROD'HOMME",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "21",
+                    "": "23.10",
+                    "Pmu.fr": "34"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "FEE DE LUNE (F5)",
+                    "Corde": "10",
+                    "Jockey": "G. BENOIST",
+                    "Entraineur": "LERMYTE CHRISTOPHE ANDRE DANIEL",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "20",
+                    "": "17.45",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "BYZANCE (F3)",
+                    "Corde": "1",
+                    "Jockey": "S.M. LAURENT",
+                    "Entraineur": "R.MATHIS",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "52",
+                    "": "75.89",
+                    "Pmu.fr": "94"
+                }
+            ],
+            "nb_participants_partants": 67,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=149475",
+                    "Cheval": "QUEEN FOSOOL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=255&date=2014-07-07",
+                    "Jockey": "A. LEMAITRE",
+                    "Cote": "9.7",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171013",
+                    "Cheval": "IRELAND'S TEARDROP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=248&date=2014-07-07",
+                    "Jockey": "R. THOMAS",
+                    "Cote": "41",
+                    "Ecart": "1 1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=144981",
+                    "Cheval": "RINALDO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2014-07-07",
+                    "Jockey": "S. PASQUIER",
+                    "Cote": "7.6",
+                    "Ecart": "NEZ"
+                },
+                {
+                    "Place": "4ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171008",
+                    "Cheval": "SHAYBOOB",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=238&date=2014-07-07",
+                    "Jockey": "T. THULLIEZ",
+                    "Cote": "2.7",
+                    "Ecart": "1/2"
+                },
+                {
+                    "Place": "5ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=151285",
+                    "Cheval": "ALTAIRA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1361&date=2014-07-07",
+                    "Jockey": "C. DEMURO",
+                    "Cote": "6.1",
+                    "Ecart": "ENC"
+                },
+                {
+                    "Place": "6ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171012",
+                    "Cheval": "WEEPING WIND",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=228&date=2014-07-07",
+                    "Jockey": "M. GUYON",
+                    "Cote": "5.7",
+                    "Ecart": "1/2"
+                },
+                {
+                    "Place": "7ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171009",
+                    "Cheval": "MY MATADOR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=222&date=2014-07-07",
+                    "Jockey": "F. LEFEBVRE",
+                    "Cote": "9.3",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "8ème",
+                    "": "12",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=145414",
+                    "Cheval": "FEE DE LUNE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2014-07-07",
+                    "Jockey": "G. BENOIST",
+                    "Cote": "17",
+                    "Ecart": "3"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2014-07-07/compiegne/104578_prix-d-eulalie.html",
+                "https://www.canalturf.com/resultats-PMU/2014-07-07/compiegne/104578_prix-d-eulalie.html"
+            ],
+            "prix": "18000",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "5",
+            "heure": " 15:20 ",
+            "nom_de_la_course": "PRIX D'EULALIE",
+            "date": "2014-07-07",
+            "nb_participants": 11,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "BLACK ROCK (H10)",
+                    "Corde": "2",
+                    "Jockey": "MLLE D. SANTIAGO",
+                    "Entraineur": "MME B.HALLOPE",
+                    "Poids": "62.0 kg",
+                    "Val.": "-",
+                    "Matin": "4.1",
+                    "": "4.33",
+                    "Pmu.fr": "5.6"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "ENRISY (H11)",
+                    "Corde": "6",
+                    "Jockey": "MLLE L. GROSSO",
+                    "Entraineur": "JC.NAPOLI",
+                    "Poids": "62.0 kg",
+                    "Val.": "-",
+                    "Matin": "9.8",
+                    "": "3.90",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "PEARL STYLE (H4)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "USBEKE (H9)",
+                    "Corde": "5",
+                    "Jockey": "MLLE S. CALLAC",
+                    "Entraineur": "STALL LAURUS",
+                    "Poids": "61.0 kg",
+                    "Val.": "-",
+                    "Matin": "11",
+                    "": "7.40",
+                    "Pmu.fr": "6.9"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "PYRAGORN (F6)",
+                    "Corde": "8",
+                    "Jockey": "MLLE P. DOMINOIS",
+                    "Entraineur": "Y.NICOLAY DE",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "3.7",
+                    "": "3.65",
+                    "Pmu.fr": "3.3"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "AUSSIE LYRICS (H5)",
+                    "Corde": "9",
+                    "Jockey": "MLLE A. FOULON",
+                    "Entraineur": "P&F.MONFORT (S)",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "6.3",
+                    "": "7.52",
+                    "Pmu.fr": "3.6"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "ELEVEN PARK (H6)",
+                    "Corde": "7",
+                    "Jockey": "MLLE Z. PFEIL",
+                    "Entraineur": "P.NADOR",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "7",
+                    "": "8.40",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "PIANO ROYAL (H9)",
+                    "Corde": "3",
+                    "Jockey": "MLLE L. GROSSEMY",
+                    "Entraineur": "MLLE C.NEVEUX",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "51",
+                    "": "133.77",
+                    "Pmu.fr": "55"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "DAVANTI (H4)",
+                    "Corde": "4",
+                    "Jockey": "MLLE J. MARCIALIS",
+                    "Entraineur": "MLLE B.RENK",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "23.96",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "AVENTI PRESTO  (H5)",
+                    "Corde": "1",
+                    "Jockey": "MLLE S. CHUETTE",
+                    "Entraineur": "R.TOURON",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "17",
+                    "": "--",
+                    "Pmu.fr": "49"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "LILY SWING (F4)",
+                    "Corde": "10",
+                    "Jockey": "MLLE S. LEGER",
+                    "Entraineur": "R.TOURON",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "47",
+                    "": "133.77",
+                    "Pmu.fr": "64"
+                }
+            ],
+            "nb_participants_partants": 6,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=147287",
+                    "Cheval": "AUSSIE LYRICS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1879&date=2014-07-07",
+                    "Jockey": "MLLE A. FOULON",
+                    "Cote": "3.6",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=74652",
+                    "Cheval": "USBEKE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=579&date=2014-07-07",
+                    "Jockey": "MLLE S. CALLAC",
+                    "Cote": "6.9",
+                    "Ecart": "3/4"
+                },
+                {
+                    "Place": "3ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=55612",
+                    "Cheval": "ENRISY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1446&date=2014-07-07",
+                    "Jockey": "MLLE L. GROSSO",
+                    "Cote": "12",
+                    "Ecart": "3/4"
+                },
+                {
+                    "Place": "4ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=104751",
+                    "Cheval": "PYRAGORN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=10356&date=2014-07-07",
+                    "Jockey": "MLLE P. DOMINOIS",
+                    "Cote": "3.3",
+                    "Ecart": "ENC"
+                },
+                {
+                    "Place": "5ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=127879",
+                    "Cheval": "DAVANTI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=11379&date=2014-07-07",
+                    "Jockey": "MLLE J. MARCIALIS",
+                    "Cote": "15",
+                    "Ecart": "3"
+                },
+                {
+                    "Place": "6ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=120216",
+                    "Cheval": "ELEVEN PARK",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1540&date=2014-07-07",
+                    "Jockey": "MLLE Z. PFEIL",
+                    "Cote": "11",
+                    "Ecart": "1 1/4"
+                },
+                {
+                    "Place": "7ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=101521",
+                    "Cheval": "BLACK ROCK",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=298&date=2014-07-07",
+                    "Jockey": "MLLE D. SANTIAGO",
+                    "Cote": "5.6",
+                    "Ecart": "4"
+                },
+                {
+                    "Place": "8ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=110354",
+                    "Cheval": "PIANO ROYAL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=14030&date=2014-07-07",
+                    "Jockey": "MLLE L. GROSSEMY",
+                    "Cote": "55",
+                    "Ecart": "6"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2014-07-07/compiegne/104579_prix-de-la-foret-de-laigue.html",
+                "https://www.canalturf.com/resultats-PMU/2014-07-07/compiegne/104579_prix-de-la-foret-de-laigue.html"
+            ],
+            "prix": "23000",
+            "distance": "1800m",
+            "type_de_course": "PLAT",
+            "lieux": "6",
+            "heure": " 15:55 ",
+            "nom_de_la_course": "PRIX DE LA FORET DE LAIGUE",
+            "date": "2014-07-07",
+            "nb_participants": 15,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "ONE BEST VICTORY  (F6)",
+                    "Corde": "8",
+                    "Jockey": "P.-C. BOUDOT",
+                    "Entraineur": "MLLE Y.VOLLMER",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "9.3",
+                    "": "--",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "CITE DES ANGES  (F3)",
+                    "Corde": "12",
+                    "Jockey": "M. GUYON",
+                    "Entraineur": "LIBAUD (S)",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "--",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "NAVIGNIES  (F4)",
+                    "Corde": "1",
+                    "Jockey": "G. BENOIST",
+                    "Entraineur": "LA.URBANO GRAJALES",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "--",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "MAIA ROYALE (F3)",
+                    "Corde": "11",
+                    "Jockey": "G. MOSSE",
+                    "Entraineur": "MLLE T.PUITG",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "6.7",
+                    "": "7.11",
+                    "Pmu.fr": "7.4"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "PARALLAXE (F3)",
+                    "Corde": "15",
+                    "Jockey": "C.-P. LEMAIRE",
+                    "Entraineur": "BARBEROT (S)",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "28",
+                    "": "6.28",
+                    "Pmu.fr": "34"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "FLAMBEUSE (F5)",
+                    "Corde": "10",
+                    "Jockey": "F. PRAT",
+                    "Entraineur": "E&G.LEENDERS (S)",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "7.1",
+                    "": "6.95",
+                    "Pmu.fr": "9.5"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "ROCKOZAL (F4)",
+                    "Corde": "5",
+                    "Jockey": "M. BARZALONA",
+                    "Entraineur": "D.WINDRIF",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "12",
+                    "": "12.49",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "FIRDOUS  (F3)",
+                    "Corde": "14",
+                    "Jockey": "G.-A. ANSELIN",
+                    "Entraineur": "CLEMENT (S)",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "24",
+                    "": "--",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "MERVEILLE KATHY (F3)",
+                    "Corde": "9",
+                    "Jockey": "F. VERON",
+                    "Entraineur": "N.CAULLERY",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "8.7",
+                    "": "12.63",
+                    "Pmu.fr": "8.3"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "NUMERO TREIZE (F7)",
+                    "Corde": "4",
+                    "Jockey": "S. MAILLOT",
+                    "Entraineur": "J.MICHAL",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "47",
+                    "": "67.09",
+                    "Pmu.fr": "81"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "BOMBINETA (F5)",
+                    "Corde": "3",
+                    "Jockey": "R. MARCHELLI",
+                    "Entraineur": "P.ADDA (S)",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "5.6",
+                    "": "3.58",
+                    "Pmu.fr": "2.9"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "PETALING JAYA (F3)",
+                    "Corde": "13",
+                    "Jockey": "A. LEMAITRE",
+                    "Entraineur": "J.VAN HANDENHOVE",
+                    "Poids": "53.0 kg",
+                    "Val.": "-",
+                    "Matin": "37",
+                    "": "54.00",
+                    "Pmu.fr": "44"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "POLVORITA (F3)",
+                    "Corde": "7",
+                    "Jockey": "M. LERNER",
+                    "Entraineur": "LERNER (S)",
+                    "Poids": "52.5 kg",
+                    "Val.": "-",
+                    "Matin": "28",
+                    "": "23.10",
+                    "Pmu.fr": "31"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "FEEN MELODY (F3)",
+                    "Corde": "2",
+                    "Jockey": "E. HARDOUIN",
+                    "Entraineur": "LEFEBVRE (S)",
+                    "Poids": "52.0 kg",
+                    "Val.": "-",
+                    "Matin": "28",
+                    "": "73.18",
+                    "Pmu.fr": "44"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "GINY QUEEN (F5)",
+                    "Corde": "6",
+                    "Jockey": "MLLE D. SANTIAGO",
+                    "Entraineur": "D.HAURY",
+                    "Poids": "51.5 kg",
+                    "Val.": "-",
+                    "Matin": "17",
+                    "": "37.61",
+                    "Pmu.fr": "22"
+                }
+            ],
+            "nb_participants_partants": 15,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "11",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171021",
+                    "Cheval": "BOMBINETA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1142&date=2014-07-07",
+                    "Jockey": "R. MARCHELLI",
+                    "Cote": "2.9",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=149474",
+                    "Cheval": "FIRDOUS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3733&date=2014-07-07",
+                    "Jockey": "G.-A. ANSELIN",
+                    "Cote": "26",
+                    "Ecart": "ENC"
+                },
+                {
+                    "Place": "3ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=147179",
+                    "Cheval": "ROCKOZAL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=531&date=2014-07-07",
+                    "Jockey": "M. BARZALONA",
+                    "Cote": "13",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "4ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171019",
+                    "Cheval": "FLAMBEUSE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=234&date=2014-07-07",
+                    "Jockey": "F. PRAT",
+                    "Cote": "9.5",
+                    "Ecart": "1/2"
+                },
+                {
+                    "Place": "5ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=143195",
+                    "Cheval": "MERVEILLE KATHY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=64&date=2014-07-07",
+                    "Jockey": "F. VERON",
+                    "Cote": "8.3",
+                    "Ecart": "CENC"
+                },
+                {
+                    "Place": "6ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=150990",
+                    "Cheval": "PARALLAXE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=247&date=2014-07-07",
+                    "Jockey": "C.-P. LEMAIRE",
+                    "Cote": "34",
+                    "Ecart": "1"
+                },
+                {
+                    "Place": "7ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171020",
+                    "Cheval": "NUMERO TREIZE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=220&date=2014-07-07",
+                    "Jockey": "S. MAILLOT",
+                    "Cote": "81",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "8ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=171018",
+                    "Cheval": "MAIA ROYALE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=242&date=2014-07-07",
+                    "Jockey": "G. MOSSE",
+                    "Cote": "7.4",
+                    "Ecart": "3/4"
+                }
+            ]
+        }
+    ],
+    "nb_courses": 6
+}

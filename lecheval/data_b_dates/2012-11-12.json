@@ -1,0 +1,730 @@
+{
+    "courses": [
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2012-11-12/paris-vincennes/79668_prix-du-languedoc.html",
+                "https://www.canalturf.com/resultats-PMU/2012-11-12/paris-vincennes/79668_prix-du-languedoc.html"
+            ],
+            "prix": "90000",
+            "distance": "2700m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "1",
+            "heure": " 13:50 ",
+            "nom_de_la_course": "PRIX DU LANGUEDOC",
+            "date": "2012-11-12",
+            "nb_participants": 16,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "RECIT JELOCA (H9)",
+                    "Def.": "",
+                    "Jockey": "J.-L. CL. DERSOIR",
+                    "Entraineur": "J.-L. CL. DERSOIR",
+                    "Dist.": "2700m",
+                    "Matin": "52",
+                    "": "63.72",
+                    "Pmu.fr": "76"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "SABA DU VIVIER (F7)",
+                    "Def.": "",
+                    "Jockey": "A. ABRIVARD",
+                    "Entraineur": "L.CL. ABRIVARD",
+                    "Dist.": "2700m",
+                    "Matin": "99",
+                    "": "95.52",
+                    "Pmu.fr": "138"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "RAMBO JET (H11)",
+                    "Def.": "",
+                    "Jockey": "J.-E. DUBOIS",
+                    "Entraineur": "O. DULGHERU",
+                    "Dist.": "2700m",
+                    "Matin": "29",
+                    "": "21.48",
+                    "Pmu.fr": "40"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "NAHAR (H11)",
+                    "Def.": "",
+                    "Jockey": "J. VERBEECK",
+                    "Entraineur": "R. BERGH",
+                    "Dist.": "2700m",
+                    "Matin": "4.6",
+                    "": "4.72",
+                    "Pmu.fr": "4.6"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "QUASAR JOLI (M9)",
+                    "Def.": "",
+                    "Jockey": "L.-C. ABRIVARD",
+                    "Entraineur": "E. PRUDHON",
+                    "Dist.": "2700m",
+                    "Matin": "108",
+                    "": "118.90",
+                    "Pmu.fr": "169"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "QUICK VIERVIL (H11)",
+                    "Def.": "",
+                    "Jockey": "M. ABRIVARD",
+                    "Entraineur": "SRDJAN JOVIN",
+                    "Dist.": "2700m",
+                    "Matin": "9.1",
+                    "": "8.26",
+                    "Pmu.fr": "8.7"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "ROC DE MONTFORT (M10)",
+                    "Def.": "",
+                    "Jockey": "F. OUVRIE",
+                    "Entraineur": "Mario VAN DOOYEWEERD",
+                    "Dist.": "2700m",
+                    "Matin": "13",
+                    "": "29.78",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "DILEVA KALL (F8)",
+                    "Def.": "",
+                    "Jockey": "CH. MARTENS",
+                    "Entraineur": "D. REDEN",
+                    "Dist.": "2700m",
+                    "Matin": "21",
+                    "": "40.26",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "PAS SANS TOI (M12)",
+                    "Def.": "",
+                    "Jockey": "D. CINIER",
+                    "Entraineur": "DE GROOTE LIEVEN BVBA",
+                    "Dist.": "2700m",
+                    "Matin": "48",
+                    "": "155.48",
+                    "Pmu.fr": "78"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "SPEEDY BLUE (M10)",
+                    "Def.": "",
+                    "Jockey": "J.-PH. MARY",
+                    "Entraineur": "J.PH. MARY",
+                    "Dist.": "2700m",
+                    "Matin": "21",
+                    "": "73.02",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "PRESTIGE GUICHEN (H10)",
+                    "Def.": "",
+                    "Jockey": "P. VERCRUYSSE",
+                    "Entraineur": "H. HARDY",
+                    "Dist.": "2700m",
+                    "Matin": "41",
+                    "": "54.63",
+                    "Pmu.fr": "54"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "QUARRY BAY (F10)",
+                    "Def.": "",
+                    "Jockey": "P. LEVESQUE",
+                    "Entraineur": "M. LENDERS",
+                    "Dist.": "2700m",
+                    "Matin": "69",
+                    "": "106.38",
+                    "Pmu.fr": "105"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "SON ALEZAN (M9)",
+                    "Def.": "",
+                    "Jockey": "E. RAFFIN",
+                    "Entraineur": "R. Bergh",
+                    "Dist.": "2700m",
+                    "Matin": "5.3",
+                    "": "4.63",
+                    "Pmu.fr": "4.3"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "QUELA RIVE (F10)",
+                    "Def.": "",
+                    "Jockey": "J. DUBOIS",
+                    "Entraineur": "R. DONATI",
+                    "Dist.": "2700m",
+                    "Matin": "16",
+                    "": "22.96",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "PRINCE DU VERGER (H10)",
+                    "Def.": "",
+                    "Jockey": "J.-M. BAZIRE",
+                    "Entraineur": "L. DE GROOTE",
+                    "Dist.": "2700m",
+                    "Matin": "3.5",
+                    "": "2.52",
+                    "Pmu.fr": "3.2"
+                },
+                {
+                    "nÂ°": "16",
+                    "Cheval": "POMEROL DE LAUMAC (M10)",
+                    "Def.": "",
+                    "Jockey": "M.-J. RUAULT",
+                    "Entraineur": "M.J. RUAULT",
+                    "Dist.": "2700m",
+                    "Matin": "110",
+                    "": "134.75",
+                    "Pmu.fr": "171"
+                }
+            ],
+            "nb_participants_partants": 16,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=54904",
+                    "Cheval": "QUICK VIERVIL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=143&date=2012-11-12",
+                    "Jockey": "M. ABRIVARD",
+                    "Cote": "8.7"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=64216",
+                    "Cheval": "RECIT JELOCA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=154&date=2012-11-12",
+                    "Jockey": "J.-L. CL. DERSOIR",
+                    "Cote": "76"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=62875",
+                    "Cheval": "SON ALEZAN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=137&date=2012-11-12",
+                    "Jockey": "E. RAFFIN",
+                    "Cote": "4.3"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=49671",
+                    "Cheval": "QUELA RIVE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=217&date=2012-11-12",
+                    "Jockey": "J. DUBOIS",
+                    "Cote": "19"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=90964",
+                    "Cheval": "DILEVA KALL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1050&date=2012-11-12",
+                    "Jockey": "CH. MARTENS",
+                    "Cote": "21"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=67157",
+                    "Cheval": "SABA DU VIVIER",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=196&date=2012-11-12",
+                    "Jockey": "A. ABRIVARD",
+                    "Cote": "138"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38577",
+                    "Cheval": "PAS SANS TOI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=884&date=2012-11-12",
+                    "Jockey": "D. CINIER",
+                    "Cote": "78"
+                },
+                {
+                    "Place": "8ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=60423",
+                    "Cheval": "ROC DE MONTFORT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=479&date=2012-11-12",
+                    "Jockey": "F. OUVRIE",
+                    "Cote": "17"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2012-11-12/paris-vincennes/79669_prix-d-azay-le-rideau.html",
+                "https://www.canalturf.com/resultats-PMU/2012-11-12/paris-vincennes/79669_prix-d-azay-le-rideau.html"
+            ],
+            "prix": "35000",
+            "distance": "2700m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "2",
+            "heure": " 14:20 ",
+            "nom_de_la_course": "PRIX D'AZAY-LE-RIDEAU",
+            "date": "2012-11-12",
+            "nb_participants": 18,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "UNIQUE BOY (H6)",
+                    "Def.": "",
+                    "Jockey": "Y. DREUX",
+                    "Entraineur": "F. LEBLANC",
+                    "Dist.": "2700m",
+                    "Matin": "51",
+                    "": "351.24",
+                    "Pmu.fr": "125"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "UTELLO DE CHAMBE (H6)",
+                    "Def.": "",
+                    "Jockey": "J. VERBEECK",
+                    "Entraineur": "R. BERGH",
+                    "Dist.": "2700m",
+                    "Matin": "26",
+                    "": "12.11",
+                    "Pmu.fr": "31"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "UNDEVENIS JAVANAIS (H8)",
+                    "Def.": "",
+                    "Jockey": "T. LE BELLER",
+                    "Entraineur": "G. HOUEL",
+                    "Dist.": "2700m",
+                    "Matin": "11",
+                    "": "12.32",
+                    "Pmu.fr": "9.8"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "UPPER DU DONJON (H6)",
+                    "Def.": ""
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "UDON DE LA FONTE (M9)",
+                    "Def.": "",
+                    "Jockey": "L. J.-J. MARTIN",
+                    "Entraineur": "P.G. CAVEY",
+                    "Dist.": "2700m",
+                    "Matin": "20",
+                    "": "140.49",
+                    "Pmu.fr": "55"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "UN GUERRIER (H10)",
+                    "Def.": "",
+                    "Jockey": "S. ROGER",
+                    "Entraineur": "A. ATTARD",
+                    "Dist.": "2700m",
+                    "Matin": "30",
+                    "": "50.17",
+                    "Pmu.fr": "54"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "UNIQUE DE FROULAY (H8)",
+                    "Def.": "",
+                    "Jockey": "B. PITON",
+                    "Entraineur": "E. PUNIERE",
+                    "Dist.": "2700m",
+                    "Matin": "31",
+                    "": "39.02",
+                    "Pmu.fr": "49"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "UPSAON (H8)",
+                    "Def.": "",
+                    "Jockey": "S. ROUXEL",
+                    "Entraineur": "A. BLIN",
+                    "Dist.": "2700m",
+                    "Matin": "79",
+                    "": "234.16",
+                    "Pmu.fr": "178"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "UN VRAI (H6)",
+                    "Def.": "",
+                    "Jockey": "E. RAFFIN",
+                    "Entraineur": "T. GOHIER",
+                    "Dist.": "2700m",
+                    "Matin": "18",
+                    "": "36.97",
+                    "Pmu.fr": "40"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "UP AND COMING (H9)",
+                    "Def.": "",
+                    "Jockey": "J.-M. BAZIRE",
+                    "Entraineur": "S. DUMONT",
+                    "Dist.": "2700m",
+                    "Matin": "2.8",
+                    "": "2.23",
+                    "Pmu.fr": "2.1"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "USLY DE VISAIS (H9)",
+                    "Def.": "",
+                    "Jockey": "M. BEZIER",
+                    "Entraineur": "J.L. LANGERON",
+                    "Dist.": "2700m",
+                    "Matin": "26",
+                    "": "22.66",
+                    "Pmu.fr": "52"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "URSULO BRETON (H9)",
+                    "Def.": "",
+                    "Jockey": "H. GILLES",
+                    "Entraineur": "H. GILLES",
+                    "Dist.": "2700m",
+                    "Matin": "13",
+                    "": "13.50",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "UGUITANO (H12)",
+                    "Def.": "",
+                    "Jockey": "G. MOINON",
+                    "Entraineur": "DEAN SERNEELS",
+                    "Dist.": "2700m",
+                    "Matin": "16",
+                    "": "18.48",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "UNERO MONTAVAL (H12)",
+                    "Def.": "",
+                    "Jockey": "D. CINIER",
+                    "Entraineur": "J.M. CHAINEUX",
+                    "Dist.": "2700m",
+                    "Matin": "10",
+                    "": "9.00",
+                    "Pmu.fr": "5.8"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "UNGADOR (H8)",
+                    "Def.": "",
+                    "Jockey": "P.-Y. VERVA",
+                    "Entraineur": "A. LAURENT",
+                    "Dist.": "2700m",
+                    "Matin": "17",
+                    "": "16.72",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "16",
+                    "Cheval": "UT DE DOMPIERRE (H10)",
+                    "Def.": "",
+                    "Jockey": "P. VERCRUYSSE",
+                    "Entraineur": "M. ELLUL",
+                    "Dist.": "2700m",
+                    "Matin": "38",
+                    "": "58.54",
+                    "Pmu.fr": "108"
+                },
+                {
+                    "nÂ°": "17",
+                    "Cheval": "ULTRA PRIDE (M7)",
+                    "Def.": "",
+                    "Jockey": "S. TRIBOURDEAU",
+                    "Entraineur": "A. WILDERBEEK",
+                    "Dist.": "2700m",
+                    "Matin": "22",
+                    "": "23.41",
+                    "Pmu.fr": "32"
+                },
+                {
+                    "nÂ°": "18",
+                    "Cheval": "UNIQUE ANGEVIN (H9)",
+                    "Def.": "",
+                    "Jockey": "M. MOTTIER",
+                    "Entraineur": "O. CAUCHI",
+                    "Dist.": "2700m",
+                    "Matin": "10",
+                    "": "12.10",
+                    "Pmu.fr": "15"
+                }
+            ],
+            "nb_participants_partants": 4,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=105472",
+                    "Cheval": "UNERO MONTAVAL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=884&date=2012-11-12",
+                    "Jockey": "D. CINIER",
+                    "Cote": "5.8"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=104894",
+                    "Cheval": "UNDEVENIS JAVANAIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=484&date=2012-11-12",
+                    "Jockey": "T. LE BELLER",
+                    "Cote": "9.8"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=95181",
+                    "Cheval": "URSULO BRETON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1401&date=2012-11-12",
+                    "Jockey": "H. GILLES",
+                    "Cote": "13"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=108845",
+                    "Cheval": "UP AND COMING",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3169&date=2012-11-12",
+                    "Jockey": "J.-M. BAZIRE",
+                    "Cote": "2.1"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=100293",
+                    "Cheval": "USLY DE VISAIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=131&date=2012-11-12",
+                    "Jockey": "M. BEZIER",
+                    "Cote": "52"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2012-11-12/paris-vincennes/79670_prix-de-ranville.html",
+                "https://www.canalturf.com/resultats-PMU/2012-11-12/paris-vincennes/79670_prix-de-ranville.html"
+            ],
+            "prix": "46000",
+            "distance": "2175m",
+            "type_de_course": "TROT MONTE",
+            "lieux": "3",
+            "heure": " 14:50 ",
+            "nom_de_la_course": "PRIX DE RANVILLE",
+            "date": "2012-11-12",
+            "nb_participants": 10,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "SINGAPOUR (F7)",
+                    "Def.": "",
+                    "Jockey": "C. BOUVIER",
+                    "Entraineur": "J.W. HALLAIS",
+                    "Poids": "57.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "10",
+                    "": "13.78",
+                    "Pmu.fr": "7"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "QUELLE IDYLLE (F9)",
+                    "Def.": "",
+                    "Jockey": "MLLE A. BROUEL",
+                    "Entraineur": "C. DEFFAUX",
+                    "Poids": "57.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "18",
+                    "": "31.73",
+                    "Pmu.fr": "38"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "SOIREE DE BAL (F6)",
+                    "Def.": "",
+                    "Jockey": "MLLE E. ALLAIRE",
+                    "Entraineur": "P. COIGNARD",
+                    "Poids": "55.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "8",
+                    "": "9.40",
+                    "Pmu.fr": "6.1"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "QUEZIA D'ECROVILLE (F8)",
+                    "Def.": "",
+                    "Jockey": "F. GINARD",
+                    "Entraineur": "B. MARIE",
+                    "Poids": "55.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "31",
+                    "": "126.92",
+                    "Pmu.fr": "66"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "SUMMER NIGHT (F6)",
+                    "Def.": "",
+                    "Jockey": "M. DAOUGABEL",
+                    "Entraineur": "L.CL. ABRIVARD",
+                    "Poids": "55.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "30",
+                    "": "63.46",
+                    "Pmu.fr": "29"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "SYLVIE DE BETAN (F10)",
+                    "Def.": "",
+                    "Jockey": "K. THONNERIEUX",
+                    "Entraineur": "D. HAON",
+                    "Poids": "57.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "5.1",
+                    "": "3.62",
+                    "Pmu.fr": "4.5"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "QUELLE BRETAIE (F9)",
+                    "Def.": "",
+                    "Jockey": "CH. MOTTIER",
+                    "Entraineur": "H. GILLES",
+                    "Poids": "55.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "10",
+                    "": "101.54",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "STAR DU COGLAIS (F8)",
+                    "Def.": "",
+                    "Jockey": "MLLE C. LEVESQUE",
+                    "Entraineur": "Y.A. BRIAND",
+                    "Poids": "57.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "2.4",
+                    "": "1.78",
+                    "Pmu.fr": "2.4"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "SONIA DES BORDES (F10)",
+                    "Def.": "",
+                    "Jockey": "O. TOUVAIS",
+                    "Entraineur": "J.E. DAVID",
+                    "Poids": "55.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "11",
+                    "": "10.57",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "REALLY QUEEN (F8)",
+                    "Def.": "",
+                    "Jockey": "J. DAVE",
+                    "Entraineur": "L. CHARBONNEL",
+                    "Poids": "57.0 kg",
+                    "Dist.": "2175m",
+                    "Matin": "27",
+                    "": "101.54",
+                    "Pmu.fr": "52"
+                }
+            ],
+            "nb_participants_partants": 10,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=70192",
+                    "Cheval": "SYLVIE DE BETAN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=350&date=2012-11-12",
+                    "Jockey": "K. THONNERIEUX",
+                    "Cote": "4.5"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=72430",
+                    "Cheval": "STAR DU COGLAIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=938&date=2012-11-12",
+                    "Jockey": "MLLE C. LEVESQUE",
+                    "Cote": "2.4"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=73201",
+                    "Cheval": "SONIA DES BORDES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=9877&date=2012-11-12",
+                    "Jockey": "O. TOUVAIS",
+                    "Cote": "14"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=73390",
+                    "Cheval": "SUMMER NIGHT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1637&date=2012-11-12",
+                    "Jockey": "M. DAOUGABEL",
+                    "Cote": "29"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=86115",
+                    "Cheval": "SOIREE DE BAL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=10299&date=2012-11-12",
+                    "Jockey": "MLLE E. ALLAIRE",
+                    "Cote": "6.1"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=62732",
+                    "Cheval": "REALLY QUEEN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3207&date=2012-11-12",
+                    "Jockey": "J. DAVE",
+                    "Cote": "52"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=46267",
+                    "Cheval": "QUELLE BRETAIE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=602&date=2012-11-12",
+                    "Jockey": "CH. MOTTIER",
+                    "Cote": "18"
+                }
+            ]
+        }
+    ],
+    "nb_courses": 3
+}

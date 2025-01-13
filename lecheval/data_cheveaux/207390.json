@@ -1,0 +1,83 @@
+{
+    "Nom du cheval": "DJANGO DU MARTZA",
+    "info_cheval": {
+        "Sexe/Age :": "H5",
+        "Robe :": "BAI",
+        "Père :": "PRODIGIOUS",
+        "Mère :": "KELLY JAMES",
+        "Père de Mère :": "",
+        "Propriétaire :": "ECURIE DU MARTZA SÃRL",
+        "Entraineur :": "PUJOL RENAUD"
+    },
+    "Palmares": {
+        "Gains :": "60916â¬",
+        "Perf. :": "3a5a7a4a3a3a",
+        "Course(s) :": "2",
+        "Victoire(s) :": "0",
+        "PlacÃ©(s) :": "2"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "7Ã¨me",
+            "Date": "31/07/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-07-31/avenches/173759_coupe-des-5-ans.html"
+        },
+        {
+            "Place": "3Ã¨me",
+            "Date": "17/07/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-07-17/avenches/173099_prix-du-mans.html"
+        },
+        {
+            "Place": "5Ã¨me",
+            "Date": "06/07/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-07-06/avenches/172561_criterium-des-5-ans.html"
+        },
+        {
+            "Place": "7Ã¨me",
+            "Date": "29/06/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-06-29/avenches/172201_prix-de-zonza.html"
+        },
+        {
+            "Place": "4Ã¨me",
+            "Date": "05/06/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-06-05/avenches/171073_prix-de-strasbourg.html"
+        },
+        {
+            "Place": "3Ã¨me",
+            "Date": "18/05/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-05-18/avenches/170123_prix-du-cafe-le-galopin-a-yverdon.html"
+        },
+        {
+            "Place": "3Ã¨me",
+            "Date": "02/05/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-05-02/avenches/169381_prix-du-cafe-courses-pmu.html"
+        },
+        {
+            "Place": "1er",
+            "Date": "10/04/2018",
+            "course information": "https://www.canalturf.com/resultats-PMU/2018-04-10/avenches/168272_grand-prix-des-5-ans.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "12",
+            "Pourcentage": "34.29%"
+        },
+        {
+            "Place": "1er",
+            "Nombre de fois": "4",
+            "Pourcentage": "11.43%"
+        },
+        {
+            "Place": "2eme",
+            "Nombre de fois": "6",
+            "Pourcentage": "17.14%"
+        },
+        {
+            "Place": "3eme",
+            "Nombre de fois": "13",
+            "Pourcentage": "37.14%"
+        }
+    ]
+}

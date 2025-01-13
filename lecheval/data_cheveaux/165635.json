@@ -1,0 +1,78 @@
+{
+    "Nom du cheval": "BUGATTI DU CHEVREL",
+    "info_cheval": {
+        "Sexe/Age :": "F9",
+        "Robe :": "BAI",
+        "Père :": "JAG DE BELLOUET",
+        "Mère :": "STAR DU CHEVREL",
+        "Père de Mère :": "",
+        "Propriétaire :": "Mme B. HERNOT",
+        "Entraineur :": "E. HERNOT"
+    },
+    "Palmares": {
+        "Gains :": "84425â¬",
+        "Perf. :": "8aDa5a6a7aDaDaDa2a7a",
+        "Course(s) :": "117",
+        "Victoire(s) :": "1",
+        "PlacÃ©(s) :": "73"
+    },
+    "Derniere_performance": [
+        {
+            "Place": "6Ã¨me",
+            "Date": "25/08/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-08-25/cabourg/218253_prix-des-jasmins.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "09/08/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-08-09/brehal/216882_prix-de-la-ville-de-brehal.html"
+        },
+        {
+            "Place": "7Ã¨me",
+            "Date": "07/07/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-07-07/chateaubriant/214018_prix-de-la-ville-marie.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "14/06/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-06-14/arras/211974_prix-comartois.html"
+        },
+        {
+            "Place": "N-Pl",
+            "Date": "25/05/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-05-25/maure-de-bretagne/210318_prix-miss-centre-bretagne.html"
+        },
+        {
+            "Place": "2Ã¨me",
+            "Date": "01/03/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-03-01/saint-brieuc/204686_prix-de-la-sociEtE-du-cheval-franCais.html"
+        },
+        {
+            "Place": "7Ã¨me",
+            "Date": "22/02/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-02-22/amiens/204108_prix-jacques-de-saint-sauveur-internet.html"
+        },
+        {
+            "Place": "2Ã¨me",
+            "Date": "26/01/2020",
+            "course information": "https://www.canalturf.com/resultats-PMU/2020-01-26/argentan/202597_prix-d-occagnes.html"
+        }
+    ],
+    "Stats palmarès PMU/Premium": [
+        {
+            "Place": "Non-placé",
+            "Nombre de fois": "54",
+            "Pourcentage": "84.38%"
+        },
+        {
+            "Place": "2eme",
+            "Nombre de fois": "5",
+            "Pourcentage": "7.81%"
+        },
+        {
+            "Place": "3eme",
+            "Nombre de fois": "5",
+            "Pourcentage": "7.81%"
+        }
+    ]
+}

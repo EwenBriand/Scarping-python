@@ -1,0 +1,3879 @@
+{
+    "courses": [
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/cagnes-sur-mer/23052_prix-de-cabries.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/cagnes-sur-mer/23052_prix-de-cabries.html"
+            ],
+            "prix": "0",
+            "distance": "2400m",
+            "type_de_course": "PLAT",
+            "lieux": "1",
+            "heure": " 13:55 ",
+            "nom_de_la_course": "PRIX DE CABRIES",
+            "date": "2007-02-21",
+            "nb_participants": 7,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "RINGBOW (H/7)",
+                    "Corde": "",
+                    "Jockey": "SPANU F.",
+                    "Entraineur": "JUNG MME C.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+730%",
+                    "Pmu.fr": "8.3"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "ANONYME ISLAND (H/8)",
+                    "Corde": "",
+                    "Jockey": "THULLIEZ T.",
+                    "Entraineur": "MME M.DEFONTAINE",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+360%",
+                    "Pmu.fr": "4.6"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "I DON'T CARE (H6)",
+                    "Corde": "",
+                    "Jockey": "PARDON G.",
+                    "Entraineur": "F.PARDON",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+860%",
+                    "Pmu.fr": "9.6"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "LE GENOIS (M5)",
+                    "Corde": "",
+                    "Jockey": "ESCUDER C.",
+                    "Entraineur": "P.KHOZIAN",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+770%",
+                    "Pmu.fr": "8.7"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "MARCHAND D'ARGENT",
+                    "Corde": "",
+                    "Jockey": "VICTOIRE J.",
+                    "Entraineur": "Chotard R.",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+60%",
+                    "Pmu.fr": "1.6"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "BOUILLE MENARD",
+                    "Corde": "",
+                    "Jockey": "BORGOGNONI C.",
+                    "Entraineur": "Charbonnier A.",
+                    "Poids": "53.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+4,900%",
+                    "Pmu.fr": "50"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "STROMBOLICCHIO (M4)",
+                    "Corde": "",
+                    "Jockey": "CRASTUS A.",
+                    "Entraineur": "JM.PICCONE",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,400%",
+                    "Pmu.fr": "25"
+                }
+            ],
+            "nb_participants_partants": 7,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=30522",
+                    "Cheval": "RINGBOW",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=230&date=2007-02-21",
+                    "Jockey": "SPANU F.",
+                    "Cote": "8.3",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=34785",
+                    "Cheval": "MARCHAND D'ARGENT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=227&date=2007-02-21",
+                    "Jockey": "VICTOIRE J.",
+                    "Cote": "1.6",
+                    "Ecart": "2L1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=25778",
+                    "Cheval": "STROMBOLICCHIO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=219&date=2007-02-21",
+                    "Jockey": "CRASTUS A.",
+                    "Cote": "25",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=33024",
+                    "Cheval": "I DON'T CARE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=564&date=2007-02-21",
+                    "Jockey": "PARDON G.",
+                    "Cote": "9.6",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=33139",
+                    "Cheval": "ANONYME ISLAND",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=238&date=2007-02-21",
+                    "Jockey": "THULLIEZ T.",
+                    "Cote": "4.6",
+                    "Ecart": "2L1/2"
+                },
+                {
+                    "Place": "6ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38375",
+                    "Cheval": "LE GENOIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6895&date=2007-02-21",
+                    "Jockey": "ESCUDER C.",
+                    "Cote": "8.7",
+                    "Ecart": "2L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=32421",
+                    "Cheval": "BOUILLE MENARD",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6664&date=2007-02-21",
+                    "Jockey": "BORGOGNONI C.",
+                    "Cote": "50",
+                    "Ecart": "LOIN"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/cagnes-sur-mer/23053_prix-de-cavaillon.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/cagnes-sur-mer/23053_prix-de-cavaillon.html"
+            ],
+            "prix": "0",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "2",
+            "heure": " 14:25 ",
+            "nom_de_la_course": "PRIX DE CAVAILLON",
+            "date": "2007-02-21",
+            "nb_participants": 13,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "SILANOS (H5)",
+                    "Corde": "",
+                    "Jockey": "BOURGOIS Y.",
+                    "Entraineur": "CAPITTE (S)",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "REVIENS (H/3)",
+                    "Corde": "",
+                    "Jockey": "PARDON G.",
+                    "Entraineur": "Monfort P.",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+4,500%",
+                    "Pmu.fr": "46"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "VOLUPTATIS (H8)",
+                    "Corde": "",
+                    "Jockey": "MARCHELLI R.",
+                    "Entraineur": "JL.MACE",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,900%",
+                    "Pmu.fr": "20"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "REAL SPAIN (H4)",
+                    "Corde": "",
+                    "Jockey": "PANICUCCI F.",
+                    "Entraineur": "D.PROD'HOMME",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+660%",
+                    "Pmu.fr": "7.6"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "MOLESNE GANG (H5)",
+                    "Corde": "",
+                    "Jockey": "ANDROUIN M.",
+                    "Entraineur": "J.FONZO",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "SAFARI JOURNEY (M4)",
+                    "Corde": "",
+                    "Jockey": "MAILLOT S.",
+                    "Entraineur": "T.CLOUT",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+120%",
+                    "Pmu.fr": "2.2"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "EMBLEM DAVIS (H8)",
+                    "Corde": "",
+                    "Jockey": "THULLIEZ T.",
+                    "Entraineur": "M. ROSSEEL",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+270%",
+                    "Pmu.fr": "3.7"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "BARIOLO (M3)",
+                    "Corde": "",
+                    "Jockey": "CATTEAU JP.",
+                    "Entraineur": "F.CHAPPET",
+                    "Poids": "53.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+8,800%",
+                    "Pmu.fr": "89"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "WYLDER (H/6)",
+                    "Corde": "",
+                    "Jockey": "MLLE SANTIAGO D.",
+                    "Entraineur": "CROZETIERE-ROULET MLLE V.",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+11,200%",
+                    "Pmu.fr": "113"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "SALIN (H3)",
+                    "Corde": "",
+                    "Jockey": "BLONDEL F.",
+                    "Entraineur": "MONFORT (S)",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+6,900%",
+                    "Pmu.fr": "70"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "RAJEEF ASHOG (M5)",
+                    "Corde": "",
+                    "Jockey": "CARVALHO JP.",
+                    "Entraineur": "G.MARTIN",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+13,900%",
+                    "Pmu.fr": "140"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "DANCER DAVIS (H/4)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "DE CLERCK MLLE A.",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "OCEAN BAIDY (H6)",
+                    "Corde": "",
+                    "Jockey": "BENOIST G.",
+                    "Entraineur": "F.FORESI",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+7,700%",
+                    "Pmu.fr": "78"
+                }
+            ],
+            "nb_participants_partants": 13,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=41353",
+                    "Cheval": "REAL SPAIN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=663&date=2007-02-21",
+                    "Jockey": "PANICUCCI F.",
+                    "Cote": "7.6",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=44433",
+                    "Cheval": "EMBLEM DAVIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=238&date=2007-02-21",
+                    "Jockey": "THULLIEZ T.",
+                    "Cote": "3.7",
+                    "Ecart": "1L1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=47568",
+                    "Cheval": "BARIOLO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7383&date=2007-02-21",
+                    "Jockey": "CATTEAU JP.",
+                    "Cote": "89",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=44597",
+                    "Cheval": "SALIN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=528&date=2007-02-21",
+                    "Jockey": "BLONDEL F.",
+                    "Cote": "70",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "13",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=49379",
+                    "Cheval": "OCEAN BAIDY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2007-02-21",
+                    "Jockey": "BENOIST G.",
+                    "Cote": "78",
+                    "Ecart": "CTEENC."
+                },
+                {
+                    "Place": "6ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42550",
+                    "Cheval": "VOLUPTATIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1142&date=2007-02-21",
+                    "Jockey": "MARCHELLI R.",
+                    "Cote": "20",
+                    "Ecart": "2L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=47777",
+                    "Cheval": "REVIENS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=564&date=2007-02-21",
+                    "Jockey": "PARDON G.",
+                    "Cote": "46",
+                    "Ecart": "1L1/2"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/cagnes-sur-mer/23054_prix-de-la-federation-du-sud-est.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/cagnes-sur-mer/23054_prix-de-la-federation-du-sud-est.html"
+            ],
+            "prix": "0",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "3",
+            "heure": " 14:55 ",
+            "nom_de_la_course": "PRIX DE LA FEDERATION DU SUD EST",
+            "date": "2007-02-21",
+            "nb_participants": 7,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "THOUSAND STARS (M3)",
+                    "Corde": "",
+                    "Jockey": "COFFIGNY S.",
+                    "Entraineur": "R.CHOTARD",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "LINOS (H5)",
+                    "Corde": "",
+                    "Jockey": "AUGE J.",
+                    "Entraineur": "COLLET (S)",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+460%",
+                    "Pmu.fr": "5.6"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "CAYO JULIO (H9)",
+                    "Corde": "",
+                    "Jockey": "PANICUCCI F.",
+                    "Entraineur": "B.BEAUNEZ",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "L'IMPRESSIONISTE (H8)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "CHAPPET F.",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+30%",
+                    "Pmu.fr": "1.3"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "NORDIC WALTZ",
+                    "Corde": "",
+                    "Jockey": "CARVALHO JP.",
+                    "Entraineur": "Hofer M.",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,100%",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "BEAUTY MILL (F3)",
+                    "Corde": "",
+                    "Jockey": "HUET T.",
+                    "Entraineur": "R.PRITCHARD-GORDON",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,500%",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "MY QUENTIN (M6)",
+                    "Corde": "",
+                    "Jockey": "BLANCPAIN M.",
+                    "Entraineur": "F.VERMEULEN",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+750%",
+                    "Pmu.fr": "8.5"
+                }
+            ],
+            "nb_participants_partants": 7,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=44184",
+                    "Cheval": "L'IMPRESSIONISTE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2007-02-21",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "1.3",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38367",
+                    "Cheval": "BEAUTY MILL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=240&date=2007-02-21",
+                    "Jockey": "HUET T.",
+                    "Cote": "26",
+                    "Ecart": "3L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=37508",
+                    "Cheval": "CAYO JULIO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=663&date=2007-02-21",
+                    "Jockey": "PANICUCCI F.",
+                    "Cote": "14",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=47413",
+                    "Cheval": "NORDIC WALTZ",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6700&date=2007-02-21",
+                    "Jockey": "CARVALHO JP.",
+                    "Cote": "22",
+                    "Ecart": "3/4L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=44354",
+                    "Cheval": "MY QUENTIN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6823&date=2007-02-21",
+                    "Jockey": "BLANCPAIN M.",
+                    "Cote": "8.5",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=42836",
+                    "Cheval": "LINOS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3358&date=2007-02-21",
+                    "Jockey": "AUGE J.",
+                    "Cote": "5.6",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=37505",
+                    "Cheval": "THOUSAND STARS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7250&date=2007-02-21",
+                    "Jockey": "COFFIGNY S.",
+                    "Cote": "14",
+                    "Ecart": "1/2L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/cagnes-sur-mer/23055_prix-de-saint-raphael.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/cagnes-sur-mer/23055_prix-de-saint-raphael.html"
+            ],
+            "prix": "0",
+            "distance": "1600m",
+            "type_de_course": "PLAT",
+            "lieux": "4",
+            "heure": " 15:25 ",
+            "nom_de_la_course": "PRIX DE SAINT RAPHAEL",
+            "date": "2007-02-21",
+            "nb_participants": 18,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "NUMITOR (M6)",
+                    "Corde": "",
+                    "Jockey": "LEFEBVRE F.",
+                    "Entraineur": "JUAN PABLO ENRIQUEZ FERNANDEZ",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+4,000%",
+                    "Pmu.fr": "41"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "EFISIA (F6)",
+                    "Corde": "",
+                    "Jockey": "MARION P.",
+                    "Entraineur": "G.BIANCHI",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "VEYRON (H3)",
+                    "Corde": "",
+                    "Jockey": "COLAS S.",
+                    "Entraineur": "A. BOLTE",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,600%",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "BRIDES MAID (F4)",
+                    "Corde": "",
+                    "Jockey": "THULLIEZ T.",
+                    "Entraineur": "D.PROD'HOMME",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+780%",
+                    "Pmu.fr": "8.8"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "CABEZA DE VACA (H7)",
+                    "Corde": "",
+                    "Jockey": "LERMYTE J.",
+                    "Entraineur": "BOUTIN (S)",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,800%",
+                    "Pmu.fr": "29"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "POUCHOU (M10)",
+                    "Corde": "",
+                    "Jockey": "FORESI F.",
+                    "Entraineur": "G. BIANCHI",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+670%",
+                    "Pmu.fr": "7.7"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "PIRATE BERE (H12)",
+                    "Corde": "",
+                    "Jockey": "BENOIST G.",
+                    "Entraineur": "MLLE V.DISSAUX",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,100%",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "MISTER DES AIGLES (H7)",
+                    "Corde": "",
+                    "Jockey": "BLANCPAIN M.",
+                    "Entraineur": "MME S.PRUGNAUD",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,700%",
+                    "Pmu.fr": "28"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "INVESTOR (H7)",
+                    "Corde": "",
+                    "Jockey": "CARVALHO JP.",
+                    "Entraineur": "TREVOR & PETER ROWE",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+5,800%",
+                    "Pmu.fr": "59"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "ARAGOG (H/8)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "MLLE V.DISSAUX",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+810%",
+                    "Pmu.fr": "9.1"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "ZAILAWAR (H6)",
+                    "Corde": "",
+                    "Jockey": "MLLE RENK B.",
+                    "Entraineur": "KALLEY (S)",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+450%",
+                    "Pmu.fr": "5.5"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "VICCHIO (H10)",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "WERN.BALTROMEI",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "DARK GREEN (M/9)",
+                    "Corde": "",
+                    "Jockey": "FARGEAT S.",
+                    "Entraineur": "CAPITTE JM.",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "THIANGOVA (F6)",
+                    "Corde": "",
+                    "Jockey": "MARCHELLI R.",
+                    "Entraineur": "B.DUTRUEL",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "IL TROVATORE (H8)",
+                    "Corde": "",
+                    "Jockey": "VICTOIRE J.",
+                    "Entraineur": "B.LEGROS",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+840%",
+                    "Pmu.fr": "9.4"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "CLOCHETTE DE SOU (F7)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "17",
+                    "Cheval": "OPTIMISTIQUE MOI (F2)",
+                    "Corde": "",
+                    "Jockey": "RUIS S.",
+                    "Entraineur": "S.BROGI",
+                    "Poids": "51.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+12,000%",
+                    "Pmu.fr": "121"
+                },
+                {
+                    "nÂ°": "18",
+                    "Cheval": "HOUSE BLEND (F/9)",
+                    "Corde": "",
+                    "Jockey": "CRASTUS A.",
+                    "Entraineur": "FAUGERAS P.",
+                    "Poids": "51.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,700%",
+                    "Pmu.fr": "28"
+                }
+            ],
+            "nb_participants_partants": 16,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=17382",
+                    "Cheval": "POUCHOU",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=71&date=2007-02-21",
+                    "Jockey": "FORESI F.",
+                    "Cote": "7.7",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=36215",
+                    "Cheval": "ARAGOG",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2007-02-21",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "9.1",
+                    "Ecart": "ENC."
+                },
+                {
+                    "Place": "3ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=32427",
+                    "Cheval": "PIRATE BERE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2007-02-21",
+                    "Jockey": "BENOIST G.",
+                    "Cote": "22",
+                    "Ecart": "1L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "11",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=1826",
+                    "Cheval": "ZAILAWAR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1880&date=2007-02-21",
+                    "Jockey": "MLLE RENK B.",
+                    "Cote": "5.5",
+                    "Ecart": "2L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=17240",
+                    "Cheval": "VEYRON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3432&date=2007-02-21",
+                    "Jockey": "COLAS S.",
+                    "Cote": "17",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "15",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=18535",
+                    "Cheval": "IL TROVATORE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=227&date=2007-02-21",
+                    "Jockey": "VICTOIRE J.",
+                    "Cote": "9.4",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "7ème",
+                    "": "18",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=20960",
+                    "Cheval": "HOUSE BLEND",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=219&date=2007-02-21",
+                    "Jockey": "CRASTUS A.",
+                    "Cote": "28",
+                    "Ecart": "1L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/cagnes-sur-mer/23056_prix-de-sainte-maxime.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/cagnes-sur-mer/23056_prix-de-sainte-maxime.html"
+            ],
+            "prix": "0",
+            "distance": "1600m",
+            "type_de_course": "PLAT",
+            "lieux": "5",
+            "heure": " 16:00 ",
+            "nom_de_la_course": "PRIX DE SAINTE MAXIME",
+            "date": "2007-02-21",
+            "nb_participants": 18,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "NEANDER (H/9)",
+                    "Corde": "",
+                    "Jockey": "VICTOIRE J.",
+                    "Entraineur": "FERTILLET Y.",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "TIGRON (M/10)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "CASH POLO (H/7)",
+                    "Corde": "",
+                    "Jockey": "TOUPEL G.",
+                    "Entraineur": "LEENDERS N.",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "GAUGUIN (M8)",
+                    "Corde": "",
+                    "Jockey": "BLONDEL F.",
+                    "Entraineur": "NEIL D. DRYSDALE",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,600%",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "COLCA (F5)",
+                    "Corde": "",
+                    "Jockey": "THULLIEZ T.",
+                    "Entraineur": "CAPITTE (S)",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+380%",
+                    "Pmu.fr": "4.8"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "PLAISIR BERE (H/8)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "T.LEMER",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "SATCHMO BAY (H/10)",
+                    "Corde": "",
+                    "Jockey": "SPANU F.",
+                    "Entraineur": "BOUTIN (S)",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "TARTUFFO (M4)",
+                    "Corde": "",
+                    "Jockey": "GROSJEAN J.",
+                    "Entraineur": "PICHARA JADUE J. C.",
+                    "Poids": "54.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,200%",
+                    "Pmu.fr": "23"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "VERTEM (H9)",
+                    "Corde": "",
+                    "Jockey": "PICCONE T.",
+                    "Entraineur": "L. CENDRA",
+                    "Poids": "53.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,400%",
+                    "Pmu.fr": "25"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "DE PHAZZ (H12)",
+                    "Corde": "",
+                    "Jockey": "BORGOGNONI C.",
+                    "Entraineur": "MME A. CHARBONNIER",
+                    "Poids": "53.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+10,300%",
+                    "Pmu.fr": "104"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "SEXY QUEEN",
+                    "Corde": "",
+                    "Jockey": "MAILLOT S.",
+                    "Entraineur": "Clout T.",
+                    "Poids": "53.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "LIZZY'S CAT",
+                    "Corde": "",
+                    "Jockey": "CRASTUS A.",
+                    "Entraineur": "Demercastel P.",
+                    "Poids": "52.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,400%",
+                    "Pmu.fr": "25"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "WHISPERER (H9)",
+                    "Corde": "",
+                    "Jockey": "AUGE J.",
+                    "Entraineur": "P.CHATELAIN",
+                    "Poids": "52.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+760%",
+                    "Pmu.fr": "8.6"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "PROCI VOLO (H/10)",
+                    "Corde": "",
+                    "Jockey": "MARCHELLI R.",
+                    "Entraineur": "NICOT MLLE C.",
+                    "Poids": "52.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+720%",
+                    "Pmu.fr": "8.2"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "NUBIEN MASK (F7)",
+                    "Corde": "",
+                    "Jockey": "BENOIST G.",
+                    "Entraineur": "BONIN (S)",
+                    "Poids": "52.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,600%",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "16",
+                    "Cheval": "RADIO LONDRES",
+                    "Corde": "",
+                    "Jockey": "FOURRIER G.",
+                    "Entraineur": "Fertillet Y.",
+                    "Poids": "51.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+4,700%",
+                    "Pmu.fr": "48"
+                },
+                {
+                    "nÂ°": "17",
+                    "Cheval": "TORRONTO (H10)",
+                    "Corde": "",
+                    "Jockey": "MONTENEGRO RC.",
+                    "Entraineur": "FX.BELVISI",
+                    "Poids": "51.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "18",
+                    "Cheval": "SUMMER SHRILL (H/10)",
+                    "Corde": "",
+                    "Jockey": "COFFIGNY S.",
+                    "Entraineur": "PERRUCHOT JP.",
+                    "Poids": "51.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,900%",
+                    "Pmu.fr": "30"
+                }
+            ],
+            "nb_participants_partants": 2,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "17",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=44513",
+                    "Cheval": "TORRONTO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=517&date=2007-02-21",
+                    "Jockey": "MONTENEGRO RC.",
+                    "Cote": "11",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "14",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=4997",
+                    "Cheval": "PROCI VOLO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1142&date=2007-02-21",
+                    "Jockey": "MARCHELLI R.",
+                    "Cote": "8.2",
+                    "Ecart": "1L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=28514",
+                    "Cheval": "GAUGUIN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=528&date=2007-02-21",
+                    "Jockey": "BLONDEL F.",
+                    "Cote": "17",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "13",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=19155",
+                    "Cheval": "WHISPERER",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3358&date=2007-02-21",
+                    "Jockey": "AUGE J.",
+                    "Cote": "8.6",
+                    "Ecart": "CTETETE"
+                },
+                {
+                    "Place": "5ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=6998",
+                    "Cheval": "SATCHMO BAY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=230&date=2007-02-21",
+                    "Jockey": "SPANU F.",
+                    "Cote": "10",
+                    "Ecart": "1L1/2"
+                },
+                {
+                    "Place": "6ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=33027",
+                    "Cheval": "COLCA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=238&date=2007-02-21",
+                    "Jockey": "THULLIEZ T.",
+                    "Cote": "4.8",
+                    "Ecart": "CTETETE"
+                },
+                {
+                    "Place": "7ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29240",
+                    "Cheval": "CASH POLO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6355&date=2007-02-21",
+                    "Jockey": "TOUPEL G.",
+                    "Cote": "15",
+                    "Ecart": "NEZ"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/cagnes-sur-mer/23057_prix-de-frejus.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/cagnes-sur-mer/23057_prix-de-frejus.html"
+            ],
+            "prix": "0",
+            "distance": "1600m",
+            "type_de_course": "PLAT",
+            "lieux": "6",
+            "heure": " 16:30 ",
+            "nom_de_la_course": "PRIX DE FREJUS",
+            "date": "2007-02-21",
+            "nb_participants": 14,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "GABRIELLE (F6)",
+                    "Corde": "",
+                    "Jockey": "FRADET R.",
+                    "Entraineur": "ALAN JONES",
+                    "Poids": "62.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,800%",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "LEMON YELLOW (H6)",
+                    "Corde": "",
+                    "Jockey": "BENSIMON J.",
+                    "Entraineur": "C.BOUTIN",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,500%",
+                    "Pmu.fr": "16"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "LIPS LION (M11)",
+                    "Corde": "",
+                    "Jockey": "HAMEL JB.",
+                    "Entraineur": "D.DE WAELE",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+350%",
+                    "Pmu.fr": "4.5"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "PRIMO DOMINO (H/7)",
+                    "Corde": "",
+                    "Jockey": "MASURE G.",
+                    "Entraineur": "LE GALLIARD C.",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+3,600%",
+                    "Pmu.fr": "37"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "SANKARANI (H7)",
+                    "Corde": "",
+                    "Jockey": "PICCONE T.",
+                    "Entraineur": "C.BOUTIN",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,700%",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "LYUBOV (H10)",
+                    "Corde": "",
+                    "Jockey": "COLAS S.",
+                    "Entraineur": "S. CERULIS",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "PROSPEROUS (M6)",
+                    "Corde": "",
+                    "Jockey": "BENOIST G.",
+                    "Entraineur": "JM.BAUDRELLE",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "JUST PUSH PLAY (H/8)",
+                    "Corde": "",
+                    "Jockey": "SPANU F.",
+                    "Entraineur": "MLLE S.MESTRIES",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+800%",
+                    "Pmu.fr": "9"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "TENNESSEE MASTER (H6)",
+                    "Corde": "",
+                    "Jockey": "PERRUCHOT R.",
+                    "Entraineur": "JP.PERRUCHOT",
+                    "Poids": "54.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,200%",
+                    "Pmu.fr": "23"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "NAVENKA",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "Baltromei Wern.",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+520%",
+                    "Pmu.fr": "6.2"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "SPOIL THE VINE (F6)",
+                    "Corde": "",
+                    "Jockey": "GAULTIER J.",
+                    "Entraineur": "MME E.HOLMEY",
+                    "Poids": "53.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,900%",
+                    "Pmu.fr": "20"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "LIETEN BERE (H9)",
+                    "Corde": "",
+                    "Jockey": "FORESI F.",
+                    "Entraineur": "C.BIANCHERI",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,800%",
+                    "Pmu.fr": "29"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "NICE CONNECTION (M6)",
+                    "Corde": "",
+                    "Jockey": "MONTENEGRO RC.",
+                    "Entraineur": "MME L.BRAEM",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+360%",
+                    "Pmu.fr": "4.6"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "PREMIERE NEIGE (F6)",
+                    "Corde": "",
+                    "Jockey": "RUIS S.",
+                    "Entraineur": "P.DEMERCASTEL",
+                    "Poids": "53.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+3,100%",
+                    "Pmu.fr": "32"
+                }
+            ],
+            "nb_participants_partants": 14,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=19699",
+                    "Cheval": "LIPS LION",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1569&date=2007-02-21",
+                    "Jockey": "HAMEL JB.",
+                    "Cote": "4.5",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=1861",
+                    "Cheval": "SANKARANI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=237&date=2007-02-21",
+                    "Jockey": "PICCONE T.",
+                    "Cote": "18",
+                    "Ecart": "1L1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "13",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=15676",
+                    "Cheval": "NICE CONNECTION",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=517&date=2007-02-21",
+                    "Jockey": "MONTENEGRO RC.",
+                    "Cote": "4.6",
+                    "Ecart": "1L1/2"
+                },
+                {
+                    "Place": "4ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=31487",
+                    "Cheval": "JUST PUSH PLAY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=230&date=2007-02-21",
+                    "Jockey": "SPANU F.",
+                    "Cote": "9",
+                    "Ecart": "CTETETE"
+                },
+                {
+                    "Place": "5ème",
+                    "": "11",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=20700",
+                    "Cheval": "SPOIL THE VINE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6269&date=2007-02-21",
+                    "Jockey": "GAULTIER J.",
+                    "Cote": "20",
+                    "Ecart": "3/4L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=11924",
+                    "Cheval": "PROSPEROUS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2007-02-21",
+                    "Jockey": "BENOIST G.",
+                    "Cote": "11",
+                    "Ecart": "2L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=47798",
+                    "Cheval": "NAVENKA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=236&date=2007-02-21",
+                    "Jockey": "BOEUF D.",
+                    "Cote": "6.2",
+                    "Ecart": "1/2L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/cagnes-sur-mer/23058_prix-jacques-geliot.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/cagnes-sur-mer/23058_prix-jacques-geliot.html"
+            ],
+            "prix": "0",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "7",
+            "heure": " 17:00 ",
+            "nom_de_la_course": "PRIX JACQUES GELIOT",
+            "date": "2007-02-21",
+            "nb_participants": 14,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "HIGHWAY EXIT (H/7)",
+                    "Corde": "",
+                    "Jockey": "MARCHELLI R.",
+                    "Entraineur": "SINE MLLE S.",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,500%",
+                    "Pmu.fr": "16"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "SEGADOR (H/9)",
+                    "Corde": "",
+                    "Jockey": "BLONDEL F.",
+                    "Entraineur": "CARGEEG WJ.",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "NANNI MARTIN (H9)",
+                    "Corde": "",
+                    "Jockey": "CAMPOS R.",
+                    "Entraineur": "A. REISS",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "EL CHURQUI (H6)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "JP.PELAT",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+510%",
+                    "Pmu.fr": "6.1"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "ETERNEL DEFI (H)",
+                    "Corde": "",
+                    "Jockey": "PICCONE T.",
+                    "Entraineur": "Piccone Jm.",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,700%",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "CALEDON DREAM (H/8)",
+                    "Corde": "",
+                    "Jockey": "VICTOIRE J.",
+                    "Entraineur": "PIMBONNET M.",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,900%",
+                    "Pmu.fr": "20"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "ALMENDRA (F5)",
+                    "Corde": "",
+                    "Jockey": "SANGLARD A.",
+                    "Entraineur": "GOUDOT (S)",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "AMBITIEUX (H/10)",
+                    "Corde": "",
+                    "Jockey": "HUET T.",
+                    "Entraineur": "COLLET G.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "PAGING THE KING (H9)",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "B.DUTRUEL",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+360%",
+                    "Pmu.fr": "4.6"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "VOLOSELLA (F7)",
+                    "Corde": "",
+                    "Jockey": "BENOIST G.",
+                    "Entraineur": "T.LARRIVIERE",
+                    "Poids": "57.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+2,600%",
+                    "Pmu.fr": "27"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "ECLAIR PASSION (M/6)",
+                    "Corde": "",
+                    "Jockey": "GROSJEAN J.",
+                    "Entraineur": "WINDRIF D.",
+                    "Poids": "56.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+3,800%",
+                    "Pmu.fr": "39"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "VILLALIER (M/6)",
+                    "Corde": "",
+                    "Jockey": "HANOTEL C.",
+                    "Entraineur": "CHATELAIN P.",
+                    "Poids": "55.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "FAIRY NOTE (M)",
+                    "Corde": "",
+                    "Jockey": "MLLE RENK B.",
+                    "Entraineur": "Boutin Jj.",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+570%",
+                    "Pmu.fr": "6.7"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "SUPER ILLUSION (H9)",
+                    "Corde": "",
+                    "Jockey": "AUGE J.",
+                    "Entraineur": "NICOT (S)",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,600%",
+                    "Pmu.fr": "17"
+                }
+            ],
+            "nb_participants_partants": 14,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=16701",
+                    "Cheval": "EL CHURQUI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2007-02-21",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "6.1",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=7835",
+                    "Cheval": "AMBITIEUX",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=240&date=2007-02-21",
+                    "Jockey": "HUET T.",
+                    "Cote": "13",
+                    "Ecart": "ENC."
+                },
+                {
+                    "Place": "3ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=1315",
+                    "Cheval": "CALEDON DREAM",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=227&date=2007-02-21",
+                    "Jockey": "VICTOIRE J.",
+                    "Cote": "20",
+                    "Ecart": "1L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "13",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=2352",
+                    "Cheval": "FAIRY NOTE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1880&date=2007-02-21",
+                    "Jockey": "MLLE RENK B.",
+                    "Cote": "6.7",
+                    "Ecart": "1L1/2"
+                },
+                {
+                    "Place": "5ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=4885",
+                    "Cheval": "VOLOSELLA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2007-02-21",
+                    "Jockey": "BENOIST G.",
+                    "Cote": "27",
+                    "Ecart": "1L1/2"
+                },
+                {
+                    "Place": "6ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=17669",
+                    "Cheval": "HIGHWAY EXIT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1142&date=2007-02-21",
+                    "Jockey": "MARCHELLI R.",
+                    "Cote": "16",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=5070",
+                    "Cheval": "PAGING THE KING",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=236&date=2007-02-21",
+                    "Jockey": "BOEUF D.",
+                    "Cote": "4.6",
+                    "Ecart": "1/2L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/cagnes-sur-mer/23059_prix-de-dieppe.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/cagnes-sur-mer/23059_prix-de-dieppe.html"
+            ],
+            "prix": "0",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "8",
+            "heure": " 17:30 ",
+            "nom_de_la_course": "PRIX DE DIEPPE",
+            "date": "2007-02-21",
+            "nb_participants": 14,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "BABBLING ON (F5)",
+                    "Corde": "",
+                    "Jockey": "ANDROUIN M.",
+                    "Entraineur": "JM.LEFEBVRE",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,900%",
+                    "Pmu.fr": "20"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "AFALKAYAR (M)",
+                    "Corde": "",
+                    "Jockey": "THULLIEZ T.",
+                    "Entraineur": "Collet G.",
+                    "Poids": "59.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,800%",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "PELDER BOY (H/10)",
+                    "Corde": "",
+                    "Jockey": "PASQUIER S.",
+                    "Entraineur": "VAN HANDENHOVE J.",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+550%",
+                    "Pmu.fr": "6.5"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "DINORAH (F/7)",
+                    "Corde": "",
+                    "Jockey": "FOURRIER G.",
+                    "Entraineur": "FERTILLET Y.",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+560%",
+                    "Pmu.fr": "6.6"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "JERRY LEE",
+                    "Corde": "",
+                    "Jockey": "BLONDEL F.",
+                    "Entraineur": "Cargeeg Wj.",
+                    "Poids": "59.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+720%",
+                    "Pmu.fr": "8.2"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "NEED",
+                    "Corde": "",
+                    "Jockey": "BENOIST G.",
+                    "Entraineur": "Capitte Jm.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "BLASTING POWER (H7)",
+                    "Corde": "",
+                    "Jockey": "COLAS S.",
+                    "Entraineur": "M.KREBS",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,600%",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "PRIMA STAR",
+                    "Corde": "",
+                    "Jockey": "BOEUF D.",
+                    "Entraineur": "Napoli Jc.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,900%",
+                    "Pmu.fr": "20"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "THROUGH ENDEAVOUR (H8)",
+                    "Corde": "",
+                    "Jockey": "MARCHELLI R.",
+                    "Entraineur": "MLLE K.BATAILLE",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+820%",
+                    "Pmu.fr": "9.2"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "SUSHI (F/7)",
+                    "Corde": "",
+                    "Jockey": "MLLE SANTIAGO D.",
+                    "Entraineur": "CAGET R.",
+                    "Poids": "57.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "TOGAMBO",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "ZADOR (M7)",
+                    "Corde": "",
+                    "Jockey": "CARVALHO JP.",
+                    "Entraineur": "B.DUTRUEL",
+                    "Poids": "56.5 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+540%",
+                    "Pmu.fr": "6.4"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "TORNO (H8)",
+                    "Corde": "",
+                    "Jockey": "AUGE J.",
+                    "Entraineur": "NICOT (S)",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "SANS LOGIQUE (H4)",
+                    "Corde": "",
+                    "Jockey": "LACAILLE E.",
+                    "Entraineur": "DAVID PIPE",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                }
+            ],
+            "nb_participants_partants": 11,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=24574",
+                    "Cheval": "BABBLING ON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=233&date=2007-02-21",
+                    "Jockey": "ANDROUIN M.",
+                    "Cote": "20",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=1624",
+                    "Cheval": "DINORAH",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=519&date=2007-02-21",
+                    "Jockey": "FOURRIER G.",
+                    "Cote": "6.6",
+                    "Ecart": "3/4L"
+                },
+                {
+                    "Place": "3ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=17603",
+                    "Cheval": "PELDER BOY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=226&date=2007-02-21",
+                    "Jockey": "PASQUIER S.",
+                    "Cote": "6.5",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "4ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=14664",
+                    "Cheval": "THROUGH ENDEAVOUR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1142&date=2007-02-21",
+                    "Jockey": "MARCHELLI R.",
+                    "Cote": "9.2",
+                    "Ecart": "3/4L"
+                },
+                {
+                    "Place": "5ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=20574",
+                    "Cheval": "NEED",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=223&date=2007-02-21",
+                    "Jockey": "BENOIST G.",
+                    "Cote": "11",
+                    "Ecart": "3/4L"
+                },
+                {
+                    "Place": "6ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=32347",
+                    "Cheval": "PRIMA STAR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=236&date=2007-02-21",
+                    "Jockey": "BOEUF D.",
+                    "Cote": "20",
+                    "Ecart": "1/2L"
+                },
+                {
+                    "Place": "7ème",
+                    "": "13",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=7826",
+                    "Cheval": "TORNO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3358&date=2007-02-21",
+                    "Jockey": "AUGE J.",
+                    "Cote": "14",
+                    "Ecart": "1/2L"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/enghien/23044_prix-de-saint-pierre-le-moutier.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/enghien/23044_prix-de-saint-pierre-le-moutier.html"
+            ],
+            "prix": "0",
+            "distance": "2875m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "1",
+            "heure": " 13:40 ",
+            "nom_de_la_course": "PRIX DE SAINT-PIERRE LE MOUTIER",
+            "date": "2007-02-21",
+            "nb_participants": 15,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "PALMA VICI (F4)",
+                    "Def.": "",
+                    "Jockey": "KOUBICHE L.",
+                    "Entraineur": "L. KOUBICHE",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+13,200%",
+                    "Pmu.fr": "133"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "PHEA DE CAVELAND",
+                    "Def.": "",
+                    "Jockey": "TRIHOLLET J.",
+                    "Entraineur": "Compas P.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+16,900%",
+                    "Pmu.fr": "170"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "PRETTY DE DRAMARD (F5)",
+                    "Def.": "",
+                    "Jockey": "ARTUR F.",
+                    "Entraineur": "F. GOUGEON",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+9,600%",
+                    "Pmu.fr": "97"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "PIRKA FRANCA (F6)",
+                    "Def.": "",
+                    "Jockey": "ZANDT P.J.",
+                    "Entraineur": "E. GOUT",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+11,400%",
+                    "Pmu.fr": "115"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "PHILADELPHIA TELBE (F/6)",
+                    "Def.": "",
+                    "Jockey": "BEKAERT D.",
+                    "Entraineur": "GAUVIN MARTIAL",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "PRETTY ANGOT (F8)",
+                    "Def.": "",
+                    "Jockey": "PITON B.",
+                    "Entraineur": "J.P. PITON",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+890%",
+                    "Pmu.fr": "9.9"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "PAISY STED (F/6)",
+                    "Def.": "",
+                    "Jockey": "LENOIR M.",
+                    "Entraineur": "MARTENS V.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "PENELOPE DU RELAIS (F/5)",
+                    "Def.": "",
+                    "Jockey": "HEON D.",
+                    "Entraineur": "HARDY S.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+3,800%",
+                    "Pmu.fr": "39"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "PEARL WINNER (F/8)",
+                    "Def.": "",
+                    "Jockey": "RAIMOND MME S.",
+                    "Entraineur": "Mme S. RAIMOND",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+3,400%",
+                    "Pmu.fr": "35"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "PASSION D'ACANTHE (F9)",
+                    "Def.": "",
+                    "Jockey": "BARROIS X.",
+                    "Entraineur": "GENDRY PH.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,800%",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "PAOLA D'ASPE (F4)",
+                    "Def.": "",
+                    "Jockey": "GIARD F.",
+                    "Entraineur": "J.P. VIEL",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+7,700%",
+                    "Pmu.fr": "78"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "PETRONIE DE BA (F7)",
+                    "Def.": "",
+                    "Jockey": "HARDY S.",
+                    "Entraineur": "S. HARDY",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "POUGETTE FLEURIE (F/8)",
+                    "Def.": "",
+                    "Jockey": "BEZIER CH.",
+                    "Entraineur": "GOUT E.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+5,200%",
+                    "Pmu.fr": "53"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "PALOUNGA (F/5)",
+                    "Def.": "",
+                    "Jockey": "BAZIRE J.M.",
+                    "Entraineur": "PERRAGUIN S.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+460%",
+                    "Pmu.fr": "5.6"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "PALOMINA BELLA (F6)",
+                    "Def.": "",
+                    "Jockey": "LE BELLER T.",
+                    "Entraineur": "J.CL. PAULARD",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+90%",
+                    "Pmu.fr": "1.9"
+                }
+            ],
+            "nb_participants_partants": 15,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=49374",
+                    "Cheval": "PALOMINA BELLA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=484&date=2007-02-21",
+                    "Jockey": "LE BELLER T.",
+                    "Cote": "1.9",
+                    "Redkm": "1'19\"10"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38434",
+                    "Cheval": "PASSION D'ACANTHE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3649&date=2007-02-21",
+                    "Jockey": "BARROIS X.",
+                    "Cote": "19",
+                    "Redkm": "1'19\"10"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=33013",
+                    "Cheval": "PALOUNGA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3169&date=2007-02-21",
+                    "Jockey": "BAZIRE J.M.",
+                    "Cote": "5.6",
+                    "Redkm": "1'19\"10"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=45470",
+                    "Cheval": "PETRONIE DE BA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=608&date=2007-02-21",
+                    "Jockey": "HARDY S.",
+                    "Cote": "11",
+                    "Redkm": "1'19\"50"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=40360",
+                    "Cheval": "PRETTY ANGOT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=171&date=2007-02-21",
+                    "Jockey": "PITON B.",
+                    "Cote": "9.9",
+                    "Redkm": "1'19\"50"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=48453",
+                    "Cheval": "PHILADELPHIA TELBE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1134&date=2007-02-21",
+                    "Jockey": "BEKAERT D.",
+                    "Cote": "15",
+                    "Redkm": "1'19\"60"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=37801",
+                    "Cheval": "PENELOPE DU RELAIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=161&date=2007-02-21",
+                    "Jockey": "HEON D.",
+                    "Cote": "39",
+                    "Redkm": "1'19\"60"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/enghien/23045_prix-de-la-gacilly.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/enghien/23045_prix-de-la-gacilly.html"
+            ],
+            "prix": "0",
+            "distance": "2150m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "2",
+            "heure": " 14:10 ",
+            "nom_de_la_course": "PRIX DE LA GACILLY",
+            "date": "2007-02-21",
+            "nb_participants": 16,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "JET PRINCE (H10)",
+                    "Def.": "",
+                    "Jockey": "PAILLETTE R.",
+                    "Entraineur": "B. MARIE",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+870%",
+                    "Pmu.fr": "9.7"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "KELSO BRICOIS (H)",
+                    "Def.": "",
+                    "Jockey": "TOQUET F.",
+                    "Entraineur": "Terry F.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,700%",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "KARMA DU PONT (H10)",
+                    "Def.": "",
+                    "Jockey": "GOETZ MELLE M.A.",
+                    "Entraineur": "B. GOETZ",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+720%",
+                    "Pmu.fr": "8.2"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "KILLER KILLE (H9)",
+                    "Def.": "",
+                    "Jockey": "MARY F.X.",
+                    "Entraineur": "CH.A. MARY",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "JAMES DE BEAUMEE (M10)",
+                    "Def.": "",
+                    "Jockey": "MAILLARD J.M.",
+                    "Entraineur": "P.R. MONNIER",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+3,000%",
+                    "Pmu.fr": "31"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "KILT DE BLARY (H/10)",
+                    "Def.": "",
+                    "Jockey": "BULLIER L.",
+                    "Entraineur": "GRIFT H.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "KUADRO DU GUESCLIN (M)",
+                    "Def.": "",
+                    "Jockey": "MESSAGER M.",
+                    "Entraineur": "Blandin F.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "JAMES DE L'ITON (H10)",
+                    "Def.": "",
+                    "Jockey": "ALLARD E.",
+                    "Entraineur": "A. GASSIRARO",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+190%",
+                    "Pmu.fr": "2.9"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "KRAK DE CLERLANDE (H10)",
+                    "Def.": "",
+                    "Jockey": "GERARD Y.",
+                    "Entraineur": "P. GODINEAU",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,100%",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "LET ME JET (H8)",
+                    "Def.": "",
+                    "Jockey": "DECLERCQ J.R.",
+                    "Entraineur": "CH. NICOLE",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+10,500%",
+                    "Pmu.fr": "106"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "KIF DU HEURT",
+                    "Def.": "",
+                    "Jockey": "BARETTE CH.",
+                    "Entraineur": "Marie B.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+12,000%",
+                    "Pmu.fr": "121"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "KELINOT DES ETANGS (H10)",
+                    "Def.": "",
+                    "Jockey": "COUILLAUD MELLE V.",
+                    "Entraineur": "Mlle L. LAST",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "JULIO DES CAILLONS (H)",
+                    "Def.": "",
+                    "Jockey": "HEON D.",
+                    "Entraineur": "Hardy S.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+9,100%",
+                    "Pmu.fr": "92"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "LOUFOQUE DAIRIE (H10)",
+                    "Def.": "",
+                    "Jockey": "DRANCOURT CH.",
+                    "Entraineur": "B. HOJKA",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,100%",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "KURT DU LYS (H)",
+                    "Def.": "",
+                    "Jockey": "LEMAIRE MELLE G.",
+                    "Entraineur": "Gorain J.M.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "16",
+                    "Cheval": "KREDITMAN (H)",
+                    "Def.": "",
+                    "Jockey": "LEPETIT MELLE S.",
+                    "Entraineur": "Ruault M.J.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+6,600%",
+                    "Pmu.fr": "67"
+                }
+            ],
+            "nb_participants_partants": 16,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=7139",
+                    "Cheval": "JET PRINCE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7255&date=2007-02-21",
+                    "Jockey": "PAILLETTE R.",
+                    "Cote": "9.7",
+                    "Redkm": "1'14\"50"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=3933",
+                    "Cheval": "KELSO BRICOIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1303&date=2007-02-21",
+                    "Jockey": "TOQUET F.",
+                    "Cote": "18",
+                    "Redkm": "1'14\"50"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=820",
+                    "Cheval": "KILLER KILLE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=192&date=2007-02-21",
+                    "Jockey": "MARY F.X.",
+                    "Cote": "14",
+                    "Redkm": "1'14\"80"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=11908",
+                    "Cheval": "LOUFOQUE DAIRIE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1385&date=2007-02-21",
+                    "Jockey": "DRANCOURT CH.",
+                    "Cote": "12",
+                    "Redkm": "1'15\"10"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=2013",
+                    "Cheval": "KRAK DE CLERLANDE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1107&date=2007-02-21",
+                    "Jockey": "GERARD Y.",
+                    "Cote": "22",
+                    "Redkm": "1'15\"10"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=2889",
+                    "Cheval": "JAMES DE L'ITON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=408&date=2007-02-21",
+                    "Jockey": "ALLARD E.",
+                    "Cote": "2.9",
+                    "Redkm": "1'15\"40"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=7266",
+                    "Cheval": "KARMA DU PONT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6509&date=2007-02-21",
+                    "Jockey": "GOETZ MELLE M.A.",
+                    "Cote": "8.2",
+                    "Redkm": "1'15\"40"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/enghien/23046_prix-de-draguignan.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/enghien/23046_prix-de-draguignan.html"
+            ],
+            "prix": "0",
+            "distance": "2875m",
+            "type_de_course": "TROT MONTE",
+            "lieux": "3",
+            "heure": " 14:40 ",
+            "nom_de_la_course": "PRIX DE DRAGUIGNAN",
+            "date": "2007-02-21",
+            "nb_participants": 12,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "PRINCESSE BARBES (F/6)",
+                    "Def.": "",
+                    "Jockey": "NIVARD F.",
+                    "Entraineur": "BIGEON CH.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+650%",
+                    "Pmu.fr": "7.5"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "PRIOSA DU LUPIN (F/7)",
+                    "Def.": "",
+                    "Jockey": "MONCLIN J.PH.",
+                    "Entraineur": "MARMION J.P.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+220%",
+                    "Pmu.fr": "3.2"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "PRECIEUSE GALBE (F8)",
+                    "Def.": "",
+                    "Jockey": "PLIHON D.",
+                    "Entraineur": "CH. BEZIER",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+10,000%",
+                    "Pmu.fr": "101"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "PLUME D'ACANTHE (F5)",
+                    "Def.": "",
+                    "Jockey": "LEBLOND MARO F.",
+                    "Entraineur": "",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,000%",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "PHILIDELPHIS (F6)",
+                    "Def.": "",
+                    "Jockey": "VERVA P.Y.",
+                    "Entraineur": "CH. DOUILLET",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+630%",
+                    "Pmu.fr": "7.3"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "PANTHERE GIRL (F4)",
+                    "Def.": "",
+                    "Jockey": "RAFFIN E.",
+                    "Entraineur": "Y. DREUX",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+390%",
+                    "Pmu.fr": "4.9"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "PRINCESSE VAUMICEL (F5)",
+                    "Def.": ""
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "PAMELA DU PARC (F/7)",
+                    "Def.": "",
+                    "Jockey": "BEZIER M.",
+                    "Entraineur": "CHUPIN TH.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+780%",
+                    "Pmu.fr": "8.8"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "PEBRIOLA (F5)",
+                    "Def.": "",
+                    "Jockey": "MASSCHAELE PH.",
+                    "Entraineur": "N. BUSSET",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+490%",
+                    "Pmu.fr": "5.9"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "PRINCESSE ETOILEE (F7)",
+                    "Def.": ""
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "PERSANE DU CHARDON (F5)",
+                    "Def.": "",
+                    "Jockey": "LE BEC J.ET.",
+                    "Entraineur": "B. BLACHET",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "PEGASE D'ANAMA (F/8)",
+                    "Def.": "",
+                    "Jockey": "GRUMETZ J.",
+                    "Entraineur": "CH. DOUILLET",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+7,700%",
+                    "Pmu.fr": "78"
+                }
+            ],
+            "nb_participants_partants": 10,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=44849",
+                    "Cheval": "PAMELA DU PARC",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=131&date=2007-02-21",
+                    "Jockey": "BEZIER M.",
+                    "Cote": "8.8",
+                    "Redkm": "1'19\"80"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=32219",
+                    "Cheval": "PLUME D'ACANTHE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1337&date=2007-02-21",
+                    "Jockey": "LEBLOND MARO F.",
+                    "Cote": "21",
+                    "Redkm": "1'19\"80"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=36505",
+                    "Cheval": "PERSANE DU CHARDON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1317&date=2007-02-21",
+                    "Jockey": "LE BEC J.ET.",
+                    "Cote": "13",
+                    "Redkm": "1'20\"00"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=30830",
+                    "Cheval": "PRECIEUSE GALBE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7554&date=2007-02-21",
+                    "Jockey": "PLIHON D.",
+                    "Cote": "101",
+                    "Redkm": "1'20\"40"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=43757",
+                    "Cheval": "PEBRIOLA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=135&date=2007-02-21",
+                    "Jockey": "MASSCHAELE PH.",
+                    "Cote": "5.9",
+                    "Redkm": "1'22\"50"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=32371",
+                    "Cheval": "PEGASE D'ANAMA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1119&date=2007-02-21",
+                    "Jockey": "GRUMETZ J.",
+                    "Cote": "78",
+                    "Redkm": "1'24\"40"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/enghien/23047_prix-d-hyeres.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/enghien/23047_prix-d-hyeres.html"
+            ],
+            "prix": "0",
+            "distance": "2150m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "4",
+            "heure": " 15:10 ",
+            "nom_de_la_course": "PRIX D'HYERES",
+            "date": "2007-02-21",
+            "nb_participants": 12,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "QUAT LUDOIS (H8)",
+                    "Def.": "",
+                    "Jockey": "BOURLIER S.",
+                    "Entraineur": "E. OHANESSIAN",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+730%",
+                    "Pmu.fr": "8.3"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "QUOREAN BLUE (M5)",
+                    "Def.": "",
+                    "Jockey": "DONIO M.",
+                    "Entraineur": "B. VANACKER",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+880%",
+                    "Pmu.fr": "9.8"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "QUIPO DU TRONQUAY (H8)",
+                    "Def.": "",
+                    "Jockey": "AUTIN PH.",
+                    "Entraineur": "D.A. LANGLOIS",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "QUENAVO DAUGUSTE (M5)",
+                    "Def.": ""
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "QUICK ALDO (H/7)",
+                    "Def.": "",
+                    "Jockey": "VERCRUYSSE P.",
+                    "Entraineur": "S. MORICE",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "QUEENSLAND GIN (H5)",
+                    "Def.": "",
+                    "Jockey": "NIVARD F.",
+                    "Entraineur": "V. BRAZON",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+810%",
+                    "Pmu.fr": "9.1"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "QUIPSON (H13)",
+                    "Def.": "",
+                    "Jockey": "NORDIN U.",
+                    "Entraineur": "J. ZAMMIT",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "QUIM DE CARSI (H8)",
+                    "Def.": "",
+                    "Jockey": "BAZIRE J.M.",
+                    "Entraineur": "LE VEXIER R.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+70%",
+                    "Pmu.fr": "1.7"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "QUASAR JOLI (M9)",
+                    "Def.": "",
+                    "Jockey": "FOIN J.",
+                    "Entraineur": "E. PRUDHON",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+12,200%",
+                    "Pmu.fr": "123"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "QUAMINO BELLO (H/7)",
+                    "Def.": "",
+                    "Jockey": "ROGER S.",
+                    "Entraineur": "CH. COMBY",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,300%",
+                    "Pmu.fr": "24"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "QUERBY DU GITE (H13)",
+                    "Def.": "",
+                    "Jockey": "LELIEVRE S.",
+                    "Entraineur": "N. BARBARA",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,700%",
+                    "Pmu.fr": "28"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "QATAR DE JEMISKA (H9)",
+                    "Def.": "",
+                    "Jockey": "GABORIT L.",
+                    "Entraineur": "MLLE M. LAMOUR",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+3,300%",
+                    "Pmu.fr": "34"
+                }
+            ],
+            "nb_participants_partants": 4,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=40009",
+                    "Cheval": "QUIPSON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=5037&date=2007-02-21",
+                    "Jockey": "NORDIN U.",
+                    "Cote": "15",
+                    "Redkm": "1'17\"50"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=49375",
+                    "Cheval": "QUOREAN BLUE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=631&date=2007-02-21",
+                    "Jockey": "DONIO M.",
+                    "Cote": "9.8",
+                    "Redkm": "1'17\"60"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=44470",
+                    "Cheval": "QATAR DE JEMISKA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2829&date=2007-02-21",
+                    "Jockey": "GABORIT L.",
+                    "Cote": "34",
+                    "Redkm": "1'17\"70"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=45067",
+                    "Cheval": "QUAT LUDOIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1841&date=2007-02-21",
+                    "Jockey": "BOURLIER S.",
+                    "Cote": "8.3",
+                    "Redkm": "1'17\"90"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=47783",
+                    "Cheval": "QUICK ALDO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=489&date=2007-02-21",
+                    "Jockey": "VERCRUYSSE P.",
+                    "Cote": "11",
+                    "Redkm": "1'17\"90"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=49376",
+                    "Cheval": "QUIM DE CARSI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3169&date=2007-02-21",
+                    "Jockey": "BAZIRE J.M.",
+                    "Cote": "1.7",
+                    "Redkm": "1'18\"50"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/enghien/23048_prix-de-bemecourt-groupe-a.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/enghien/23048_prix-de-bemecourt-groupe-a.html"
+            ],
+            "prix": "0",
+            "distance": "2875m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "5",
+            "heure": " 15:40 ",
+            "nom_de_la_course": "PRIX DE BEMECOURT (GROUPE A)",
+            "date": "2007-02-21",
+            "nb_participants": 14,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "OPERA HOUSE (H13)",
+                    "Def.": "",
+                    "Jockey": "GIOT J.L.",
+                    "Entraineur": "FELBER PATRICIA",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+11,100%",
+                    "Pmu.fr": "112"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "OPERA D'ELIO (H7)",
+                    "Def.": "",
+                    "Jockey": "ERIC DUPERCHE",
+                    "Entraineur": "M. BRUN",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+6,100%",
+                    "Pmu.fr": "62"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "ORFEVRE BELORMONT (M10)",
+                    "Def.": "",
+                    "Jockey": "PITON B.",
+                    "Entraineur": "JGOMILLA LL.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+5,500%",
+                    "Pmu.fr": "56"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "OLIFANT DE CREPON",
+                    "Def.": "",
+                    "Jockey": "BAZIRE J.M.",
+                    "Entraineur": "Leduc L.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+760%",
+                    "Pmu.fr": "8.6"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "OVER DU CLOS ROGER (H11)",
+                    "Def.": "",
+                    "Jockey": "HARDY S.",
+                    "Entraineur": "M. MESTRE",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,000%",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "OSSAIM LAURENT",
+                    "Def.": "",
+                    "Jockey": "MAINE F.",
+                    "Entraineur": "Maine F.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,300%",
+                    "Pmu.fr": "44"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "ORCELLO CAL (H8)",
+                    "Def.": "",
+                    "Jockey": "LAURENT A.",
+                    "Entraineur": "Y. HAMON",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+750%",
+                    "Pmu.fr": "8.5"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "OEILLET DE PHENS (H10)",
+                    "Def.": "",
+                    "Jockey": "ARTUR F.",
+                    "Entraineur": "P.-M. ENAULT",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+3,100%",
+                    "Pmu.fr": "32"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "ORION D'EOUL (H10)",
+                    "Def.": "",
+                    "Jockey": "MASCLE B.",
+                    "Entraineur": "MORDA Y.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+3,800%",
+                    "Pmu.fr": "39"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "OROS MORINIERE (H5)",
+                    "Def.": "",
+                    "Jockey": "ANNE F.",
+                    "Entraineur": "P. PICOT",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "ORAGE D'URZY (H/9)",
+                    "Def.": "",
+                    "Jockey": "HUREL Y.",
+                    "Entraineur": "HUREL Y.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,400%",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "OUDON ROYAL (H7)",
+                    "Def.": "",
+                    "Jockey": "LE BELLER T.",
+                    "Entraineur": "A. PLEURMEAU",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+100%",
+                    "Pmu.fr": "2"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "OLLICO PELLOIS (H/9)",
+                    "Def.": "",
+                    "Jockey": "DORE D.",
+                    "Entraineur": "D. DORE",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+900%",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "ODIMAX D'AVRAN (H7)",
+                    "Def.": "",
+                    "Jockey": "LECOQ H.",
+                    "Entraineur": "H. LECOQ",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                }
+            ],
+            "nb_participants_partants": 14,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=31635",
+                    "Cheval": "OROS MORINIERE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=932&date=2007-02-21",
+                    "Jockey": "ANNE F.",
+                    "Cote": "11",
+                    "Redkm": "1'16\"70"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38999",
+                    "Cheval": "OPERA HOUSE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1937&date=2007-02-21",
+                    "Jockey": "GIOT J.L.",
+                    "Cote": "112",
+                    "Redkm": "1'17\"10"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=28851",
+                    "Cheval": "ODIMAX D'AVRAN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1103&date=2007-02-21",
+                    "Jockey": "LECOQ H.",
+                    "Cote": "14",
+                    "Redkm": "1'17\"10"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=40493",
+                    "Cheval": "OSSAIM LAURENT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7307&date=2007-02-21",
+                    "Jockey": "MAINE F.",
+                    "Cote": "44",
+                    "Redkm": "1'17\"10"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=44327",
+                    "Cheval": "OEILLET DE PHENS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2406&date=2007-02-21",
+                    "Jockey": "ARTUR F.",
+                    "Cote": "32",
+                    "Redkm": "1'17\"20"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29178",
+                    "Cheval": "OLLICO PELLOIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=646&date=2007-02-21",
+                    "Jockey": "DORE D.",
+                    "Cote": "10",
+                    "Redkm": "1'17\"40"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=46275",
+                    "Cheval": "ORAGE D'URZY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=4623&date=2007-02-21",
+                    "Jockey": "HUREL Y.",
+                    "Cote": "15",
+                    "Redkm": "1'17\"40"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/enghien/23049_prix-de-bemecourt-groupe-b.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/enghien/23049_prix-de-bemecourt-groupe-b.html"
+            ],
+            "prix": "0",
+            "distance": "2875m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "6",
+            "heure": " 16:15 ",
+            "nom_de_la_course": "PRIX DE BEMECOURT (GROUPE B)",
+            "date": "2007-02-21",
+            "nb_participants": 13,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "OUIN OUIN",
+                    "Def.": "",
+                    "Jockey": "NORDIN U.",
+                    "Entraineur": "Nordin U.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "OCEAN DE CAVELAND",
+                    "Def.": "",
+                    "Jockey": "TRIHOLLET J.",
+                    "Entraineur": "Compas P.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+8,200%",
+                    "Pmu.fr": "83"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "ODOSIS DE BEAULIEU (H/8)",
+                    "Def.": "",
+                    "Jockey": "ROUER PH.",
+                    "Entraineur": "GONOT J.CL.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+8,200%",
+                    "Pmu.fr": "83"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "OVIEDO",
+                    "Def.": "",
+                    "Jockey": "MARY CH.A.",
+                    "Entraineur": "Mary Ch.A.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,600%",
+                    "Pmu.fr": "27"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "ODELVIO (H/8)",
+                    "Def.": ""
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "ORATORIO GEDE (H/8)",
+                    "Def.": "",
+                    "Jockey": "BEZIER CH.",
+                    "Entraineur": "DIGUET Y.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,500%",
+                    "Pmu.fr": "46"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "OWENS KIN (H8)",
+                    "Def.": "",
+                    "Jockey": "VERCRUYSSE P.",
+                    "Entraineur": "G. MARTY",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+3,300%",
+                    "Pmu.fr": "34"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "OLVAMO (H11)",
+                    "Def.": "",
+                    "Jockey": "BARASSIN A.A.",
+                    "Entraineur": "A. RIERA B.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,600%",
+                    "Pmu.fr": "47"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "OURAGAN D'IVRAY (H/7)",
+                    "Def.": "",
+                    "Jockey": "DREUX Y.",
+                    "Entraineur": "REGLIN M.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,000%",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "OSIRIS THORA (H8)",
+                    "Def.": "",
+                    "Jockey": "ARAMINI MELLE D.",
+                    "Entraineur": "J.CL. DORMEAU",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+6,700%",
+                    "Pmu.fr": "68"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "ODIN MESLOIS (H/9)",
+                    "Def.": "",
+                    "Jockey": "BELLOCHE P.",
+                    "Entraineur": "D. BONNE",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,900%",
+                    "Pmu.fr": "30"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "OVER PRESS (H/9)",
+                    "Def.": "",
+                    "Jockey": "BAZIRE J.M.",
+                    "Entraineur": "Y. DOUSSET",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+10%",
+                    "Pmu.fr": "1.1"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "ONOLHAN D'ISOP (H/8)",
+                    "Def.": "",
+                    "Jockey": "HALLAIS Y.",
+                    "Entraineur": "HALLAIS Y.",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,700%",
+                    "Pmu.fr": "48"
+                }
+            ],
+            "nb_participants_partants": 5,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=32368",
+                    "Cheval": "OVER PRESS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3169&date=2007-02-21",
+                    "Jockey": "BAZIRE J.M.",
+                    "Cote": "1.1",
+                    "Redkm": "1'16\"80"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=26491",
+                    "Cheval": "ODIN MESLOIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1047&date=2007-02-21",
+                    "Jockey": "BELLOCHE P.",
+                    "Cote": "30",
+                    "Redkm": "1'17\"00"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=30566",
+                    "Cheval": "OURAGAN D'IVRAY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=476&date=2007-02-21",
+                    "Jockey": "DREUX Y.",
+                    "Cote": "21",
+                    "Redkm": "1'17\"00"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=38168",
+                    "Cheval": "ONOLHAN D'ISOP",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3428&date=2007-02-21",
+                    "Jockey": "HALLAIS Y.",
+                    "Cote": "48",
+                    "Redkm": "1'17\"40"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=39579",
+                    "Cheval": "OSIRIS THORA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7641&date=2007-02-21",
+                    "Jockey": "ARAMINI MELLE D.",
+                    "Cote": "68",
+                    "Redkm": "1'17\"40"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=31350",
+                    "Cheval": "ORATORIO GEDE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1340&date=2007-02-21",
+                    "Jockey": "BEZIER CH.",
+                    "Cote": "46",
+                    "Redkm": "1'17\"60"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=31610",
+                    "Cheval": "OLVAMO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=742&date=2007-02-21",
+                    "Jockey": "BARASSIN A.A.",
+                    "Cote": "47",
+                    "Redkm": "1'17\"70"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/enghien/23050_prix-d-aumale.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/enghien/23050_prix-d-aumale.html"
+            ],
+            "prix": "0",
+            "distance": "2875m",
+            "type_de_course": "TROT MONTE",
+            "lieux": "7",
+            "heure": " 16:45 ",
+            "nom_de_la_course": "PRIX D'AUMALE",
+            "date": "2007-02-21",
+            "nb_participants": 15,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "LATINE (F)",
+                    "Def.": "",
+                    "Jockey": "DUPUIS M.",
+                    "Entraineur": "Clouet E.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,400%",
+                    "Pmu.fr": "45"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "MAROLLES (F9)",
+                    "Def.": "",
+                    "Jockey": "LECLERCQ MELLE C.",
+                    "Entraineur": "L. GOUT",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+4,000%",
+                    "Pmu.fr": "41"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "MAGIE D'ESPIENS (F/9)",
+                    "Def.": "",
+                    "Jockey": "WIELS A.",
+                    "Entraineur": "TINOIS CH.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,200%",
+                    "Pmu.fr": "23"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "LUNE PILE (F9)",
+                    "Def.": "",
+                    "Jockey": "VANMEERBECK J.",
+                    "Entraineur": "F. GUINHUT",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,500%",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "MARGOT DE BRAYE (F/9)",
+                    "Def.": "",
+                    "Jockey": "CHEVRIER A.",
+                    "Entraineur": "FOLLENFANT TH.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,400%",
+                    "Pmu.fr": "25"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "MELODIE DE L'ITON (F7)",
+                    "Def.": "",
+                    "Jockey": "DESSARTRE MELLE E.",
+                    "Entraineur": "HUGHES LEVESQUE",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,500%",
+                    "Pmu.fr": "16"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "LADY DE NERVAUD (F/10)",
+                    "Def.": "",
+                    "Jockey": "MORISSE MELLE A.",
+                    "Entraineur": "ROCHETTE F.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,500%",
+                    "Pmu.fr": "16"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "L'ESPERANCE (F)",
+                    "Def.": "",
+                    "Jockey": "DAVODET MELLE L.",
+                    "Entraineur": "Raimond Mme S.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,900%",
+                    "Pmu.fr": "30"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "MALICE DE GOURNAY (F/9)",
+                    "Def.": ""
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "MARADADI BUISSONAY (F/9)",
+                    "Def.": "",
+                    "Jockey": "GENCE F.",
+                    "Entraineur": "BOURLIER S.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+470%",
+                    "Pmu.fr": "5.7"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "LADY JANE",
+                    "Def.": "",
+                    "Jockey": "BAUDY W.",
+                    "Entraineur": "Bourgoin B.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+2,100%",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "MISS DU GITE (F8)",
+                    "Def.": "",
+                    "Jockey": "MARIE P.",
+                    "Entraineur": "S. SERPIN",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+730%",
+                    "Pmu.fr": "8.3"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "LIANE DU VILPION (F8)",
+                    "Def.": "",
+                    "Jockey": "MONCLIN J.PH.",
+                    "Entraineur": "V. COLLARD",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+860%",
+                    "Pmu.fr": "9.6"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "LASSIE DE L'ARON",
+                    "Def.": "",
+                    "Jockey": "LEBLOND MARO F.",
+                    "Entraineur": "Lemetayer Ph.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "LA MELODIE (F)",
+                    "Def.": "",
+                    "Jockey": "GOETZ MELLE M.A.",
+                    "Entraineur": "Goetz B.",
+                    "Poids": "",
+                    "Dist.": "2875m",
+                    "Matin": "1",
+                    "": "+150%",
+                    "Pmu.fr": "2.5"
+                }
+            ],
+            "nb_participants_partants": 9,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=12998",
+                    "Cheval": "MARADADI BUISSONAY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1202&date=2007-02-21",
+                    "Jockey": "GENCE F.",
+                    "Cote": "5.7",
+                    "Redkm": "1'15\"70"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=9750",
+                    "Cheval": "MISS DU GITE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1378&date=2007-02-21",
+                    "Jockey": "MARIE P.",
+                    "Cote": "8.3",
+                    "Redkm": "1'16\"10"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=2872",
+                    "Cheval": "LADY JANE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=863&date=2007-02-21",
+                    "Jockey": "BAUDY W.",
+                    "Cote": "22",
+                    "Redkm": "1'16\"20"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=3675",
+                    "Cheval": "LASSIE DE L'ARON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1337&date=2007-02-21",
+                    "Jockey": "LEBLOND MARO F.",
+                    "Cote": "13",
+                    "Redkm": "1'16\"20"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=32344",
+                    "Cheval": "MAGIE D'ESPIENS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=145&date=2007-02-21",
+                    "Jockey": "WIELS A.",
+                    "Cote": "23",
+                    "Redkm": "1'16\"30"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=30635",
+                    "Cheval": "MELODIE DE L'ITON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6531&date=2007-02-21",
+                    "Jockey": "DESSARTRE MELLE E.",
+                    "Cote": "16",
+                    "Redkm": "1'16\"40"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=5526",
+                    "Cheval": "MAROLLES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6657&date=2007-02-21",
+                    "Jockey": "LECLERCQ MELLE C.",
+                    "Cote": "41",
+                    "Redkm": "1'16\"50"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2007-02-21/enghien/23051_prix-de-caudebec.html",
+                "https://www.canalturf.com/resultats-PMU/2007-02-21/enghien/23051_prix-de-caudebec.html"
+            ],
+            "prix": "0",
+            "distance": "2150m",
+            "type_de_course": "TROT ATTELE",
+            "lieux": "8",
+            "heure": " 17:15 ",
+            "nom_de_la_course": "PRIX DE CAUDEBEC",
+            "date": "2007-02-21",
+            "nb_participants": 16,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "KALIPSO (M9)",
+                    "Def.": "",
+                    "Jockey": "SZIRMAY J.CL.",
+                    "Entraineur": "E. SZIRMAY",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "LIGNEE DE HELON (F8)",
+                    "Def.": "",
+                    "Jockey": "GONOT J.CL.",
+                    "Entraineur": "J.CL. GONOT",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+5,800%",
+                    "Pmu.fr": "59"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "LEGENDE DOREE",
+                    "Def.": "",
+                    "Jockey": "GIRAUD K.",
+                    "Entraineur": "Perroteau R.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,500%",
+                    "Pmu.fr": "26"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "KOMERO BLEU (H9)",
+                    "Def.": "",
+                    "Jockey": "MEBARKIA M.",
+                    "Entraineur": "CH.A. MARY",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+880%",
+                    "Pmu.fr": "9.8"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "KER PELLOIS (H/10)",
+                    "Def.": "",
+                    "Jockey": "JEAN F.",
+                    "Entraineur": "GOETZ B.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+220%",
+                    "Pmu.fr": "3.2"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "LUTIN DU PERCHE (M13)",
+                    "Def.": "",
+                    "Jockey": "POIRIER M.",
+                    "Entraineur": "J. A. GARCIA",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,300%",
+                    "Pmu.fr": "14"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "KAKI DE PEYRAHOUT (H10)",
+                    "Def.": "",
+                    "Jockey": "MARCHAND J.",
+                    "Entraineur": "B. BOURNEIL",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+3,200%",
+                    "Pmu.fr": "33"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "KANGOU DU CYGNE (H9)",
+                    "Def.": "",
+                    "Jockey": "GARREAU P.",
+                    "Entraineur": "D. LIBERT",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,000%",
+                    "Pmu.fr": "11"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "MON TONNEVILLAIS (H/8)",
+                    "Def.": "",
+                    "Jockey": "OLIVIER G.",
+                    "Entraineur": "LEVAVASSEUR F.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+3,400%",
+                    "Pmu.fr": "35"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "LUTHIERE (F/9)",
+                    "Def.": "",
+                    "Jockey": "DIVARE P.",
+                    "Entraineur": "DORE D.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,500%",
+                    "Pmu.fr": "16"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "KHAN DU TREMBLAY",
+                    "Def.": "",
+                    "Jockey": "VALLETTE B.",
+                    "Entraineur": "Blachet B.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+6,300%",
+                    "Pmu.fr": "64"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "KOPECK DES CHAMPS",
+                    "Def.": "",
+                    "Jockey": "ALLAIS J.",
+                    "Entraineur": "Goetz B.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,200%",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "MURANO (H/10)",
+                    "Def.": "",
+                    "Jockey": "AUDE LEMOINE",
+                    "Entraineur": "GROUSSARD LOIC",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+390%",
+                    "Pmu.fr": "4.9"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "MELRIA DU LEC",
+                    "Def.": "",
+                    "Jockey": "ENAULT N.",
+                    "Entraineur": "Enault P.M.",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+1,500%",
+                    "Pmu.fr": "16"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "LENOX DE COURTONNE (M/8)",
+                    "Def.": ""
+                },
+                {
+                    "nÂ°": "16",
+                    "Cheval": "LADY D'AGENVILLE (F8)",
+                    "Def.": "",
+                    "Jockey": "ALLAIS P.M.",
+                    "Entraineur": "J.CL. LEHOUELLEUR",
+                    "Dist.": "2150m",
+                    "Matin": "1",
+                    "": "+2,000%",
+                    "Pmu.fr": "21"
+                }
+            ],
+            "nb_participants_partants": 15,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=12427",
+                    "Cheval": "KER PELLOIS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=368&date=2007-02-21",
+                    "Jockey": "JEAN F.",
+                    "Cote": "3.2",
+                    "Redkm": "1'15\"80"
+                },
+                {
+                    "Place": "2ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=29428",
+                    "Cheval": "LUTIN DU PERCHE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=130&date=2007-02-21",
+                    "Jockey": "POIRIER M.",
+                    "Cote": "14",
+                    "Redkm": "1'16\"40"
+                },
+                {
+                    "Place": "3ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=20840",
+                    "Cheval": "KAKI DE PEYRAHOUT",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3511&date=2007-02-21",
+                    "Jockey": "MARCHAND J.",
+                    "Cote": "33",
+                    "Redkm": "1'16\"40"
+                },
+                {
+                    "Place": "4ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=3680",
+                    "Cheval": "LUTHIERE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1201&date=2007-02-21",
+                    "Jockey": "DIVARE P.",
+                    "Cote": "16",
+                    "Redkm": "1'16\"50"
+                },
+                {
+                    "Place": "5ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=10427",
+                    "Cheval": "MELRIA DU LEC",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=1236&date=2007-02-21",
+                    "Jockey": "ENAULT N.",
+                    "Cote": "16",
+                    "Redkm": "1'16\"50"
+                },
+                {
+                    "Place": "6ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=10417",
+                    "Cheval": "LIGNEE DE HELON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=5641&date=2007-02-21",
+                    "Jockey": "GONOT J.CL.",
+                    "Cote": "59",
+                    "Redkm": "1'16\"70"
+                },
+                {
+                    "Place": "7ème",
+                    "": "",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=8773",
+                    "Cheval": "KALIPSO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=7421&date=2007-02-21",
+                    "Jockey": "SZIRMAY J.CL.",
+                    "Cote": "14",
+                    "Redkm": "1'16\"80"
+                }
+            ]
+        }
+    ],
+    "nb_courses": 16
+}

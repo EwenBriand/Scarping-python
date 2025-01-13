@@ -1,0 +1,735 @@
+{
+    "courses": [
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2015-01-31/kenilworth/114126_cape-derby.html",
+                "https://www.canalturf.com/resultats-PMU/2015-01-31/kenilworth/114126_cape-derby.html"
+            ],
+            "prix": "76230",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "6",
+            "heure": " 14:05 ",
+            "nom_de_la_course": "CAPE DERBY",
+            "date": "2015-01-31",
+            "nb_participants": 10,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "ACT OF WAR (M4)",
+                    "Corde": "1",
+                    "Jockey": "P. STRYDOM",
+                    "Entraineur": "J RAMSDEN",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "1.8",
+                    "": "1.50",
+                    "Pmu.fr": "1.4"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "LIGHT THE LIGHTS (H9)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "THE CONGLOMERATE (H6)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "ERTIJAAL (H7)",
+                    "Corde": "6",
+                    "Jockey": "G. LERENA",
+                    "Entraineur": "ALI RASHID AL RAYHI",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "7.7",
+                    "": "6.08",
+                    "Pmu.fr": "3.1"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "LIQUID MERCURY (H8)",
+                    "Corde": "9",
+                    "Jockey": "B. FAYD'HERBE",
+                    "Entraineur": "RASHED BOURESLY",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "7.3",
+                    "": "23.10",
+                    "Pmu.fr": "13"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "CATKIN (H9)",
+                    "Corde": "7",
+                    "Jockey": "K. NEISIUS",
+                    "Entraineur": "CANDICE BASS-ROBINSON",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "17",
+                    "": "23.10",
+                    "Pmu.fr": "63"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "ARNISTON (H4)",
+                    "Corde": "5",
+                    "Jockey": "S. CORMACK",
+                    "Entraineur": "S J SNAITH",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "16",
+                    "": "43.20",
+                    "Pmu.fr": "35"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "KRAMBAMBULI (H6)",
+                    "Corde": "4",
+                    "Jockey": "A. DOMEYER",
+                    "Entraineur": "S J SNAITH",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "13",
+                    "": "28.80",
+                    "Pmu.fr": "37"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "SEVEN OCEANS (H7)",
+                    "Corde": "8",
+                    "Jockey": "G. VAN NIEKERK",
+                    "Entraineur": "S. NAGADOO",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "11",
+                    "": "28.80",
+                    "Pmu.fr": "47"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "BIANZINO (H6)",
+                    "Corde": "2",
+                    "Jockey": "R. FOURIE",
+                    "Entraineur": "A C GREEFF",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "10",
+                    "": "9.60",
+                    "Pmu.fr": "79"
+                }
+            ],
+            "nb_participants_partants": 82,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=162929",
+                    "Cheval": "ERTIJAAL",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3830&date=2015-01-31",
+                    "Jockey": "G. LERENA",
+                    "Cote": "3.1",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=48687",
+                    "Cheval": "ACT OF WAR",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3236&date=2015-01-31",
+                    "Jockey": "P. STRYDOM",
+                    "Cote": "1.4",
+                    "Ecart": "4 1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "5",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=177774",
+                    "Cheval": "LIQUID MERCURY",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3240&date=2015-01-31",
+                    "Jockey": "B. FAYD'HERBE",
+                    "Cote": "13",
+                    "Ecart": "CTETE"
+                },
+                {
+                    "Place": "4ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=181248",
+                    "Cheval": "ARNISTON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=2643&date=2015-01-31",
+                    "Jockey": "S. CORMACK",
+                    "Cote": "35",
+                    "Ecart": "CTETE"
+                },
+                {
+                    "Place": "4ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=101722",
+                    "Cheval": "KRAMBAMBULI",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3226&date=2015-01-31",
+                    "Jockey": "A. DOMEYER",
+                    "Cote": "37",
+                    "Ecart": "D/H"
+                },
+                {
+                    "Place": "6ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=44891",
+                    "Cheval": "CATKIN",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3237&date=2015-01-31",
+                    "Jockey": "K. NEISIUS",
+                    "Cote": "63",
+                    "Ecart": "3 1/2"
+                },
+                {
+                    "Place": "7ème",
+                    "": "10",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=183292",
+                    "Cheval": "BIANZINO",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3228&date=2015-01-31",
+                    "Jockey": "R. FOURIE",
+                    "Cote": "79",
+                    "Ecart": "3 1/2"
+                },
+                {
+                    "Place": "8ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=178384",
+                    "Cheval": "SEVEN OCEANS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=9938&date=2015-01-31",
+                    "Jockey": "G. VAN NIEKERK",
+                    "Cote": "47",
+                    "Ecart": "2 1/2"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2015-01-31/kenilworth/114127_klawervlei-majorca-stakes.html",
+                "https://www.canalturf.com/resultats-PMU/2015-01-31/kenilworth/114127_klawervlei-majorca-stakes.html"
+            ],
+            "prix": "76230",
+            "distance": "1600m",
+            "type_de_course": "PLAT",
+            "lieux": "7",
+            "heure": " 14:45 ",
+            "nom_de_la_course": "KLAWERVLEI MAJORCA STAKES",
+            "date": "2015-01-31",
+            "nb_participants": 14,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "1",
+                    "Cheval": "HAMMIE'S HOOKER (F6)",
+                    "Corde": "6",
+                    "Jockey": "B. FAYD'HERBE",
+                    "Entraineur": "M W BASS",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "9.7",
+                    "": "20.69",
+                    "Pmu.fr": "5.5"
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "PRICELESS JEWEL (F6)",
+                    "Corde": "5",
+                    "Jockey": "S. CORMACK",
+                    "Entraineur": "JOELMO DA SILVA PESSANHA",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "8",
+                    "": "10.75",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "ARCETRI PINK (F5)",
+                    "Corde": "3",
+                    "Jockey": "G. LERENA",
+                    "Entraineur": "G V WOODRUFF",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "16",
+                    "": "14.15",
+                    "Pmu.fr": "18"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "JET BELLE (F6)",
+                    "Corde": "4",
+                    "Jockey": "G. CHEYNE",
+                    "Entraineur": "G S KOTZEN",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "8.9",
+                    "": "20.69",
+                    "Pmu.fr": "10"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "JET AGLOW (F6)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "MAYBE YES (F5)",
+                    "Corde": "12",
+                    "Jockey": "P.-C. ORFFER",
+                    "Entraineur": "B CRAWFORD",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "30",
+                    "": "38.70",
+                    "Pmu.fr": "54"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "RED FLAME (F5)",
+                    "Corde": "14",
+                    "Jockey": "S. KHUMALO",
+                    "Entraineur": "N L BRUSS",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "11.33",
+                    "Pmu.fr": "15"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "JET SUPREME (F6)",
+                    "Corde": "9",
+                    "Jockey": "R. FOURIE",
+                    "Entraineur": "S J SNAITH",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "9.9",
+                    "": "20.69",
+                    "Pmu.fr": "22"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "SUPREME SUNSET (F5)",
+                    "Corde": "8",
+                    "Jockey": "A. DOMEYER",
+                    "Entraineur": "M W BASS",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "11",
+                    "": "38.70",
+                    "Pmu.fr": "31"
+                },
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "ACROSTAR (F5)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "LANNER FALCON (F5)",
+                    "Corde": "11",
+                    "Jockey": "K. NEISIUS",
+                    "Entraineur": "M W BASS",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "25.80",
+                    "Pmu.fr": "45"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "COLD AS ICE (F4)",
+                    "Corde": "7",
+                    "Jockey": "P. STRYDOM",
+                    "Entraineur": "J RAMSDEN",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "6.2",
+                    "": "2.64",
+                    "Pmu.fr": "2.6"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "INARA (F4)",
+                    "Corde": "1",
+                    "Jockey": "G. VAN NIEKERK",
+                    "Entraineur": "M W BASS",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "4.4",
+                    "": "3.80",
+                    "Pmu.fr": "5.6"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "CARRY ON ALICE (F5)",
+                    "Corde": "2",
+                    "Jockey": "G. BEHR",
+                    "Entraineur": "S G TARRY",
+                    "Poids": "55.0 kg",
+                    "Val.": "-",
+                    "Matin": "24",
+                    "": "14.15",
+                    "Pmu.fr": "15"
+                }
+            ],
+            "nb_participants_partants": 96,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "13",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=180182",
+                    "Cheval": "INARA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=9938&date=2015-01-31",
+                    "Jockey": "G. VAN NIEKERK",
+                    "Cote": "5.6",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "12",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=180178",
+                    "Cheval": "COLD AS ICE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3236&date=2015-01-31",
+                    "Jockey": "P. STRYDOM",
+                    "Cote": "2.6",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "3ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=137759",
+                    "Cheval": "JET BELLE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3679&date=2015-01-31",
+                    "Jockey": "G. CHEYNE",
+                    "Cote": "10",
+                    "Ecart": "1 1/4"
+                },
+                {
+                    "Place": "4ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=166161",
+                    "Cheval": "RED FLAME",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=6382&date=2015-01-31",
+                    "Jockey": "S. KHUMALO",
+                    "Cote": "15",
+                    "Ecart": "3/4"
+                },
+                {
+                    "Place": "5ème",
+                    "": "11",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=150670",
+                    "Cheval": "LANNER FALCON",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3237&date=2015-01-31",
+                    "Jockey": "K. NEISIUS",
+                    "Cote": "45",
+                    "Ecart": "CTETE"
+                },
+                {
+                    "Place": "6ème",
+                    "": "14",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=170757",
+                    "Cheval": "CARRY ON ALICE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=10062&date=2015-01-31",
+                    "Jockey": "G. BEHR",
+                    "Cote": "15",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "7ème",
+                    "": "1",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=133277",
+                    "Cheval": "HAMMIE'S HOOKER",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3240&date=2015-01-31",
+                    "Jockey": "B. FAYD'HERBE",
+                    "Cote": "5.5",
+                    "Ecart": "1/2"
+                },
+                {
+                    "Place": "8ème",
+                    "": "6",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=151330",
+                    "Cheval": "MAYBE YES",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=13960&date=2015-01-31",
+                    "Jockey": "P.-C. ORFFER",
+                    "Cote": "54",
+                    "Ecart": "2 1/2"
+                }
+            ]
+        },
+        {
+            "urls": [
+                "https://www.canalturf.com/pronostics-PMU/2015-01-31/kenilworth/114128_j-b-met.html",
+                "https://www.canalturf.com/resultats-PMU/2015-01-31/kenilworth/114128_j-b-met.html"
+            ],
+            "prix": "190575",
+            "distance": "2000m",
+            "type_de_course": "PLAT",
+            "lieux": "8",
+            "heure": " 15:45 ",
+            "nom_de_la_course": "J &amp; B MET",
+            "date": "2015-01-31",
+            "nb_participants": 15,
+            "list_participants_and_prono": [
+                {
+                    "nÂ°": "NP",
+                    "Cheval": "LEGISLATE (H5)",
+                    "Corde": ""
+                },
+                {
+                    "nÂ°": "2",
+                    "Cheval": "FUTURA (F3)",
+                    "Corde": "9",
+                    "Jockey": "B. FAYD'HERBE",
+                    "Entraineur": "D.WATRIGANT (S)",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "11",
+                    "": "3.91",
+                    "Pmu.fr": "3.4"
+                },
+                {
+                    "nÂ°": "3",
+                    "Cheval": "LOUIS THE KING (M5)",
+                    "Corde": "8",
+                    "Jockey": "P. STRYDOM",
+                    "Entraineur": "G V WOODRUFF",
+                    "Poids": "60.0 kg",
+                    "Val.": "-",
+                    "Matin": "2.5",
+                    "": "3.62",
+                    "Pmu.fr": "3"
+                },
+                {
+                    "nÂ°": "4",
+                    "Cheval": "GOLD ONYX (H9)",
+                    "Corde": "14",
+                    "Jockey": "G. BEHR",
+                    "Entraineur": "S G TARRY",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "39",
+                    "": "21.28",
+                    "Pmu.fr": "37"
+                },
+                {
+                    "nÂ°": "5",
+                    "Cheval": "JET EXPLORER (H8)",
+                    "Corde": "1",
+                    "Jockey": "G. CHEYNE",
+                    "Entraineur": "S J SNAITH",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "16",
+                    "": "39.80",
+                    "Pmu.fr": "17"
+                },
+                {
+                    "nÂ°": "6",
+                    "Cheval": "KILLUA CASTLE (H9)",
+                    "Corde": "10",
+                    "Jockey": "A. AUCHARUZ",
+                    "Entraineur": "G V WOODRUFF",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "4.1",
+                    "": "10.91",
+                    "Pmu.fr": "16"
+                },
+                {
+                    "nÂ°": "7",
+                    "Cheval": "TELLINA (H8)",
+                    "Corde": "3",
+                    "Jockey": "G. LERENA",
+                    "Entraineur": "WOHLER ANDREAS",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "23",
+                    "": "14.56",
+                    "Pmu.fr": "19"
+                },
+                {
+                    "nÂ°": "8",
+                    "Cheval": "PATERFAMILIAS (H7)",
+                    "Corde": "13",
+                    "Jockey": "P.-C. ORFFER",
+                    "Entraineur": "M W BASS",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "31",
+                    "": "26.53",
+                    "Pmu.fr": "76"
+                },
+                {
+                    "nÂ°": "9",
+                    "Cheval": "PUNTA ARENAS (F3)",
+                    "Corde": "12",
+                    "Jockey": "A. DOMEYER",
+                    "Entraineur": "V.NAHID",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "39",
+                    "": "39.80",
+                    "Pmu.fr": "40"
+                },
+                {
+                    "nÂ°": "10",
+                    "Cheval": "ASTRO NEWS (H7)",
+                    "Corde": "11",
+                    "Jockey": "L. MXOTHWA",
+                    "Entraineur": "S J SNAITH",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "156",
+                    "": "39.80",
+                    "Pmu.fr": "34"
+                },
+                {
+                    "nÂ°": "11",
+                    "Cheval": "DYNAMIC (F4)",
+                    "Corde": "6",
+                    "Jockey": "S. CORMACK",
+                    "Entraineur": "WJ.HAGGAS",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "14",
+                    "": "4.26",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "12",
+                    "Cheval": "JOHNNY ROCKETS (H6)",
+                    "Corde": "5",
+                    "Jockey": "M. J. BYLEVELD",
+                    "Entraineur": "S J SNAITH",
+                    "Poids": "58.5 kg",
+                    "Val.": "-",
+                    "Matin": "13",
+                    "": "39.80",
+                    "Pmu.fr": "36"
+                },
+                {
+                    "nÂ°": "13",
+                    "Cheval": "ARION (F3)",
+                    "Corde": "2",
+                    "Jockey": "S. KHUMALO",
+                    "Entraineur": "PALMER H.",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "31",
+                    "": "14.56",
+                    "Pmu.fr": "21"
+                },
+                {
+                    "nÂ°": "14",
+                    "Cheval": "POWER KING (H5)",
+                    "Corde": "7",
+                    "Jockey": "K. NEISIUS",
+                    "Entraineur": "A S CRUZ",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "18",
+                    "": "39.80",
+                    "Pmu.fr": "12"
+                },
+                {
+                    "nÂ°": "15",
+                    "Cheval": "HELDERBERG BLUE (H6)",
+                    "Corde": "15",
+                    "Jockey": "G. VAN NIEKERK",
+                    "Entraineur": "M W BASS",
+                    "Poids": "58.0 kg",
+                    "Val.": "-",
+                    "Matin": "24",
+                    "": "39.80",
+                    "Pmu.fr": "15"
+                }
+            ],
+            "nb_participants_partants": 38,
+            "resultat": [
+                {
+                    "Place": "1er",
+                    "": "2",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=149915",
+                    "Cheval": "FUTURA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3240&date=2015-01-31",
+                    "Jockey": "B. FAYD'HERBE",
+                    "Cote": "3.4",
+                    "Ecart": ""
+                },
+                {
+                    "Place": "2ème",
+                    "": "4",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=91800",
+                    "Cheval": "GOLD ONYX",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=10062&date=2015-01-31",
+                    "Jockey": "G. BEHR",
+                    "Cote": "37",
+                    "Ecart": "2 1/2"
+                },
+                {
+                    "Place": "3ème",
+                    "": "15",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=155226",
+                    "Cheval": "HELDERBERG BLUE",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=9938&date=2015-01-31",
+                    "Jockey": "G. VAN NIEKERK",
+                    "Cote": "15",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "4ème",
+                    "": "7",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=137767",
+                    "Cheval": "TELLINA",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3830&date=2015-01-31",
+                    "Jockey": "G. LERENA",
+                    "Cote": "19",
+                    "Ecart": "3/4"
+                },
+                {
+                    "Place": "5ème",
+                    "": "9",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=114296",
+                    "Cheval": "PUNTA ARENAS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3226&date=2015-01-31",
+                    "Jockey": "A. DOMEYER",
+                    "Cote": "40",
+                    "Ecart": "1 1/4"
+                },
+                {
+                    "Place": "6ème",
+                    "": "3",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=170782",
+                    "Cheval": "LOUIS THE KING",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3236&date=2015-01-31",
+                    "Jockey": "P. STRYDOM",
+                    "Cote": "3",
+                    "Ecart": "CTETE"
+                },
+                {
+                    "Place": "7ème",
+                    "": "14",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=151556",
+                    "Cheval": "POWER KING",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=3237&date=2015-01-31",
+                    "Jockey": "K. NEISIUS",
+                    "Cote": "12",
+                    "Ecart": "TETE"
+                },
+                {
+                    "Place": "8ème",
+                    "": "8",
+                    "fiche_cheval": "https://www.canalturf.com/courses_fiche_cheval.php?idcheval=134566",
+                    "Cheval": "PATERFAMILIAS",
+                    "fiche_jockey": "https://www.canalturf.com/courses_fiche_jockey.php?idjockey=13960&date=2015-01-31",
+                    "Jockey": "P.-C. ORFFER",
+                    "Cote": "76",
+                    "Ecart": "1"
+                }
+            ]
+        }
+    ],
+    "nb_courses": 3
+}
